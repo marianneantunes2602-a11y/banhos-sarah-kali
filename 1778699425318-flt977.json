@@ -1,0 +1,49 @@
+{
+  "previa": "Olha, Adona, tô vendo que tu quer se blindar de toda energia negativa. Preparei um banho poderoso de proteção pra te ajudar nisso. Clica aqui e vê como te fortalecer. ✨",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Amiga, tô vendo que tu tá sentindo umas energias pesadas rondando. Esse banho aqui é pra te blindar, criar uma couraça firme contra tudo que não presta.",
+  "ervas_principais": [
+    {
+      "nome": "Arruda",
+      "descricao": "bloqueia e manda embora energia ruim de perto de ti"
+    },
+    {
+      "nome": "Alecrim",
+      "descricao": "levanta teu espírito e ilumina tua energia"
+    },
+    {
+      "nome": "Comigo-ninguém-pode",
+      "descricao": "ergue uma barreira contra inveja e mau-olhado"
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "Sal grosso",
+      "descricao": "purifica e limpa a aura"
+    },
+    {
+      "nome": "Hortelã",
+      "descricao": "traz leveza e frescor pro teu campo energético"
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água com as ervas por 10 minutos",
+    "Desliga o fogo e deixa em infusão até esfriar",
+    "Coa a mistura, reservando as ervas",
+    "Após teu banho habitual, despeja o preparado do pescoço pra baixo",
+    "Visualiza uma luz forte ao teu redor, como escudo, e não se enxágue"
+  ],
+  "dia": "Sábado",
+  "dia_desc": "limpeza e proteção",
+  "lua": "Minguante",
+  "lua_desc": "pra cortar e proteger",
+  "dicas": [
+    "Evita lugares muito cheios ou pesados no dia do banho, preserva tua energia.",
+    "Coloca um copo com água e sal grosso na entrada da tua casa, isso ajuda a absorver negatividade.",
+    "Limpa com pano úmido as maçanetas e portas, tirando o que pode trazer energia ruim."
+  ],
+  "oracao": "Eu decreto minha proteção agora.\n\nEsta água que cai sela meu campo contra toda energia negativa.\n\nEu sou cercada por um escudo de luz pura e impenetrável.\n\nNada que não for do bem me atinge ou me toca.\n\nA inveja, o mau-olhado e a negatividade são repelidos.\n\nEu me blindao e me protejo com a força das ervas e da natureza.\n\nMinhas paredes de proteção são firmes e inquebráveis.\n\nAssim eu falo. Assim se cumpre.",
+  "frase_final": "Cercada de luz, nada de ruim te toca.",
+  "nome": "Adona"
+}
