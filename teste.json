@@ -1,13 +1,53 @@
 {
   "nome": "Mariane",
-  "titulo": "✨ Banho de Teste — Sistema Funcionando ✨",
-  "saudacao": "Mariane, este é um banho de teste pra confirmar que o sistema tá no ar. Se você tá lendo isto, deu tudo certo. 💜",
-  "ervas": "<strong>Alecrim</strong> — pra clareza e proteção\n\n<strong>Manjericão</strong> — pra prosperidade e abertura de caminhos\n\n<strong>Sal grosso</strong> — pra limpeza energética profunda",
-  "preparo": "Ferva 1 litro de água. Desligue o fogo e jogue um punhado de cada erva. Tampe e deixe descansar por 10 minutos. Coe e separe o líquido. Tome seu banho normal. Ao final, jogue a mistura do pescoço pra baixo, sem enxaguar. Se vista com roupa clara.",
-  "dia": "Quinta-feira",
-  "dia_desc": "Júpiter · expansão e abertura",
+  "previa": "Olha, Mariane... minha cigana já tá vendo o que tá travando aí. As cartas falaram alto hoje. Preparei um banho que vai limpar essa parada que te ronda há um tempo e abrir o caminho pra coisa boa entrar. Confia. 🌿",
+  "titulo": "Banho de",
+  "titulo_destaque": "Felicidade",
+  "saudacao": "Tô vendo aqui que tu tá carregando peso que não é teu. Esse banho aqui é pra tu botar pra fora o que travou e abrir espaço pro novo entrar. Confia no processo, amiga.",
+  "ervas_principais": [
+    {
+      "nome": "Alecrim",
+      "descricao": "limpa o pesado e devolve a clareza"
+    },
+    {
+      "nome": "Lavanda",
+      "descricao": "acalma o coração e traz o equilíbrio"
+    },
+    {
+      "nome": "Camomila",
+      "descricao": "amacia a alma, dá paz e serenidade"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "abre o peito pro amor-próprio florescer"
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "Casca de laranja",
+      "descricao": "traz alegria, renova o ânimo"
+    },
+    {
+      "nome": "Manjericão",
+      "descricao": "protege e atrai as boas vibrações"
+    }
+  ],
+  "preparo": [
+    "Ferve 1 litro de água com todas as ervas, fogo médio.",
+    "Desliga o fogo e deixa em infusão tampado por 10 minutos.",
+    "Coa tudo e separa o líquido morno num pote limpo.",
+    "Toma teu banho normal primeiro, depois despeja a mistura do pescoço pra baixo.",
+    "Não enxágua. Se veste com roupa clara e pensa no que tu quer pra ti."
+  ],
+  "dia": "Sexta-feira",
+  "dia_desc": "Vênus · amor e leveza",
   "lua": "Crescente",
-  "lua_desc": "atrai e expande",
-  "dicas": "Tome o banho ao entardecer.\n\nNão olhe pra trás ao sair do banheiro.\n\nEvite contato com pessoas pesadas nas 24h seguintes.",
-  "oracao": "Esta água que cai me lava de tudo que não me pertence.\n\nEu DECRETO: o que veio pra atrapalhar, vai embora agora.\n\nEsta força me cobre, esta luz me veste.\n\nEu TOMO meus caminhos de volta.\n\nAssim eu falo. Assim se cumpre. Amém."
+  "lua_desc": "atrai e expande o que é bom",
+  "dicas": [
+    "Acende uma vela branca e bota tua música favorita antes de entrar. Faz disso um momento só teu.",
+    "Saindo do banho, não fica perto de gente carregada não. Se puder, dorme cedo, deixa a noite cuidar de ti.",
+    "Guarda o que sobrou da mistura num pote e joga no quintal de manhã, com gratidão."
+  ],
+  "oracao": "Esta água que cai me lava de tudo que não me pertence.\n\nEu DECRETO: o que veio pra travar, sai agora.\n\nEsta mistura escorre e leva o pesado embora.\n\nEu RECEBO a leveza, eu RECEBO a alegria.\n\nMeu coração se abre, meu peito se enche de luz.\n\nEu TOMO meu caminho de volta, eu FLORESÇO outra vez.\n\nAssim eu falo. Assim se cumpre.",
+  "frase_final": "Tu floresce, mesmo que a chuva volte."
 }
