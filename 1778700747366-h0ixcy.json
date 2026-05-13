@@ -1,0 +1,52 @@
+{
+  "previa": "Marcia, tô vendo que essa parada de encosto tá te pesando. Vamos cuidar disso com um banho poderoso de proteção, minha flor. Bora afastar essa energia negativa de você e trazer leveza pra sua vida. 🌿",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Oi, Marcia! Olha só, entendi bem a situação que você tá vivendo. Esses encostos não têm vez por aqui. Vou te passar um banho que vai criar uma barreira de proteção ao seu redor. Vamos mandar essas energias embora, tá bom?",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "A poderosa arruda afasta toda energia ruim que estiver grudando em você."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "O sal grosso é um verdadeiro escudo, neutralizando más vibrações."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "O alecrim traz purificação e fortalece sua energia pessoal."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "O eucalipto limpa qualquer resquício de energia negativa."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "A hortelã refresca e renova suas forças."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione a arruda, sal grosso, alecrim, eucalipto e hortelã.",
+    "Deixe a infusão descansar por 15 minutos com a panela tampada.",
+    "Coe tudo, levando as folhas pro lixo, e reserve a água.",
+    "Após o banho higiênico, derrame a infusão do pescoço pra baixo, mentalizando a proteção desejada."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, ideal pra banir essas energias densas.",
+  "lua": "Minguante",
+  "lua_desc": "A fase perfeita pra cortar e afastar essas influências negativas.",
+  "dicas": [
+    "Enquanto prepara o banho, acenda uma vela branca e peça proteção.",
+    "Use uma peça de roupa azul após o banho para reforçar a proteção.",
+    "Mantenha um galho de arruda na bolsa ou na carteira."
+  ],
+  "oracao": "Oh, forças divinas, eu (seu nome) peço que esta água leve embora toda energia de encosto que tem se colocado no meu caminho. Que cada gota seja uma muralha de luz e proteção, afastando tudo o que não me pertence e reforçando meu campo energético. Que a arruda seja meu escudo, o sal grosso meu purificador, e o alecrim minha força renovada. Estou segura, protegida e em paz. Assim seja.",
+  "frase_final": "Energias negativas, fora! Proteção garantida.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Marcia, esse banho vai dar aquele escudo que você precisa 🌿. Mas pra entender de onde vem esse encosto todo e cortar isso pela raiz, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Que tal descobrir o que tá escrito nas suas estrelas? 🔮",
+  "nome": "MARCIA",
+  "primeiroNome": "Marcia"
+}
