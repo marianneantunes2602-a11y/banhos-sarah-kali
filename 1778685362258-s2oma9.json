@@ -1,0 +1,49 @@
+{
+  "previa": "Vê só, minha flor... tô sentindo que esse banho vai te ajudar a virar o jogo, limpar essa energia pesada que não te pertence 🌿. Prepara que a força vem boa, segura aí que é pra abrir caminho.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Limpeza",
+  "saudacao": "Tô vendo aqui que tu tá carregando peso que não é teu. Esse banho aqui é pra tu botar pra fora o que travou e abrir espaço pro novo entrar. Confia no processo, amiga.",
+  "ervas_principais": [
+    {
+      "nome": "Alecrim",
+      "descricao": "tira energia ruim e dá clareza na mente"
+    },
+    {
+      "nome": "Arruda",
+      "descricao": "queima o que prende e afasta inveja e mau-olhado"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "absorve a sujeira espiritual e limpa o ambiente"
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "Casca de laranja",
+      "descricao": "devolve alegria e traz leveza no cheiro"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "abre o coração e ajuda no equilíbrio emocional"
+    }
+  ],
+  "preparo": [
+    "Ferve 1 litro de água com alecrim, arruda e sal grosso, fogo médio.",
+    "Desliga e deixa a mistura descansar até amornar, uns 20 minutos.",
+    "Coe tudo com cuidado para tirar as folhas e o sal.",
+    "Toma seu banho normal primeiro, depois joga essa água do pescoço para baixo.",
+    "Não enxágua; deixa essa energia boa penetrar e agradece o banho."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno · limpeza pesada, corte, proteção",
+  "lua": "Minguante",
+  "lua_desc": "cortar, limpar, liberar",
+  "dicas": [
+    "Faz o banho no fim do dia, quando a energia pesada já cansou.",
+    "Joga fora essa água no quintal ou na terra, longe da casa.",
+    "Evita conversar com gente que te traz peso logo depois do banho."
+  ],
+  "oracao": "Eu chamo a força da água que lava e purifica meu ser.\n\nEsta água que cai sobre mim queima toda a energia ruim que me prende.\n\nEu decreto minha libertação de tudo que não me serve mais.\n\nEu rompo os laços invisíveis que me prendem ao que pesa.\n\nEu tomo de volta minha paz, meu espaço, minha força.\n\nEsta mistura escorre e leva embora toda a tristeza e medo.\n\nEu recebo agora a proteção que me cerca e me fortalece.\n\nAssim eu falo. Assim se cumpre.",
+  "frase_final": "Os caminhos se abrem pra quem caminha, fia.",
+  "nome": "Mariane aaaa"
+}
