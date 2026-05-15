@@ -1,0 +1,52 @@
+{
+  "previa": "Sarah, tô vendo que quer dar uma apimentada no romance. Vamos atrair as energias do amor pro teu relacionamento com esse banho especial. Bora lá!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Minha flor, vi que tá querendo atrair o maridão de volta, né? Vamos preparar um banho daqueles pra reavivar o amor e a paixão que vocês têm um pelo outro. Vai ser poder puro!",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Rosa é a rainha do amor, traz carinho e romance."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "É bom para reviver memórias amorosas e atrair boas energias."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Apimenta as relações e traz aquele calor pra paixão."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "manjericão",
+      "descricao": "Para harmonia e reconciliação no amor."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e renova as energias do amor."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e, fora do fogo, adiciona as pétalas de rosa, alecrim e canela.",
+    "Deixe descansar por uns 15 minutos, permitindo que tudo se misture bem.",
+    "Coe as ervas, pensando no amor renovado entre vocês dois.",
+    "Leve o banho coado pro banheiro e, após o teu banho habitual, derrame do pescoço pra baixo.",
+    "Enquanto a água cai, imagine momentos felizes com teu marido, sente o amor fluindo."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "O dia de Vênus, perfeito para assuntos do coração e amor.",
+  "lua": "Crescente",
+  "lua_desc": "Para atrair e intensificar o amor no relacionamento.",
+  "dicas": [
+    "Acenda uma vela rosa enquanto toma o banho, reforça a intenção.",
+    "Use uma peça de roupa vermelha depois do banho pra atrair paixão.",
+    "Pense em momentos felizes que já compartilharam enquanto derrama a água."
+  ],
+  "oracao": "Ó Vênus, deusa do amor e da paixão, abençoe este banho com seu poder atrativo. Que as águas levem embora qualquer distanciamento e tragam de volta a ligação amorosa entre mim e meu marido. Assim como as águas fluem, que nosso amor floresça, forte e vibrante. A cada gota que toca minha pele, sinto seu calor e conforto. Declaro que o amor entre nós se renova e se fortalece, e que somos felizes juntos. Gratidão por seu auxílio, ó Vênus, que torna esta união inquebrável. Assim é, assim será.",
+  "frase_final": "Faça esse banho e sinta o amor reacender!",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Sarah, esse banho vai ajudar a reavivar a paixão entre vocês. Mas pra entender melhor o que fortalece o amor de vocês e como ele pode crescer, que tal um **Mapa do Amor** por apenas R$ 9,98? Mostra os caminhos do coração. Quer descobrir mais sobre isso? 💜",
+  "nome": "Sarah",
+  "primeiroNome": "Sarah"
+}
