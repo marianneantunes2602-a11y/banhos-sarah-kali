@@ -1,0 +1,52 @@
+{
+  "previa": "Cassiana, vamos abrir os caminhos e trazer paz pra tua família. O banho certo vai harmonizar o ambiente e liberar o que tá travado. Confia na força das ervas e na energia positiva que vai fluir.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Abertura de Caminhos",
+  "saudacao": "Cassiana, minha flor, tô vendo aqui que você tá precisando de paz familiar e uma abertura de caminhos. Vamos harmonizar essa energia e trazer a leveza que você tanto busca. Confia e vem comigo.",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Erva poderosa pra abrir caminhos e limpar energias."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai proteção e equilíbrio, trazendo paz pro lar."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Ativa a prosperidade e a harmonia familiar."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca a mente e renova as energias do ambiente."
+    },
+    {
+      "nome": "louro",
+      "descricao": "Erva da vitória e sucesso, abre os caminhos com serenidade."
+    }
+  ],
+  "preparo": [
+    "Coloque 3 litros de água pra ferver.",
+    "Adicione o alecrim, manjericão e canela na água fervente.",
+    "Desligue o fogo e acrescente a hortelã e louro, deixando em infusão por 10 minutos.",
+    "Coe o banho e leve ao banheiro.",
+    "Durante o banho, mentalize sua casa em paz e os caminhos se abrindo, deixando a água levar embora qualquer peso."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Acenda uma vela branca antes do banho para simbolizar paz.",
+    "Faça o banho em silêncio, conectando-se com as ervas.",
+    "Visualize sua família em harmonia durante o banho."
+  ],
+  "oracao": "Divina força do universo, abro-me para a paz e a harmonia em minha família. Que esta água, carregada com as energias das ervas, leve embora todo obstáculo e traga clareza nos caminhos. Senhor da abundância, Júpiter, abençoe minha casa com prosperidade e amor. Que cada gota deste banho seja uma renovação, trazendo luz e proteção para todos que aqui habitam. Acolho a serenidade e a união. Assim seja.",
+  "frase_final": "Os caminhos estão se abrindo pra você e sua família.",
+  "upsell_produto": "Simpatia",
+  "upsell_mensagem": "Cassiana, esse banho vai harmonizar as energias em casa. Agora, se quer um ritual específico pra fortalecer ainda mais essa paz familiar, posso te preparar uma **Simpatia** por apenas R$ 9,98. Vamos firmar essa intenção juntas? 🌿",
+  "nome": "Cassiana Barcia",
+  "primeiroNome": "Cassiana"
+}
