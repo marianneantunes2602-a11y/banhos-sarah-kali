@@ -1,0 +1,52 @@
+{
+  "previa": "Mari, vamos potencializar seu magnetismo com um banho poderoso. Vou te ensinar o caminho pra atrair o que você deseja. Prepara as ervas e o coração pra receber esse brilho todo.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Magnetismo",
+  "saudacao": "Oi, Mari! Tô vendo aqui que você quer aumentar seu magnetismo, né? Vamos dar aquele toque especial no seu astral pra você brilhar e atrair o que deseja. Confia que esse banho vai ser a chave!",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Pra trazer aquele toque de amor e beleza que encanta."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Essa erva poderosa atrai boas energias e abre caminhos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aquece e magnetiza, trazendo força pra sua intenção."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "alecrim",
+      "descricao": "Revitaliza e aumenta a confiança, essencial pro magnetismo."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e traz clareza, ajudando a destacar sua presença."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as pétalas de rosa, manjericão, canela, alecrim e hortelã.",
+    "Deixe em infusão por 15 minutos, enquanto mentaliza seu desejo de magnetismo.",
+    "Coe e leve o banho pro chuveiro. Após seu banho normal, jogue essa água do pescoço pra baixo.",
+    "Enquanto a água escorre, sinta-se poderosa e atraente. Imagine seu magnetismo se expandindo."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Dia de Vênus, perfeito para aumentar sua beleza e magnetismo.",
+  "lua": "Crescente",
+  "lua_desc": "Fase ideal pra atrair e aumentar energias positivas.",
+  "dicas": [
+    "Use uma roupa que te faça sentir confiante após o banho.",
+    "Acenda uma vela rosa enquanto toma o banho, evocando amor e beleza.",
+    "Pratique afirmações de autoconfiança diariamente pra manter o brilho."
+  ],
+  "oracao": "Ó Universo, que a força do meu magnetismo seja renovada por esta água sagrada. Que a energia das ervas aumente o meu poder de atração, trazendo pra perto de mim todas as bênçãos e oportunidades que almejo. Que minha presença seja sentido por onde eu passar, irradiando beleza, amor e confiança. A água leva embora qualquer insegurança, abrindo espaço pra meu verdadeiro brilho se manifestar. Assim seja, assim já é.",
+  "frase_final": "Seu magnetismo tá pronto pra arrasar, Mari!",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Mari, esse banho vai aumentar seu magnetismo com certeza! Mas se quiser entender ainda mais sobre a sua energia amorosa e como atrair a pessoa certa, posso fazer um **Mapa do Amor** por só R$ 9,98. Ele revela os teus padrões e como usar teu charme natural. Quer descobrir mais? 💜",
+  "nome": "Mari",
+  "primeiroNome": "Mari"
+}
