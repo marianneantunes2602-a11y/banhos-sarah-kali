@@ -1,0 +1,52 @@
+{
+  "previa": "Najiane, tô vendo que você tá precisando daquela força pra abrir seus caminhos. Vou te ensinar um banho poderoso pra ajudar nessa jornada. Prepara o coração e vem comigo!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Abertura de Caminho",
+  "saudacao": "Oi, minha flor! Sei que você tá buscando uma abertura de caminhos, e é pra isso que eu tô aqui. Vamos preparar um banho especial, cheio de boas energias pra te ajudar a desatar esses nós.",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Trás clareza e proteção, ajudando a abrir cabeças e caminhos."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e novas oportunidades, deixando as portas abertas."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Renova as energias, trazendo otimismo e vitalidade."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Revigora e limpa, afastando energias que bloqueiam."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Estimula a coragem e atrai boas vibrações."
+    }
+  ],
+  "preparo": [
+    "Coloque 2 litros de água pra ferver.",
+    "Adicione as ervas e deixe ferver por 10 minutos.",
+    "Desligue o fogo e coe o banho, separando as ervas.",
+    "Com a água morna, jogue do pescoço pra baixo, mentalizando seus caminhos se abrindo.",
+    "As ervas coadas, vai lá e joga fora num jardim ou num vaso."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair novas oportunidades",
+  "dicas": [
+    "Faça esse banho em um momento de calma, com músicas que te elevem.",
+    "Acenda uma vela branca enquanto toma o banho, pedindo iluminação.",
+    "Depois do banho, use roupas claras, de preferência novas ou bem cuidadas."
+  ],
+  "oracao": "Deusas e Deuses do universo, eu peço que a água leve embora toda a energia de bloqueio em meu caminho. Que cada gota que escorre por minha pele abra caminhos de oportunidades e prosperidade. Que o alecrim traga clareza e proteção, o manjericão atraia boas novas, e a laranja renove meu espírito. Eu decreto, com fé e coração aberto, que estou pronta para receber e aproveitar tudo de bom que o universo tem a me oferecer. Que assim seja, e assim se faça!",
+  "frase_final": "Que seus caminhos se abram como nunca, Najiane!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Najiane, esse banho vai destravar seus caminhos 🌿 Pra saber as datas e oportunidades certas nos próximos 12 meses, posso te preparar um **Mapa Anual** por só R$ 9,98. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Najiane de Jesus santos",
+  "primeiroNome": "Najiane"
+}
