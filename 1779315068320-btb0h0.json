@@ -1,0 +1,52 @@
+{
+  "previa": "Anye, tô vendo que tua vida financeira tá pedindo uma virada. Esse banho vai abrir teus caminhos e blindar tua energia. Vamos alinhar essa prosperidade, amiga!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade e Proteção",
+  "saudacao": "Oi Anye, tô aqui pra te ajudar a destravar essa energia. Vamos blindar tua força e atrair a prosperidade que você merece. Presta atenção nesse banho poderoso!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai abundância e boas energias, trazendo prosperidade e sucesso."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Fortalece a proteção e renova o ânimo, clareando os caminhos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aumenta a prosperidade e afasta a negatividade com sua energia quente."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "arruda",
+      "descricao": "Afasta o mau-olhado e limpa energias negativas."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Purifica e protege contra energias pesadas."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione manjericão, alecrim, canela, arruda e sal grosso na água.",
+    "Deixe a infusão descansar por 15 minutos, coberta.",
+    "Após o banho higiênico, jogue a mistura do pescoço pra baixo, mentalizando prosperidade e proteção.",
+    "Enquanto a água escorre, sinta a leveza e a limpeza te envolvendo, abrindo caminhos."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Quinta-feira é regida por Júpiter, propícia para atrair prosperidade e abundância.",
+  "lua": "Crescente",
+  "lua_desc": "A Lua Crescente é ideal para atrair novas oportunidades e crescimento.",
+  "dicas": [
+    "Acenda uma vela dourada enquanto toma o banho, reforçando a intenção de prosperidade.",
+    "Após o banho, use roupas claras, trazendo leveza e abertura de caminhos.",
+    "Medite por alguns minutos, visualizando seus objetivos financeiros sendo alcançados."
+  ],
+  "oracao": "Grande Espírito, peço tua força e proteção. Que a água leve embora tudo que me trava, me abrindo caminhos de prosperidade e sucesso. Que eu seja protegida de toda inveja e negatividade, e que minha luz brilhe intensamente, atraindo abundância e oportunidades. Que eu tenha sabedoria pra aproveitar cada porta que se abrir, com coragem e firmeza. Assim seja, assim se faça.",
+  "frase_final": "Vai com fé, Anye, que o caminho tá aberto! 🌟",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Anye, esse banho vai abrir seus caminhos 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Anye Karoline de Jesus",
+  "primeiroNome": "Anye"
+}
