@@ -1,0 +1,52 @@
+{
+  "previa": "Vanessa, tô vendo que a saudade tá apertando. Vamos preparar um banho de amor pra trazer Vagner de volta com mais afeto e harmonia. Prepara o coração, amiga!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Oi, Vanessa! Olha só, amor é uma energia poderosa, e tô contigo nessa jornada. Vamos fazer um banho especial pra criar um campo magnético de amor e atrair o Vagner de volta com carinho renovado.",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Rosas são as rainhas do amor, trazem beleza e atraem sentimentos puros."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aquece e adoça, trazendo a essência do amor e da paixão."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Facilita a reconciliação e mantém o amor fresco e vivo."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "alecrim",
+      "descricao": "Estimula a força do coração e renova as esperanças."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e limpa, abre caminhos para novas chances no amor."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as pétalas de rosa, canela e manjericão, deixando em infusão por 20 minutos.",
+    "Coe e leve o banho pro banheiro.",
+    "Após seu banho de higiene, jogue a mistura do pescoço pra baixo.",
+    "Enquanto a água escorre, imagine o Vagner voltando com amor e carinho renovados."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Dia regido por Vênus, ideal para assuntos do coração e fortalecer o amor.",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita para atrair novos momentos e fortalecer laços amorosos.",
+  "dicas": [
+    "Acenda uma vela rosa antes do banho, pedindo harmonia e reconciliação.",
+    "Use uma peça de roupa cor-de-rosa após o banho para intensificar a energia do amor.",
+    "Escreva uma carta ao Vagner expressando seu desejo de reconciliação e guarde-a sob o travesseiro."
+  ],
+  "oracao": "Deusa do Amor, que as águas deste banho sejam veículo de carinho e atração. Que o coração de Vagner sinta minha saudade e nosso amor seja fortalecido. Que toda palavra de amor que eu disser retorne multiplicada, e que nosso reencontro seja regado de carinho e compreensão. Deixo que a água leve embora qualquer mágoa e traga de volta a chama que nos uniu. Assim é.",
+  "frase_final": "Coloque seu coração nas mãos do universo, Vanessa.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Vanessa, o banho vai promover essa reaproximação 💕 Mas pra entender melhor como você e Vagner combinam, posso te preparar um **Mapa do Amor** por só R$ 9,98. Ele vai mostrar os padrões e como fortalecer o laço entre vocês. Quer descobrir mais sobre essa relação? 🌙",
+  "nome": "vanessa",
+  "primeiroNome": "Vanessa"
+}
