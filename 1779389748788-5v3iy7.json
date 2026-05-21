@@ -1,0 +1,52 @@
+{
+  "previa": "Dani, tô vendo que você precisa de uma limpeza espiritual poderosa. Vamos usar ervas que vão dissolver os bloqueios e trazer leveza pra sua vida. Confia, amiga, que a água leva embora o que não serve mais.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Limpeza Espiritual",
+  "saudacao": "Oi, Dani! Olha só, esse banho vai ser o teu aliado para liberar tudo que tá te travando. Vamos limpar essas energias e te abrir os caminhos com a força das ervas. Bora renovar essa energia!",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Essa aí é potente pra afastar energias ruins, viu?"
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Poderoso pra limpar e purificar o corpo e a mente."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o astral e traz clareza pra mente."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Ajuda a purificar e revigorar."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e renova as energias do corpo."
+    }
+  ],
+  "preparo": [
+    "Ferve um litro de água e desliga o fogo.",
+    "Adiciona as ervas principais e deixa em infusão por 15 minutos.",
+    "Coa e leva o banho pro banheiro.",
+    "Após o banho higiênico, joga a mistura do pescoço pra baixo, mentalizando a limpeza.",
+    "Deixa a água levar embora todo o peso acumulado, confiando na força desse ritual."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, ideal para limpeza e renovação.",
+  "lua": "Minguante",
+  "lua_desc": "Perfeita para cortar energias negativas e dissolver bloqueios.",
+  "dicas": [
+    "Acende uma vela branca durante o banho pra potencializar a limpeza.",
+    "Usa uma roupa clara depois do banho, pra simbolizar renovação.",
+    "Evita contato com pessoas negativas logo após o ritual, pra manter a energia limpa."
+  ],
+  "oracao": "Eu, Dani, clamo pela força das ervas e da água, para que toda energia negativa seja dissolvida e levada embora. Que a arruda afaste o mal, que o sal grosso purifique minha alma, que o alecrim traga clareza de espírito. Que o eucalipto e o hortelã renovem meu corpo e mente, abrindo meus caminhos de luz e paz. A cada gota que cai, eu sinto o peso se esvaindo. Que a água limpe tudo que não me serve mais. Agradeço por essa renovação e por abrir meus caminhos para o novo. Assim seja.",
+  "frase_final": "Confia, Dani, a água leva embora o que pesa.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Dani, esse banho vai dar aquela limpeza espiritual 🌿. Mas se tu quer entender o porquê desse peso e cortar a raiz, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Quer ver o que tá escrito nas tuas estrelas? 🔮",
+  "nome": "Dani Pizzinatto",
+  "primeiroNome": "Dani"
+}
