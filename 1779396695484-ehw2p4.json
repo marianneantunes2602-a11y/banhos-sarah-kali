@@ -1,0 +1,52 @@
+{
+  "previa": "Ana, abrindo as portas que levam à sua nova casa! Esse banho vai dar aquele empurrãozinho que você precisa pra atrair a prosperidade e facilitar seu novo negócio.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi Ana, tô vendo que você tá num momento importante, buscando abrir caminhos pra conquistar a casa dos seus sonhos. Vamos dar uma força pra sua prosperidade chegar.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai boa sorte e faz a energia fluir, chamando a abundância."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Traz clareza e purifica as intenções, abrindo caminhos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Potente pra atrair dinheiro e intensificar a ação das outras ervas."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Energia solar, vitalidade e sucesso nos negócios."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Protege e atrai boas oportunidades."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e, ao desligar o fogo, adicione as ervas.",
+    "Deixe descansar por 15 minutos com a panela tampada.",
+    "Coe o banho, mentalizando a casa dos seus sonhos.",
+    "Após o seu banho habitual, jogue a mistura do pescoço pra baixo.",
+    "Enquanto a água corre, visualize cada porta se abrindo pra sua prosperidade."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair abundância e crescimento",
+  "dicas": [
+    "Escreva em papel o valor que precisa para a casa e visualize.",
+    "Coloque uma canela em pó na carteira para atrair dinheiro.",
+    "Mantenha a mente positiva, focando sempre no que deseja alcançar."
+  ],
+  "oracao": "Grande Força do Universo, venho em nome da abundância e da prosperidade que sempre fluem na minha vida. Como a água que corre, que todo o obstáculo seja levado embora, abrindo caminhos para que eu alcance a casa dos meus sonhos. Invoco o poder do manjericão, do alecrim e da canela para atrair a prosperidade e as oportunidades perfeitas. Que cada porta, antes trancada, se abra suavemente com o meu toque. Que o sucesso caminhe ao meu lado e que eu receba com gratidão tudo o que é meu por direito. Assim seja, assim é.",
+  "frase_final": "Vai lá, Ana, e abre os caminhos pra sua nova casa!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Ana, o banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Ana Cristina Freitas do santos",
+  "primeiroNome": "Ana"
+}
