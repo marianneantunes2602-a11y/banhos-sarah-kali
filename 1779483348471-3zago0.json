@@ -1,0 +1,52 @@
+{
+  "previa": "Mariane, vamos limpar esse odu e trazer positividade pra sua vida. Tenho o banho certo pra você cortar esse peso e abrir novos caminhos. Vem cá, que vou te explicar tudo direitinho!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Limpeza",
+  "saudacao": "Mariane, minha flor, tô vendo aqui que você precisa dar um jeito nesse odu que tá pesando. Vamos fazer um banho bem poderoso pra limpar essa energia e abrir os caminhos novamente.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Poderosa pra cortar olho gordo e energias pesadas."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Grande purificador, dissolve tudo que é negativo."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta a energia e traz clareza mental."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Renova os ares e refresca o espírito."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Desperta e abre os caminhos com seu frescor."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione todas as ervas e deixe descansar por 10 minutos.",
+    "Coe a mistura, mentalizando a limpeza do seu odu.",
+    "No banho, jogue a mistura do pescoço pra baixo, sentindo a água levar embora o peso.",
+    "Vista roupas claras e agradeça por essa renovação."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, ideal pra limpeza e renovação.",
+  "lua": "Minguante",
+  "lua_desc": "Perfeita pra cortar e banir energias negativas.",
+  "dicas": [
+    "Mantenha a mente focada na intenção de limpeza durante o banho.",
+    "Após o banho, acenda uma vela branca em agradecimento.",
+    "Evite lugares muito movimentados nesse dia para manter a energia tranquila."
+  ],
+  "oracao": "Divina energia do universo, peço que purifique o meu caminho e limpe qualquer negatividade deste odu que pesa sobre mim. Que a água leve embora toda a energia que não me serve mais, abrindo espaço para a luz e a positividade. Que as ervas sagradas carreguem suas propriedades curativas, restaurando a harmonia e a paz em minha vida. Eu decreto que o meu odu agora se ilumina, resplandecente e cheio de poder. Assim é, assim será.",
+  "frase_final": "Renove-se, Mariane, e sinta a leveza do novo.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Mariane, esse banho vai tirar a camada de cima. Pra entender de onde vem esse peso, e cortar a raiz, dá pra fazer um **Mapa Astral** por apenas R$ 9,98. Quer ver o que tá escrito nas tuas estrelas? 🔮",
+  "nome": "Mariane",
+  "primeiroNome": "Mariane"
+}
