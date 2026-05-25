@@ -1,0 +1,52 @@
+{
+  "previa": "Weverton, tô vendo que você precisa de uma proteção forte e abrir caminhos. Vamos preparar um banho poderoso pra te ajudar a se sentir mais leve e abrir espaço pra novos começos.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Weverton, minha flor, vamos cuidar de você. Proteção é fundamental pra gente seguir com tranquilidade. Esse banho vai te ajudar a fechar o corpo contra energias ruins e abrir os caminhos que você tanto precisa.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "A arruda é poderosa na defesa, bloqueando energias negativas."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "O sal grosso é um dos melhores aliados pra descarrego e proteção."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "O alecrim revigora as energias e traz claridade aos pensamentos."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "O eucalipto limpa e purifica, afastando as negatividades."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "A hortelã refresca e renova, abrindo as portas para o novo."
+    }
+  ],
+  "preparo": [
+    "Colhe as ervas com carinho, sentindo a energia de cada uma.",
+    "Ferve dois litros de água e apaga o fogo. Adiciona as ervas.",
+    "Tampa a panela e deixa em infusão por 20 minutos.",
+    "Depois do banho normal, despeja a mistura do pescoço pra baixo, pensando nos caminhos abertos.",
+    "Mentaliza as energias ruins indo embora enquanto a água escorre."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Sábado é o dia ideal pra limpeza e proteção com a força de Saturno.",
+  "lua": "Minguante",
+  "lua_desc": "A Lua Minguante ajuda a cortar tudo que bloqueia e atrapalha.",
+  "dicas": [
+    "Faz o banho num lugar tranquilo, onde você possa relaxar.",
+    "Mantém um copo com água e sal grosso no quarto pra absorver as energias ruins.",
+    "Usa uma roupa clara após o banho, pra atrair boas vibrações."
+  ],
+  "oracao": "Água sagrada que purifica e leva embora tudo que pesa.\n\nPeço proteção e abertura de caminhos, que as forças do bem me guardem e guiem. Que as energias negativas se dissolvam como areia ao vento, e que novas oportunidades surjam com a leveza de uma brisa. Que meu corpo, mente e espírito sejam renovados e fortalecidos, prontos para acolher o que é bom e justo. Assim seja, assim é, assim será.",
+  "frase_final": "Protege e abre os caminhos, Weverton!",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Weverton, esse banho vai blindar tua energia 🌿 Mas pra entender de onde vem essas dificuldades e o que pode estar atrapalhando, faço um **Mapa Astral** por só R$ 9,98. Vai te dar uma visão clara do teu potencial e desafios. Quer saber mais sobre o que tá escrito nas tuas estrelas? 🔮",
+  "nome": "Weverton Dos santos vieira",
+  "primeiroNome": "Weverton"
+}
