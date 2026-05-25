@@ -1,0 +1,52 @@
+{
+  "previa": "Juciane, esse banho vai dar aquele empurrão que você precisa. Vamos destravar as vendas e abrir os caminhos da prosperidade pra você!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Juciane! Tô vendo aqui que as coisas estão bem paradas pra você, né? Vamos dar um jeito nisso, minha flor. Esse banho é pra dar aquele impulso nas suas vendas e na sua vida.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e abre os caminhos."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o astral e atrai boas energias."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Traz sorte e acelera o fluxo de dinheiro."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Atua como um imã pra riquezas."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Proporciona proteção e afasta a negatividade."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água em uma panela.",
+    "Desligue o fogo e adicione manjericão, alecrim, canela, casca de laranja e cravo.",
+    "Deixe a infusão descansar por 15 minutos com a panela tampada.",
+    "Coe a mistura, leve pro banho e jogue do pescoço pra baixo.",
+    "Enquanto joga, visualize sua vida e suas vendas fluindo com sucesso."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair crescimento e abundância",
+  "dicas": [
+    "Use uma roupa clara após o banho pra atrair luz.",
+    "Acenda uma vela amarela enquanto toma o banho.",
+    "Evite discussões ou energia negativa no dia do banho."
+  ],
+  "oracao": "Eu, Juciane, clamo pela força das ervas sagradas para abrir meus caminhos. Que a prosperidade flua como um rio em minha vida. Que minha venda se mova como o vento, livre e sem obstáculos. Que as portas do sucesso se abram e que todas as travas se rompam. Eu decreto que a abundância é minha e que nada fica parado no meu caminho. Que assim seja, que assim se faça, com a força do universo a meu favor.",
+  "frase_final": "Vai lá e faz acontecer, Juciane! Tô contigo!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Juciane, o banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Juciane mendes da Silva",
+  "primeiroNome": "Juciane"
+}
