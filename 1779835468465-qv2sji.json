@@ -1,0 +1,52 @@
+{
+  "previa": "Marcia, tô vendo que você quer abrir caminhos e trazer prosperidade! Esse banho especial vai te ajudar a destravar as oportunidades que estão por vir e atrair boas energias pro seu caminho.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi Marcia! Olha só, tô aqui pra te ajudar a abrir esses caminhos e trazer prosperidade pra sua vida. Vamos colocar essa energia pra fluir e atrair o que você tá desejando.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai sorte e boas vibrações, abre caminhos pra prosperidade."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e traz clareza, ajudando a enxergar novas oportunidades."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Atração de dinheiro e prosperidade, aquece e movimenta as energias estagnadas."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Traz alegria e positividade, afastando as energias negativas."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Fortalece a intenção de atrair prosperidade e afasta inveja."
+    }
+  ],
+  "preparo": [
+    "Ferve dois litros de água e desliga o fogo.",
+    "Adiciona as ervas principais e as auxiliares, deixando em infusão por 15 minutos.",
+    "Coa o banho mentalizando os caminhos se abrindo e a prosperidade chegando.",
+    "Após o seu banho diário, derrama essa mistura do pescoço pra baixo.",
+    "Enquanto a água escorre, visualiza todas as portas se abrindo pra você."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Usa roupas claras após o banho pra potencializar boa energia.",
+    "Acende uma vela amarela enquanto faz o preparo, pedindo luz pra seus caminhos.",
+    "Anota seus objetivos num papel e deixa perto de você enquanto faz o ritual."
+  ],
+  "oracao": "Divina força do universo, peço que a energia desta água abençoe meu caminho. Que cada gota que desliza pelo meu corpo leve embora os bloqueios e traga um fluxo de oportunidades e abundância. Que as portas que estavam fechadas se abram, revelando novas possibilidades e caminhos prósperos. Que a prosperidade inunde minha vida, assim como a água toca minha pele. Que eu tenha a clareza e a coragem para seguir em frente, acolhendo o que o universo tem para me oferecer. Agradeço pelas bênçãos que recebo e pelo caminho que está se abrindo à minha frente. Assim seja.",
+  "frase_final": "A prosperidade já está no seu caminho, Marcia.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Marcia, o banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Marcia Suelen Vasconcelos E Vasconcelos",
+  "primeiroNome": "Marcia"
+}
