@@ -1,0 +1,56 @@
+{
+  "previa": "Ana, tô vendo que a separação te deixou desanimada. Vamos preparar um banho de prosperidade pra te ajudar a recuperar a disposição e atrair aquele dinheiro que você merece como autônoma. Vamos lá?!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Ana! Sei que você tá se sentindo meio pra baixo depois da separação, mas olha só, a gente vai dar um jeito nisso. Vamos fazer um banho de prosperidade pra te trazer ânimo e força pra correr atrás do que é seu.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e boa sorte, ajuda a abrir caminhos financeiros."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Revitaliza a energia, trazendo disposição e clareza mental."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Potencializa o sucesso e ajuda a aumentar o poder de atração do dinheiro."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Traz alegria e disposição, afastando tristezas."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "cravo",
+      "descricao": "Protege contra energias negativas e potencializa a prosperidade."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca a mente, trazendo novas ideias e ânimo para o trabalho."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as ervas principais e auxiliares, deixando em infusão por 15 minutos.",
+    "Coe o banho, mentalizando a prosperidade e a disposição chegando até você.",
+    "Tome seu banho higiênico e, em seguida, derrame a mistura do pescoço para baixo.",
+    "Enquanto a água escorre, pense nas novas oportunidades financeiras que estão por vir."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Dia de Júpiter, ótimo para trabalhar prosperidade e expansão.",
+  "lua": "Crescente",
+  "lua_desc": "Fase para atrair e expandir, perfeita para aumentar a prosperidade.",
+  "dicas": [
+    "Acenda uma vela amarela enquanto toma o banho para potencializar o efeito.",
+    "Use uma roupa clara após o banho, visualizando seu caminho aberto para o sucesso.",
+    "Coloque uma música animada pra entrar no clima de novas conquistas."
+  ],
+  "oracao": "Ó Doador do Universo, que minhas palavras alcancem as estrelas e tragam de volta a força e a esperança. Que essa água leve embora a tristeza, e em seu lugar, deposite prosperidade e alegria. Que eu tenha coragem e determinação para seguir em frente, buscando sempre o melhor para minha vida. Que os caminhos se abram, e as oportunidades venham até mim. Assim seja, assim se faça.",
+  "frase_final": "Vai dar certo, Ana! A prosperidade tá a caminho.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Ana, o banho vai dar aquele start 🌿 Mas se você quer mesmo saber as datas certas pra agir nos próximos meses e se planejar, te faço um **Mapa Anual** por R$ 9,98 só. Ele te mostra o calendário das oportunidades no teu ano. Topa? 💰",
+  "nome": "Ana Cláudia Rocha Marcelino",
+  "primeiroNome": "Ana"
+}
