@@ -1,0 +1,52 @@
+{
+  "previa": "Evelyn, vamos acender essa luz que tá perdida? 🌿 Esse banho vai trazer a prosperidade e clareza que você tanto busca. Vem comigo!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Evelyn, minha flor, tô vendo aqui que você tá se sentindo meio apagada e perdida. Ansiedade é fogo, mas vamos botar as ervas pra trabalhar e trazer aquela prosperidade que ilumina o caminho! 🌟",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "É a erva do dinheiro, traz fartura e sucesso."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e traz clareza mental."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aquece e atrai prosperidade rápida."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Renova e traz energia vibrante."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Afasta a negatividade e atrai boas oportunidades."
+    }
+  ],
+  "preparo": [
+    "Ferva 1 litro de água e desligue o fogo.",
+    "Adicione o manjericão, alecrim, e canela, e deixe em infusão por 10 minutos.",
+    "Coe a mistura, descartando as ervas na natureza.",
+    "Jogue o banho do pescoço pra baixo, mentalizando a prosperidade na sua vida.",
+    "Enquanto a água escorre, visualize-se iluminada e cheia de energia vibrante."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Ao preparar o banho, mentalize sempre a prosperidade chegando.",
+    "Mantenha um amuleto de citrino por perto após o banho.",
+    "Evite discussões e lugares carregados no dia do banho."
+  ],
+  "oracao": "Decreto que a água deste banho limpe a névoa que me cobre e abra os caminhos da prosperidade em minha vida. Que o poder de Júpiter, nesta quinta-feira de lua crescente, traga abundância, clareza e sucesso. Que cada gota desta água leve embora a ansiedade e a sensação de estar perdida, e traga energia vibrante, confiança e oportunidades. Que o sol brilhe sobre mim, guiando meus passos em direção ao que é meu por direito. Assim seja, assim será.",
+  "frase_final": "Vai lá e brilha, Evelyn! 🌟 Prosperidade tá chegando.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Evelyn, esse banho vai acender tua luz e atrair prosperidade! Mas se você quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano, com oportunidades certeiras. Topa? 💰",
+  "nome": "Evelyn Cristine dos Santos Dias",
+  "primeiroNome": "Evelyn"
+}
