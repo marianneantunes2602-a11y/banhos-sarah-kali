@@ -1,0 +1,56 @@
+{
+  "previa": "Tô vendo aqui que você quer atrair mais clientes e trazer de volta aquele que é generoso, né? Vou te ajudar com um banho poderoso pra chamar essa prosperidade toda pro seu lado. 🌿",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, minha flor! Vi que você tá querendo trazer de volta a generosidade dos clientes e fazer o Rico do Júnior te procurar, né? Esse banho vai abrir esses caminhos de abundância!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai dinheiro e fartura, abre os caminhos financeiros."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o astral e atrai prosperidade."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Famosa por atrair dinheiro e sucesso rápido."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Traz vitalidade e energia positiva pra novas oportunidades."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "louro",
+      "descricao": "Símbolo de triunfo e dinheiro."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Afasta a negatividade e atrai fortuna."
+    }
+  ],
+  "preparo": [
+    "Coloque 2 litros de água para ferver.",
+    "Adicione o manjericão, alecrim, canela e casca de laranja na água fervente.",
+    "Desligue o fogo e deixe esfriar um pouco com a panela tampada, absorvendo a energia das ervas.",
+    "Coe o líquido e leve pro seu banheiro.",
+    "Após o banho normal, derrame lentamente do pescoço pra baixo, mentalizando o retorno do Rico do Júnior com generosidade."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Visualize o Rico do Júnior te chamando para trabalhar com generosidade.",
+    "Coloque uma nota de dinheiro embaixo do travesseiro pra atrair fartura.",
+    "Ouça mantras de prosperidade enquanto prepara o banho."
+  ],
+  "oracao": "Amada Deusa da Abundância, que a água e as ervas tragam prosperidade e generosidade para a minha vida. Que a energia se mova e abra caminhos, trazendo de volta os meus clientes, especialmente o Rico do Júnior, com coração aberto e mãos generosas. Que essa água que agora corre pelo meu corpo leve com ela qualquer obstáculo, trazendo fartura e oportunidades em abundância. Que eu seja como o ímã que atrai o que é bom e justo, e que isso se manifeste na minha vida agora. Assim seja, assim é.",
+  "frase_final": "A prosperidade vai bater na sua porta!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Daniela, esse banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Daniela Ribeiro de Oliveira",
+  "primeiroNome": "Daniela"
+}
