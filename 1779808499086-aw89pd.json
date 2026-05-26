@@ -1,0 +1,52 @@
+{
+  "previa": "Leana, tô vendo que você tá carregando um peso danado, hein? Vamos fazer um banho de proteção e descarrego pra aliviar esse corpo e levantar o astral.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Minha flor, tô vendo que teu corpo anda pesado, né? Um dia tá animada, no outro, só quer saber da cama. Vamos ajeitar isso com um banho poderoso de proteção que vai te revigorar.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "A arruda é um escudo poderoso, afasta tudo que não presta."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "O sal grosso suga toda energia ruim, é limpeza pura."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o astral e atrai boas vibrações pro teu caminho."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Refresca e renova as energias, trazendo leveza."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Acalma a mente e dá aquele gás que você tá precisando."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e desliga o fogo.",
+    "Adiciona as ervas principais e deixa descansar por 20 minutos.",
+    "Coa o banho, visualizando a energia pesada saindo.",
+    "Leva pro banheiro e joga do pescoço pra baixo, pedindo proteção.",
+    "Enquanto joga o banho, imagina a leveza tomando conta de você, viu?"
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia regido por Saturno, ideal pra limpeza e descarrego.",
+  "lua": "Minguante",
+  "lua_desc": "Ótima pra cortar tudo que é ruim e mandar embora.",
+  "dicas": [
+    "Depois do banho, veste uma roupa clara pra atrair boas energias.",
+    "Evita contato com pessoas negativas nesse dia, se puder.",
+    "Acende uma vela branca e pede proteção pra semana que vem."
+  ],
+  "oracao": "Eu, Leana, peço que este banho leve embora todo peso e energia negativa que me aflige. Que cada gota que escorre pelo meu corpo leve consigo a desânimo e a tristeza. Que a água do meu banho seja uma corrente de proteção, cercando-me de luz e livrando-me de todo mal. Que a arruda, o sal grosso e o alecrim sejam meus guardiões, afastando o que não me serve. A partir deste momento, decreto que meu corpo e minha alma sejam leves e protegidos, prontos para receber apenas energias positivas e amorosas. Que assim seja, e assim se faça!",
+  "frase_final": "Vai lá e se proteja, amiga! 🌿✨",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Leana, esse banho vai aliviar esse peso que tá te puxando pra baixo. Mas se quiser entender a raiz desse cansaço e descobrir o que as estrelas dizem sobre você, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Quer ver o que tá escrito nas tuas estrelas? 🔮",
+  "nome": "Leana de oliveira Lana",
+  "primeiroNome": "Leana"
+}
