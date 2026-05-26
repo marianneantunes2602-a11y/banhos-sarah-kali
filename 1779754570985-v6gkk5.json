@@ -1,0 +1,52 @@
+{
+  "previa": "Lívia, senti firmeza na tua vontade de reacender esse amor. Vamos preparar um banho especial pra trazer esse carinho de volta pra tua vida. Confia, amiga!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Oi, Lívia! Esse banho é pra você que quer trazer de volta aquele amor que ainda sente pulsar. A água vai levar teu desejo ao universo, e as ervas ajudam a abrir caminho entre vocês. Vem comigo nessa!",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Toca direto o coração, trazendo amor e romance."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e atrai boas vibrações amorosas."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aquece e intensifica a paixão, trazendo o desejo de volta."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "jasmim",
+      "descricao": "Desperta o amor profundo e sincero."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Fortalece os laços e atrai harmonia para o casal."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e desliga o fogo.",
+    "Adiciona as pétalas de rosa, alecrim, canela, jasmim e manjericão na água.",
+    "Deixa em infusão por 10 min, cobrindo a panela.",
+    "Coa tudo, separando as ervas, e leva o líquido pro banho.",
+    "Joga essa mistura do pescoço pra baixo e mentaliza o encontro com ele, Lívia."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Vênus, deusa do amor, reina na sexta-feira. Ideal pra assuntos do coração.",
+  "lua": "Crescente",
+  "lua_desc": "A lua crescente ajuda a atrair e fortalecer conexões amorosas.",
+  "dicas": [
+    "Use uma roupa que ele goste em você depois do banho.",
+    "Mentaliza bons momentos que tiveram juntos durante o banho.",
+    "Acende uma vela rosa depois do banho, pedindo união."
+  ],
+  "oracao": "Águas do amor, levem minha intenção ao coração daquele que eu desejo. Que a força das pétalas de rosa acenda a chama da paixão, que o alecrim traga frescor ao nosso relacionamento, e que a canela aqueça nossos sentimentos. Que o jasmim desperte sinceridade e o manjericão fortaleza nossos laços. Peço que o universo alinhe nossos caminhos novamente, permitindo o reencontro e a renovação do nosso amor. Assim seja, assim é. Amém.",
+  "frase_final": "Amor antigo, chama que não se apaga.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Lívia, esse banho vai abrir o caminho 💜 Mas pra entender como reacender essa chama com ele de verdade, posso te fazer um **Mapa do Amor** por só R$ 9,98. Mostra os teus padrões e como atrair quem você ama. Quer saber mais? 🌙",
+  "nome": "Lívia da Silva militão",
+  "primeiroNome": "Lívia"
+}
