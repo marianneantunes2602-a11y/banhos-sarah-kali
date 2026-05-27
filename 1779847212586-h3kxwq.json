@@ -1,0 +1,52 @@
+{
+  "previa": "Thuane, esse banho vai blindar você de toda inveja e olho gordo. Vamos mandar essa energia ruim embora e trazer proteção pra sua vida. Vamos lá!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Thuane, minha flor, tô vendo aqui que você tá precisando afastar essas energias pesadas que vêm de olho gordo e inveja. Vamos dar um jeito nessa parada e deixar tudo mais leve!",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Essa é forte pra afastar energia ruim, olho gordo e inveja."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Poderoso pra limpar e proteger, mandando embora o que não presta."
+    },
+    {
+      "nome": "eucalipto",
+      "descricao": "Purifica e renova as energias, trazendo frescor e proteção."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o ânimo e atrai energias boas."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Dá aquele refresco, afastando más vibrações."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as ervas na água, mentalizando a proteção desejada.",
+    "Deixe a mistura repousar, coberta, até ficar morna.",
+    "Coe as ervas e leve a infusão pro banheiro.",
+    "Após o banho, despeje a infusão do pescoço pra baixo, pensando na proteção contra inveja."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, ideal pra limpeza e descarrego.",
+  "lua": "Minguante",
+  "lua_desc": "Perfeita pra cortar e afastar energias indesejadas.",
+  "dicas": [
+    "Enquanto prepara o banho, visualize a proteção e o descarrego.",
+    "Use roupas claras após o banho, trazendo leveza.",
+    "Evite falar sobre planos pessoais, resguardando suas energias."
+  ],
+  "oracao": "Divina força do bem, eu invoco sua proteção. Que esta água leve embora toda inveja, todo olho gordo e toda energia negativa que possa estar ao meu redor. Eu decreto que minha vida está protegida, fortalecida e blindada contra qualquer mal. Em nome da luz, firmo a paz e a serenidade em meu caminho. Que assim seja, assim já é. Gratidão.",
+  "frase_final": "Proteção certa contra olho gordo e inveja.",
+  "upsell_produto": "Simpatia",
+  "upsell_mensagem": "Thuane, esse banho vai botar pra correr essa inveja toda! Se você quiser um reforço extra, posso preparar uma **Simpatia** por apenas R$ 9,98, focada em proteção contra olho gordo. Quer dar aquele blindada extra? 🔮",
+  "nome": "Thuane Kunde",
+  "primeiroNome": "Thuane"
+}
