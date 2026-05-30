@@ -1,0 +1,52 @@
+{
+  "previa": "Roselene, sinto que você tá precisando de um banho poderoso pra preencher esse vazio e te trazer de volta pro seu brilho único. Vamos dar um jeito nisso aí!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Renovação Pessoal",
+  "saudacao": "Minha flor, tô vendo aqui que você tá num momento delicado, se sentindo invisível e sem rumo. Vamos preparar um banho especial pra te trazer de volta a luz e a alegria. Vai ser um renascimento!",
+  "ervas_principais": [
+    {
+      "nome": "lavanda",
+      "descricao": "Ajuda a acalmar a alma e trazer paz interior."
+    },
+    {
+      "nome": "rosa branca",
+      "descricao": "Simboliza a pureza e renascimento, trazendo clareza emocional."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Revitaliza a energia e te coloca de volta no controle."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Renova as energias e traz frescor para a mente."
+    },
+    {
+      "nome": "camomila",
+      "descricao": "Tranquiliza e equilibra as emoções."
+    }
+  ],
+  "preparo": [
+    "Coloque 2 litros de água para ferver.",
+    "Adicione lavanda, rosa branca e alecrim à água fervente.",
+    "Desligue o fogo e acrescente hortelã e camomila.",
+    "Deixe o banho repousar até ficar morno, pensando em renovar sua energia.",
+    "Após o banho, despeje a mistura do pescoço para baixo, mentalizando seu renascimento."
+  ],
+  "dia": "Segunda",
+  "dia_desc": "Um dia regido pela Lua, perfeito para trabalhar emoções internas.",
+  "lua": "Nova",
+  "lua_desc": "Essa fase é ideal para iniciar uma nova etapa na sua vida.",
+  "dicas": [
+    "Coloque uma música suave enquanto prepara o banho.",
+    "Visualize a água levando embora a sensação de vazio.",
+    "Acenda uma vela branca para iluminar seu novo caminho."
+  ],
+  "oracao": "Divina presença que habita em mim, peço que esta água sagrada lave minhas dúvidas e inseguranças. Que cada gota que cai sobre meu corpo leve embora o vazio que sinto e traga de volta a luz e a alegria para meu coração. Sou vista, sou forte, sou plena. Que a lua nova traga a renovação que tanto anseio, e que meu caminho se ilumine com novas possibilidades. Assim seja, assim é.",
+  "frase_final": "Você é mais forte do que imagina, minha flor.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Roselene, esse banho vai te ajudar a reencontrar sua luz. Pra entender mais sobre o seu propósito e de onde vem essa sensação, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Ele vai te mostrar o que tá escrito nas estrelas sobre você. Quer saber mais? 🌟",
+  "nome": "Roselene Tenório da Silva",
+  "primeiroNome": "Roselene"
+}
