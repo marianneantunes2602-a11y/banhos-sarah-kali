@@ -1,0 +1,56 @@
+{
+  "previa": "Patricia, tô vendo que o peso tá te puxando pra baixo. Bora fazer um banho de descarrego pra aliviar essa carga e levantar teu astral!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Patricia, minha flor, tô vendo aqui que você tá se sentindo pesada e com a autoestima baixa. Vamos cuidar disso, tá? Esse banho vai te ajudar a tirar esse peso todo dos ombros.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Proteção poderosa, afasta as energias negativas."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias, traz vitalidade."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Limpa e purifica profundamente."
+    },
+    {
+      "nome": "eucalipto",
+      "descricao": "Revigorante, limpa o campo áurico."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Acalma e refresca a mente."
+    },
+    {
+      "nome": "camomila",
+      "descricao": "Traz paz e tranquilidade."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e, depois, desligue o fogo.",
+    "Adicione as ervas principais e deixe em infusão por 20 minutos.",
+    "Coe a mistura e leve pro banheiro.",
+    "Após o banho higiênico, jogue a mistura do pescoço pra baixo, mentalizando a retirada do peso.",
+    "Enquanto a água escorre, sinta a leveza chegando, e diga: 'Que essa carga se desfaça e minha luz brilhe.'"
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, ideal para limpeza e descarrego.",
+  "lua": "Minguante",
+  "lua_desc": "Perfeita para cortar energias negativas e aliviar cargas.",
+  "dicas": [
+    "Acenda uma vela branca durante o banho, simbolizando clareza e proteção.",
+    "Após o banho, vista uma roupa clara pra atrair boas energias.",
+    "Coloque uma música suave pra elevar o astral."
+  ],
+  "oracao": "Grande Mãe, que esse banho leve embora toda a carga que pesa sobre mim. Que cada gota d'água purifique o meu ser, trazendo alívio e renovação. Deixa que a arruda e o sal grosso afastem o que não me pertence, enquanto o alecrim e o eucalipto me enchem de força e vitalidade. Que a camomila e a hortelã acalmem meu espírito e refresquem minha mente. Eu decreto que a luz entra, o peso sai. Assim seja, assim se faça.",
+  "frase_final": "Vai lá e faz esse banho, Patricia. Tu merece leveza!",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Patricia, esse banho vai aliviar o peso que você sente. Pra entender de onde vem essa sensação de cansaço e o que as estrelas dizem sobre você, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Quer ver o que tá escrito nas tuas estrelas? 🌟",
+  "nome": "Patricia Oliveira Da Silva",
+  "primeiroNome": "Patricia"
+}
