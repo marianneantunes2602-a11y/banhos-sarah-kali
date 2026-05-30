@@ -1,0 +1,56 @@
+{
+  "previa": "Gabrielle, tô vendo que você tá se sentindo pesada e cansada. Vamos preparar um banho especial pra aliviar essas preocupações e renovar suas energias.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Limpeza",
+  "saudacao": "Oi, Gabrielle! Olha só, tô vendo que essas preocupações e essa sensação de peso tão puxando você pra baixo. Vamos cuidar disso com um banho pra limpar essas energias e renovar seu ânimo.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "A arruda é poderosa pra cortar energias negativas e aliviar o peso."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "O alecrim traz clareza e renova as energias, elevando o astral."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "O sal grosso é a base pra purificar e limpar as cargas pesadas."
+    },
+    {
+      "nome": "eucalipto",
+      "descricao": "O eucalipto ajuda a respirar melhor, aliviando a tensão física."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca a mente e alivia o cansaço mental."
+    },
+    {
+      "nome": "lavanda",
+      "descricao": "Acalma as preocupações e traz paz interior."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e desliga o fogo.",
+    "Adiciona as ervas principais e deixa em infusão por 15 minutos.",
+    "Coa a mistura e leva pro banheiro.",
+    "Após o banho higiênico, joga o banho de ervas do pescoço pra baixo, mentalizando a limpeza.",
+    "Enquanto a água escorre, imagina as preocupações indo embora com cada gota."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, ideal pra limpezas profundas e renovação.",
+  "lua": "Minguante",
+  "lua_desc": "Período pra cortar o que não serve mais, eliminando o peso.",
+  "dicas": [
+    "Usa uma vela branca durante o banho pra aumentar a proteção.",
+    "Depois do banho, descansa e tira um momento pra você, lendo um livro ou ouvindo música.",
+    "Evita contato com mídias sociais nesse dia pra não absorver energias alheias."
+  ],
+  "oracao": "Eu decreto que toda essa água que passa pelo meu corpo leve embora as preocupações e pesos que me impedem de brilhar. Peço que minhas dores se dissolvam e que o amor próprio encontre novamente caminho em meu coração. Que esta limpeza traga leveza ao meu corpo e à minha mente. Assim seja, assim é, e assim será. Gratidão por esta força renovadora que me envolve agora e sempre.",
+  "frase_final": "Cuida bem de você, Gabrielle, você merece! ✨",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Gabrielle, esse banho vai tirar esse peso de cima de ti. Pra entender de onde vem essa sensação e cortar pela raiz, posso fazer um **Mapa Astral** por apenas R$ 9,98. Quer descobrir o que as estrelas dizem sobre o seu caminho? 🔮",
+  "nome": "Gabrielle e Silva Sousa",
+  "primeiroNome": "Gabrielle"
+}
