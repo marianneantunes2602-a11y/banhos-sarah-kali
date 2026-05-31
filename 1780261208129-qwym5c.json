@@ -1,0 +1,52 @@
+{
+  "previa": "Minha flor, vejo que sua academia tá precisando daquele empurrãozinho de prosperidade. Vamos preparar um banho pra abrir os caminhos e atrair as alunas que você tanto deseja. Confia na energia certa e vamos juntas nessa jornada!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Consoelo, eu tô vendo que você tá batalhando muito pra chegar nas 400 alunas na sua academia e tá difícil ultrapassar essa barreira. Vamos fazer um banho forte de prosperidade pra atrair essa energia que falta. Vamos destravar isso aí!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "atrai sucesso e dinheiro, abre os caminhos da prosperidade"
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "revigora as energias, atrai sorte e sucesso profissional"
+    },
+    {
+      "nome": "canela",
+      "descricao": "potente para chamar fortuna e aumentar ganhos"
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "louro",
+      "descricao": "simboliza vitória, atrai o que desejamos"
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "traz alegria, afasta negatividade que impede o progresso"
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e adicione as ervas principais.",
+    "Desligue o fogo e adicione as ervas auxiliares.",
+    "Deixe a mistura descansar até atingir uma temperatura agradável.",
+    "Coe o banho e, ao jogar em você, mentalize sua academia cheia de alunas felizes.",
+    "Despeje o banho do pescoço pra baixo, com fé na prosperidade que vem."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Acenda uma vela verde ao lado do banho para fortalecer a intenção.",
+    "Enquanto o banho esfria, visualize sua academia com as 400 alunas.",
+    "Pense em frases de confirmação: 'minha academia é próspera e lotada'."
+  ],
+  "oracao": "Divino Universo, que a força da prosperidade me envolva agora. Que cada gota desta água seja uma mensagem de sucesso e abundância. Que minha academia, espaço sagrado que acolhe tantas mulheres, brilhe e prospere. Que cada aluna que ali entra sinta a transformação e o bem-estar. Que eu, Consoelo, possa ver meu sonho se realizando com alegria e gratidão. Que venham as 400 alunas e muitas mais, trazendo energia positiva e crescimento. Assim é e assim será, com a força do amor e da prosperidade, amém.",
+  "frase_final": "Vai lá e enche tua academia de prosperidade, Consoelo!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Consoelo, o banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Consoelo dos Santos Leite",
+  "primeiroNome": "Consoelo"
+}
