@@ -1,0 +1,56 @@
+{
+  "previa": "Minha flor, tô vendo que os sonhos tão esbarrando na grana, né? Esse banho vai ajudar a destravar esse caminho pra prosperidade. Escuta só o que preparei pra você!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Olha só, Toiko, sei que o dinheiro tá meio difícil e você quer realizar seus sonhos. Esse banho é feito pra abrir caminhos e atrair a prosperidade que você merece!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai dinheiro e prosperidade, limpa e traz sorte."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Dá clareza mental e coragem pra enfrentar desafios."
+    },
+    {
+      "nome": "canela",
+      "descricao": "É conhecida por trazer abundância e sucesso financeiro."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Aumenta a vibração positiva e atrai boas oportunidades."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Traz energia solar e otimismo."
+    },
+    {
+      "nome": "louro",
+      "descricao": "É um imã pra fortuna e realizações."
+    }
+  ],
+  "preparo": [
+    "Ferve dois litros de água e apaga o fogo.",
+    "Adiciona as ervas principais e auxiliares à água quente.",
+    "Deixa repousar por 20 minutos, minha flor.",
+    "Coa o líquido com carinho e leva pro banheiro.",
+    "Depois do banho normal, joga essa água do pescoço pra baixo, pensando na prosperidade que você quer atrair."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Quinta-feira é regida por Júpiter, ideal pra atrair prosperidade e expansão.",
+  "lua": "Crescente",
+  "lua_desc": "A Lua Crescente é perfeita pra atrair e expandir novos caminhos.",
+  "dicas": [
+    "Faz esse banho com o coração aberto e visualiza seus sonhos.",
+    "Acende uma vela amarela depois do banho pra fortalecer o pedido.",
+    "Anota num papel um desejo específico e coloca sob o travesseiro."
+  ],
+  "oracao": "Eu, Toiko, decreto que a prosperidade entra na minha vida agora. Que essa água leve embora toda a escassez e abra um mar de oportunidades. Que meus sonhos, com a força dessa natureza, se materializem na minha vida. Que venha o dinheiro necessário, que venham as chances que eu preciso. Agradeço por cada benção que já está a caminho. Que este banho seja a chave que abre a porta da abundância. Assim é, assim será.",
+  "frase_final": "Toiko, vai firme e confia na energia do universo!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Toiko, o banho vai ajudar a abrir os caminhos 🌿 Mas se você quiser saber as datas certas e potenciais oportunidades pros próximos meses, posso te fazer um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano pra prosperar. Quer saber mais? 💰",
+  "nome": "Toiko Tereza Sagayama",
+  "primeiroNome": "Toiko"
+}
