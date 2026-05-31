@@ -1,0 +1,52 @@
+{
+  "previa": "Daniele, vamos preparar um banho pra descarregar as energias pesadas e garantir a tua proteção. Prepara que a água vai levar embora o que não te serve mais.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Oi Daniele, tô vendo que você tá precisando de um banho de descarrego pra se proteger das energias que tão te cercando. Vamos limpar o caminho e fortalecer tua proteção.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Afasta as energias negativas e protege contra inveja."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Purifica e elimina toda a carga negativa."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Revitaliza e traz clareza mental, além de proteção."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Limpa e refresca, trazendo uma sensação de leveza."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Renova as energias e mantém o ambiente leve."
+    }
+  ],
+  "preparo": [
+    "Ferva dois litros de água.",
+    "Desligue o fogo e adicione as ervas principais e auxiliares.",
+    "Deixe em infusão até amornar, enquanto mentaliza a proteção te envolvendo.",
+    "Coe a mistura e leve para o banheiro.",
+    "Após seu banho habitual, jogue a mistura do pescoço para baixo, visualizando a água levando embora tudo que é ruim."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, limpeza",
+  "lua": "Minguante",
+  "lua_desc": "Cortar energias indesejadas",
+  "dicas": [
+    "Faça esse banho em um ambiente calmo, sem pressa.",
+    "Use roupas claras após o banho para manter a leveza.",
+    "Acenda uma vela branca pra potencializar a proteção."
+  ],
+  "oracao": "Eu sou a luz que envolve meu ser e protege meu caminho. Que esta água, abençoada pelas ervas, limpe e purifique cada negatividade que tenta se aproximar. Que a força do alecrim me traga clareza, afastando as névoas do medo. Que o sal grosso dissolva os bloqueios e que a arruda forme uma barreira impenetrável contra o mal. Invoco a energia do eucalipto para renovar e do hortelã para refrescar a minha alma, permitindo que apenas as boas vibrações permaneçam. Que essa água sagrada leve embora tudo que não me pertence e que a luz me envolva, agora e sempre.",
+  "frase_final": "Proteção e leveza sempre, Daniele. Cuida de ti!",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Daniele, esse banho vai te blindar das negatividades. Pra entender melhor de onde vem essas energias pesadas, posso fazer um **Mapa Astral** por apenas R$ 9,98. Vamos ver o que tá escrito nas tuas estrelas? 🔮",
+  "nome": "Daniele Lopes do Nascimento",
+  "primeiroNome": "Daniele"
+}
