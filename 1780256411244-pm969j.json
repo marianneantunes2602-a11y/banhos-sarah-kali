@@ -1,0 +1,52 @@
+{
+  "previa": "Márcia, sinto que você busca um verdadeiro recomeço após momentos desafiadores. Vamos clarear seus caminhos e trazer aquela renovação que você tanto deseja. A água vai levar embora o que te trava e abrir portas para novas possibilidades. Vamos juntas nessa mudança?",
+  "titulo": "Banho de",
+  "titulo_destaque": "Renovação",
+  "saudacao": "Olá, Márcia! Tô vendo aqui que você está num momento crucial da vida, hein? Depois de tanto tempo de um casamento, é hora de abrir novos caminhos e pensar nesse recomeço que você merece. Vamos dar aquele empurrãozinho e deixar a vida fluir?",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e abre os caminhos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Atrai prosperidade e aquece o coração."
+    },
+    {
+      "nome": "lavanda",
+      "descricao": "Tranquiliza a mente e prepara para novos começos."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Revigora e traz alegria para o espírito."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca as ideias e dá força para seguir em frente."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as ervas principais e deixe em infusão por 15 minutos.",
+    "Coe o banho e leve para o chuveiro.",
+    "Após seu banho higiênico, jogue do pescoço pra baixo mentalizando seus caminhos se abrindo.",
+    "A cada chuveirada visualize seu futuro brilhando com oportunidades."
+  ],
+  "dia": "Domingo",
+  "dia_desc": "Relacionado ao Sol, ideal para iluminar novos caminhos.",
+  "lua": "Nova",
+  "lua_desc": "Momento perfeito para começar um novo ciclo de vida.",
+  "dicas": [
+    "Use uma roupa clara após o banho para atrair boas energias.",
+    "Acenda uma vela amarela enquanto prepara o banho, trazendo luz e clareza.",
+    "Mantenha um cristal de citrino perto para amplificar a renovação."
+  ],
+  "oracao": "Eu, Márcia, decreto neste momento minha abertura para novos caminhos. Que as águas deste banho lavem embora as inseguranças e as dúvidas, trazendo clareza e luz ao meu futuro. Que eu encontre coragem para recomeçar, com o coração aberto ao amor e ao sucesso. A cada gota que cai, sinto meu espírito renovado e preparado para as oportunidades que o universo reserva pra mim. Assim é, assim será.",
+  "frase_final": "Márcia, seu novo caminho começa agora. Vamos juntas!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Márcia, esse banho vai renovar as energias e abrir seus caminhos. Mas se quer saber as datas certas e oportunidades para esse recomeço total, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 🌿",
+  "nome": "Márcia Pinheiro Costa",
+  "primeiroNome": "Márcia"
+}
