@@ -1,0 +1,52 @@
+{
+  "previa": "Arthur, vamos liberar essa energia que tá presa e atrair a prosperidade que você merece. Vou te passar um banho poderoso pra abrir os caminhos e destravar essa situação de dívidas que estão te prendendo. Prepara-se pra ver as mudanças acontecendo!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Arthur! Tô vendo aqui que essa história de pessoas te devendo tá te travando. Vamos dar um jeito nisso. Esse banho que vou te passar é pra abrir os caminhos da prosperidade e fazer essa energia fluir melhor na tua vida.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai dinheiro e sorte, trazendo abertura financeira."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova a energia, ajudando na circulação de prosperidade."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Poderosa para atrair abundância e sucesso."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "louro",
+      "descricao": "Conhecido por atrair riqueza e abrir caminhos."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Proporciona alegria e melhora o fluxo financeiro."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água, desliga o fogo e adiciona as ervas.",
+    "Abafa por 20 minutos, deixando as ervas liberarem suas propriedades.",
+    "Coa o banho, mentalizando as dívidas sendo pagas e a prosperidade chegando.",
+    "Após o banho higiênico, joga a mistura do pescoço pra baixo.",
+    "Enquanto joga, imagina a água levando embora os bloqueios financeiros."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, o dia ideal para atrair prosperidade e expansão.",
+  "lua": "Crescente",
+  "lua_desc": "Fase que favorece o aumento e a atração de oportunidades.",
+  "dicas": [
+    "Faça o banho em silêncio, focando na sua intenção.",
+    "Acenda uma vela dourada ou amarela enquanto toma o banho.",
+    "Evite falar de dívidas por um tempo após o banho, foque no que quer atrair."
+  ],
+  "oracao": "Eu, Arthur, decreto que minha vida financeira é próspera e fluida. A cada gota deste banho, a energia da abundância se expande, removendo qualquer bloqueio. As dívidas que me devem são pagas e a prosperidade circula livremente em minha vida. A água leva embora toda a estagnação e atrai novas oportunidades. Declaro que estou aberto e receptivo à riqueza e ao sucesso. Que assim seja, assim é!",
+  "frase_final": "Confia no poder do banho e se abre pra prosperidade.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Arthur, esse banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Arthur Loubet Júnior",
+  "primeiroNome": "Arthur"
+}
