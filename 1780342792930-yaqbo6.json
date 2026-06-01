@@ -1,0 +1,52 @@
+{
+  "previa": "Janayna, tô vendo que o peso tá grande aí, né? Vamos soltar essas amarras e te dar um alívio. Vou preparar um banho poderoso pra esse descarrego. Confia que a água leva tudo de ruim embora.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Oi, Janayna! Presta atenção: tô vendo que você tá carregada, se sentindo presa. Vamos preparar um banho que vai soltar essas amarras e te deixar mais leve. Confia que vai fazer diferença!",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Essa é poderosa, tira tudo que é energia ruim."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Ele é o clássico pra limpeza, purifica de verdade."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias, te dá um refresco."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Ajuda a limpar e abrir os caminhos."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Traz leveza e refrescância na mente."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água.",
+    "Desliga o fogo e adiciona as ervas. Tampe por 10 minutos.",
+    "Coe e deixe esfriar até atingir uma temperatura agradável.",
+    "Tome seu banho higiênico e, depois, jogue a infusão do pescoço pra baixo, mentalizando a água levando embora todo o peso.",
+    "Vista uma roupa clara e evite lugares pesados depois do banho."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, limpeza",
+  "lua": "Minguante",
+  "lua_desc": "Cortar",
+  "dicas": [
+    "Acende uma vela branca e faz uma oração enquanto prepara o banho.",
+    "Evite contato com pessoas negativas no dia do banho.",
+    "Depois do banho, medite um pouco pra acalmar a mente."
+  ],
+  "oracao": "Ó Deus do céu e da terra, eu me coloco agora diante de Ti, pedindo que a água leve embora todo esse peso que me amarra. Que cada gota que escorra por meu corpo leve junto as energias negativas, os pensamentos pesados e as amarras que me prendem. Que a força da natureza limpe meu ser, que arruda, sal grosso e alecrim façam seu papel de purificação e renovação. Renove minhas forças, liberte meus caminhos. Que eu me sinta leve, que as oportunidades voltem a brilhar e que eu possa seguir em frente, confiante e protegida. Assim seja.",
+  "frase_final": "Solta o que te prende e sente a leveza, Janayna.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Janayna, esse banho vai tirar a camada de cima. Pra entender de onde vem esse peso, e cortar a raiz, dá pra fazer um **Mapa Astral** por apenas R$ 9,98. Quer ver o que tá escrito nas tuas estrelas? 🔮",
+  "nome": "Janayna Fernandes",
+  "primeiroNome": "Janayna"
+}
