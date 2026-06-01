@@ -1,0 +1,52 @@
+{
+  "previa": "Kariele, tô sentindo que a tua alma tá pedindo um alívio. Vamos preparar um banho pra trazer calmaria e cuidar do teu coração. 🌿",
+  "titulo": "Banho de",
+  "titulo_destaque": "Calmaria",
+  "saudacao": "Minha flor, tô vendo que a ansiedade tem te apertado e a autoestima tá precisando de um carinho especial. Vamos preparar um banho que vai trazer aquela paz necessária e acalmar teu espírito.",
+  "ervas_principais": [
+    {
+      "nome": "lavanda",
+      "descricao": "Amiga fiel pra acalmar a mente e trazer serenidade."
+    },
+    {
+      "nome": "camomila",
+      "descricao": "Suave como um abraço, ajuda a tranquilizar a alma."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Eleva a autoestima e purifica o ambiente interno."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Conexão direta com o amor-próprio."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Traz frescor, clareza e renovação ao espírito."
+    }
+  ],
+  "preparo": [
+    "Ferve um litro de água, desliga o fogo e adiciona as ervas.",
+    "Deixa as ervas descansarem na água por pelo menos 15 minutos.",
+    "Coe e leva essa infusão pro banheiro contigo.",
+    "Depois do banho normal, joga a mistura do pescoço pra baixo, mentalizando paz.",
+    "Sente a água levando embora a ansiedade e trazendo calmaria."
+  ],
+  "dia": "Segunda",
+  "dia_desc": "Dia da Lua, perfeito pra cuidar das emoções e trazer calma.",
+  "lua": "Crescente",
+  "lua_desc": "Boa pra atrair serenidade e elevar a autoestima.",
+  "dicas": [
+    "Acende uma vela branca antes do banho, traz paz pro ambiente.",
+    "Coloca uma música suave enquanto prepara o banho, relaxa a mente.",
+    "Faz esse banho antes de dormir pra garantir um sono tranquilo."
+  ],
+  "oracao": "Amada Lua e forças do Universo, eu peço que a água que toca minha pele leve embora a inquietude que pesa no meu coração. Que cada gota seja um sopro de calma, que traga leveza e paz pra minha mente agitada. Que as ervas mágicas que escolhi me ajudem a abraçar minha própria beleza e valor, e que eu possa me ver com os olhos amorosos que mereço. Sou grata pelo alívio que recebo agora, pelo amor que planto em meu ser. Assim seja, assim é.",
+  "frase_final": "Sente a paz entrando e a ansiedade saindo, minha flor.",
+  "upsell_produto": "Numerologia",
+  "upsell_mensagem": "Kariele, esse banho vai trazer a calmaria que você precisa. Pra entender o seu caminho e fortalecer sua autoestima, posso te oferecer uma **Numerologia** por só R$ 9,98. Ela ajuda a revelar seu propósito e te guiar na direção certa. Quer dar esse passo? 🌟",
+  "nome": "Kariele Vieira Martins",
+  "primeiroNome": "Kariele"
+}
