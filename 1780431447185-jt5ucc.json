@@ -1,0 +1,52 @@
+{
+  "previa": "Dalilla, tô vendo que o coração tá pedindo aquele reencontro com o ex, né? Vamos preparar um banho poderoso pra abrir esse caminho e trazer ele de volta pra perto!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Dalilla, minha flor, olha só, tô sentindo aqui que você tá naquelas de querer reavivar os sentimentos e trazer aquele ex de volta pro seu caminho. Vamos fazer isso juntas com um banho mágico!",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Rosa é o símbolo máximo do amor e ajuda a atrair o que o coração deseja."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Revitaliza a energia amorosa e traz clareza pros sentimentos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aquece o coração e atrai a presença desejada com força."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "jasmim",
+      "descricao": "Exala um aroma sedutor que toca as emoções mais profundas."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Traz frescor e novidade aos sentimentos."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água.",
+    "Desliga o fogo e acrescenta as pétalas de rosa, alecrim, canela, jasmim e hortelã.",
+    "Tampa e deixa descansar por 15 minutos.",
+    "Coe e leva pro banheiro. Durante o banho, pensa no teu desejo de reaproximar.",
+    "Joga do pescoço pra baixo, sentindo a água renovando o cenário entre vocês."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Vênus, dia do amor e reconexões afetivas.",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita pra atrair e fortalecer laços.",
+  "dicas": [
+    "Acende uma vela cor-de-rosa enquanto toma o banho.",
+    "Pensa nas boas memórias que vocês já criaram juntos.",
+    "Escuta uma música que lembra vocês dois durante o banho."
+  ],
+  "oracao": "Amor que vibra no meu coração, te chamo com a força da água que flui. Que os sentimentos que já nos uniram possam encontrar novamente seu lugar. Que a presença que hoje sinto distante, se aproxime com carinho e vontade. O fluxo dessa água leva embora as barreiras, e traz de volta o que é de merecimento. Que o amor seja suave como o aroma das rosas, e forte como a determinação do alecrim e da canela. Renova, aproxima, concretiza. Assim seja, assim será.",
+  "frase_final": "Vai lá e sente o amor renascer! 💕",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Dalilla, esse banho vai abrir o caminho 💜 Mas pra você entender quem é o tipo certo pra ti, com quem tu combina de verdade, posso te fazer um **Mapa do Amor** por só R$ 9,98. Mostra os teus padrões e como atrair quem soma. Quer saber mais? 🌙",
+  "nome": "Dalilla balbino de Sousa",
+  "primeiroNome": "Dalilla"
+}
