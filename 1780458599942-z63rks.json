@@ -1,0 +1,52 @@
+{
+  "previa": "Sandra, vamos dar um gás nas suas vendas com um banho poderoso de prosperidade. Isso vai ajudar a abrir os caminhos e deixar as energias fluírem melhor. Vamos botar essa energia pra cima e melhorar suas finanças!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Sandra! Tô vendo aqui que suas vendas deram uma caída e as dívidas tão aumentando. Mas não se preocupa, minha flor, porque vamos dar uma força nesse jogo e abrir os caminhos da prosperidade pra você.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai dinheiro e sucesso, chamando a prosperidade pra perto."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e abre caminhos para novas oportunidades."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aquece e traz energia vital para a sua vida financeira."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "A energia solar da laranja atrai sorte e oportunidades."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Potencializa as energias de atração e sucesso."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água.",
+    "Adicione as ervas enquanto a água ferve, pensando nas suas vendas subindo.",
+    "Desligue o fogo e tampe a panela, deixando em infusão por 15 minutos.",
+    "Coe o banho, mentalizando prosperidade e dinheiro entrando na sua vida.",
+    "Após seu banho normal, jogue o preparado do pescoço pra baixo, agradecendo o fluxo de abundância."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Coloca uma nota de dinheiro no seu altar ou em um lugar especial pra simbolizar abundância.",
+    "Acenda uma vela amarela durante o banho pra potencializar a energia de Júpiter.",
+    "Escreva suas metas de vendas num papel e coloque ao lado das ervas durante o preparo."
+  ],
+  "oracao": "Eu, Sandra, me conecto com a energia da prosperidade e da abundância. Que a água sagrada deste banho lave todas as dificuldades financeiras e traga novas oportunidades de vendas e sucesso. Que as energias do universo conspirem ao meu favor, e que minhas dívidas se transformem em conquistas. Que a prosperidade flua livremente em minha vida, enchendo cada dia com sorte e abundância. Agradeço à força das ervas que me guiam e abrem caminhos. Assim é, assim será, e assim já é.",
+  "frase_final": "Vai lá, Sandra, e deixa a prosperidade entrar!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Sandra, esse banho vai dar aquele empurrão nas suas vendas 🌟. Mas se quer saber as datas certas pra potencializar esses ganhos, posso preparar um **Mapa Anual** por R$ 9,98 só. Ele te entrega o calendário do teu ano. Topa? 💰",
+  "nome": "Sandra Anunciação Nascimento",
+  "primeiroNome": "Sandra"
+}
