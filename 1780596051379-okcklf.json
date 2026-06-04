@@ -1,0 +1,52 @@
+{
+  "previa": "Oi, Meu! Sei que as coisas estão pesadas, mas esse banho vai te ajudar a trazer amor e prosperidade de volta pra tua vida. Vamos trabalhar na tua autoestima e na energia ao teu redor!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor e Prosperidade",
+  "saudacao": "Meu, tô vendo que o desânimo tomou conta, mas vamos virar esse jogo. Esse banho é para te ajudar a levantar a cabeça, reacender a chama do amor no casamento e chamar a prosperidade que você merece.",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Ativa o amor próprio e romântico, trazendo doçura."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e boas energias financeiras."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Ferve a paixão e atrai dinheiro, um toque de calor."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "alecrim",
+      "descricao": "Renova a alegria e dá aquele ânimo."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Protege e atrai sorte, enquanto eleva a vibração."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as pétalas de rosa, manjericão, canela, alecrim e cravo na água quente.",
+    "Deixe descansar por 15 minutos enquanto pensa no que deseja atrair.",
+    "Coe e leve para o chuveiro com carinho.",
+    "Após seu banho normal, jogue a mistura do pescoço para baixo, visualizando amor e prosperidade entrando na sua vida."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Vênus, o dia do amor e harmonia.",
+  "lua": "Crescente",
+  "lua_desc": "Fase de crescimento e atração, ideal para novos começos.",
+  "dicas": [
+    "Use uma roupa clara após o banho, para atrair boas vibrações.",
+    "Acenda uma vela rosa à noite e pense no que deseja.",
+    "Escreva uma afirmação positiva sobre sua autoestima e repita diariamente."
+  ],
+  "oracao": "Divinas forças do amor e da prosperidade, eu vos invoco para que entrem na minha vida. Que este banho leve embora toda a tristeza e desânimo, abrindo caminho para a luz e a abundância. Que o amor floresça novamente no meu casamento, trazendo harmonia, e que as bênçãos financeiras cheguem até mim, fortalecendo minha autoestima e coragem. A água que escorre pelo meu corpo é a mesma que leva embora todas as energias negativas. Que assim seja.",
+  "frase_final": "Você merece amor e prosperidade. Vamos atrair juntos!",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Meu, esse banho vai te dar um empurrãozinho no amor e na prosperidade 💜 Mas se você quer entender melhor seus padrões no amor e fortalecer seu casamento, posso te fazer um **Mapa do Amor** por só R$ 9,98. Ele revela os segredos do coração. Que tal dar uma olhada mais profunda? 🌙",
+  "nome": "Meu nome e Mychelly Griziela Ferreira",
+  "primeiroNome": "Meu"
+}
