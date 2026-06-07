@@ -1,0 +1,52 @@
+{
+  "previa": "Gilvanildo, tô vendo aqui que você tá precisando de um empurrãozinho pra abrir esses caminhos que tão meio travados, né? Vamos preparar um banho poderoso pra isso!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Abertura de Caminhos",
+  "saudacao": "Oi Gilvanildo, minha flor! A gente vai dar um jeito de abrir esses caminhos aí pra novas oportunidades. Presta atenção nos detalhes do banho e vamos nessa!",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e abre caminhos."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e novas oportunidades."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Desperta a sorte e o otimismo."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca a mente e renova o ânimo."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Atrai boas energias e movimento."
+    }
+  ],
+  "preparo": [
+    "Ferva 1 litro de água e desligue o fogo.",
+    "Adicione as ervas na panela com a água e deixe em infusão por 15 minutos.",
+    "Coe a mistura, mentalizando caminhos abertos e oportunidades chegando.",
+    "Após o banho de higiene, derrame a mistura do pescoço para baixo.",
+    "Agradeça as oportunidades que já estão se aproximando na sua vida."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair novas oportunidades",
+  "dicas": [
+    "Faça o banho com intenção clara de abrir caminhos.",
+    "Use roupas claras após o banho para atrair boas energias.",
+    "Mantenha a mente e o coração abertos para oportunidades inesperadas."
+  ],
+  "oracao": "Grande universo, com toda a minha fé, peço que as águas deste banho, ao correrem pelo meu corpo, levem consigo qualquer barreira que esteja me impedindo de seguir em frente. Que cada gota arraste para longe as portas fechadas e abra espaço para novas possibilidades. Assim como o rio encontra seu leito, guiem-me até as oportunidades que são minhas por direito. Que os caminhos que surgem sejam repletos de luz, sucesso e crescimento. Eu decreto que as minhas intenções são claras e verdadeiras. Que assim seja!",
+  "frase_final": "O caminho tá se abrindo, confia e segue em frente!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Gilvanildo, esse banho vai abrir o caminho 🌿 Mas se quer saber as datas certas para aproveitar novas oportunidades, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Gilvanildo cordeiro teixeira",
+  "primeiroNome": "Gilvanildo"
+}
