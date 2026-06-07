@@ -1,0 +1,52 @@
+{
+  "previa": "Alessandra, tô vendo que você precisa de um banho poderoso pra abrir esses caminhos e renovar a energia. Vamos dar um jeito nessa sensação de estar presa e mandar toda essa energia travada embora!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Renovação",
+  "saudacao": "Alessandra, minha flor, tô vendo aqui que você tá sentindo um peso nos caminhos e acha que andaram mexendo nas suas energias. Vamos usar esse banho pra abrir trilhas novas e renovar suas forças!",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o astral e ajuda a clarear os caminhos."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Limpador poderoso, manda as energias ruins embora."
+    },
+    {
+      "nome": "eucalipto",
+      "descricao": "Purifica e refresca, trazendo sensação de renovação."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Revigora e traz energia nova."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Atrai boas vibrações e alegria."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e adicione as ervas principais.",
+    "Desligue o fogo e cubra a panela, deixando a infusão descansar por 15 minutos.",
+    "Coe a mistura e leve para o banheiro com você.",
+    "Após o seu banho normal, jogue a infusão do pescoço para baixo, mentalizando caminhos abertos e energia renovada.",
+    "Enquanto a água escorre, diga em voz alta: 'Que todo peso se vá, e que o novo me encontre!'"
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, limpeza",
+  "lua": "Crescente",
+  "lua_desc": "Atrair força e renovação",
+  "dicas": [
+    "Durante o banho, visualize portas se abrindo na sua frente.",
+    "Acenda uma vela branca para fortalecer o pedido de renovação.",
+    "Use uma roupa clara após o banho para atrair boas energias."
+  ],
+  "oracao": "Deus do universo, eu coloco minha intenção neste banho, pedindo que cada gota desta água leve embora as amarras e energias que me prendem. Que meu caminho se abra com a força do alecrim, clareando meu destino. Que o sal grosso purifique meu espírito, removendo qualquer influência negativa. E que o eucalipto traga a renovação necessária, refrescando minha alma. Assim como o hortelã revigora, que eu sinta energia nova e pulsante em cada passo. Que a casca de laranja atraia a alegria e as boas vibrações para minha vida. Decreto que estou livre e pronta para receber o que é meu por direito. Assim seja.",
+  "frase_final": "Agora, sinta-se leve e pronta para o novo!",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Alessandra, esse banho vai te ajudar a abrir os caminhos! Mas pra entender de onde vem essa sensação de peso e cortar a raiz disso, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Quer ver o que tá escrito nas tuas estrelas? 🔮",
+  "nome": "Alessandra Thome dos Santos",
+  "primeiroNome": "Alessandra"
+}
