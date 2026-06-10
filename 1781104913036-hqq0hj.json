@@ -1,0 +1,52 @@
+{
+  "previa": "Kelle, tô vendo que tem duas pessoas que tão te incomodando, né? Vamos cuidar disso com um banho poderoso de proteção. A energia ruim não vai ter vez, minha flor.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Oi Kelle, olha só, sei que essas duas pessoas tão te causando preocupação. Vamos fazer um banho que vai criar uma barreira de proteção ao teu redor. Assim, nada nem ninguém te atinge.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "A arruda é poderosa pra cortar energia negativa e te proteger."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "O sal grosso é um escudo natural contra toda inveja e má intenção."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "O alecrim dá força e clareza pra proteger seu campo energético."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Limpa e refresca, afastando más vibrações."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Renova as energias e traz frescor pro espírito."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione a arruda, sal grosso, alecrim, eucalipto e hortelã.",
+    "Deixe esfriar enquanto visualiza uma luz protetora ao seu redor.",
+    "Coe e, após seu banho, jogue a mistura do pescoço para baixo.",
+    "Enquanto faz isso, mentalize que a proteção te envolve e repele todo mal."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Sábado é regido por Saturno, ideal para rituais de limpeza e proteção.",
+  "lua": "Minguante",
+  "lua_desc": "A fase Minguante é perfeita para cortar influências negativas.",
+  "dicas": [
+    "Reforce sua confiança, lembra que você é mais forte do que pensa.",
+    "Evite contato desnecessário com essas pessoas, mantenha-se distante.",
+    "Use um talismã de proteção, como um olho grego, no dia a dia."
+  ],
+  "oracao": "Senhor, com a força da água e das ervas, crio uma barreira de proteção ao meu redor. Que toda energia negativa enviada por Andreia e Alain se dissipe como fumaça ao vento. Que esta água leve embora toda má intenção e que a luz divina me envolva e me proteja. Sinto o poder das ervas purificando meu ser, fechando meu corpo para qualquer mal. Decreto que estou segura, protegida e livre de toda e qualquer demanda. Assim é, assim será, amém.",
+  "frase_final": "Confia, amiga, a proteção tá com você agora!",
+  "upsell_produto": "Simpatia",
+  "upsell_mensagem": "Kelle, esse banho vai te proteger, minha flor. Mas, se quiser algo mais forte, posso preparar uma **Simpatia** exclusiva pra te blindar por completo, cortando de vez qualquer demanda. Tá afim de tentar por apenas R$ 9,98?",
+  "nome": "Kelle Feitosa Santana",
+  "primeiroNome": "Kelle"
+}
