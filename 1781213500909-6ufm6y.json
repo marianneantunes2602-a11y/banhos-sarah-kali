@@ -1,0 +1,52 @@
+{
+  "previa": "Bianca, esse banho é pra você se reconectar consigo mesma e deixar pra trás quem te magoou. Vamos focar no seu amor próprio e em sentir leveza de novo.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor Próprio",
+  "saudacao": "Oi, Bianca! Tô vendo aqui que você quer focar em você, deixando as mágoas pra trás. Vamos trabalhar esse amor próprio pra você se sentir em paz e leve. Bora lá?",
+  "ervas_principais": [
+    {
+      "nome": "rosa",
+      "descricao": "Representa o amor em sua forma mais pura, trazendo suavidade e beleza."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o astral, renova energias e traz clareza mental."
+    },
+    {
+      "nome": "lavanda",
+      "descricao": "Calmante natural que ajuda a relaxar e a soltar tensões do coração."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "camomila",
+      "descricao": "Acalma a mente e alivia preocupações."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e renova, ajuda a afastar pensamentos pesados."
+    }
+  ],
+  "preparo": [
+    "Ferva 1 litro de água e desligue o fogo.",
+    "Adicione as rosas, alecrim, lavanda, camomila e hortelã.",
+    "Deixe abafar por 15 minutos, enquanto mentaliza a leveza no coração.",
+    "Coe a mistura e leve para o banho.",
+    "Após seu banho normal, jogue o preparado do pescoço para baixo, sentindo a água levar embora o peso antigo."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Vênus, AMOR",
+  "lua": "Crescente",
+  "lua_desc": "Atrair mais amor próprio",
+  "dicas": [
+    "Escute uma música que te faz sentir bem enquanto prepara o banho.",
+    "Após o banho, vista uma roupa que você adora.",
+    "Coloque um perfume que te faz lembrar de bons momentos."
+  ],
+  "oracao": "Hoje, me coloco no centro do meu universo. Peço à energia do amor que renove meu coração, trazendo paz e clareza. Que a água leve embora qualquer mágoa, transformando em aprendizado e aceitação. Permito-me sentir o amor em sua forma mais pura, direcionado a mim mesma. A cada respiração, sinto o amor próprio florescer, preenchendo todo espaço que antes era dor. Quero desejar bem a todos, mas sem carregar o peso alheio. Que esse banho fortaleça meu propósito de ser feliz, segura e plena, andando leve pelo meu caminho. Assim seja.",
+  "frase_final": "Abraça o amor próprio e solta o que não serve mais.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Bianca, esse banho vai fortalecer teu amor próprio 💜 Mas pra você entender como lidar melhor com essas relações e atrair quem soma, posso te fazer um **Mapa do Amor** por só R$ 9,98. Ele mostra como gerenciar melhor teus laços afetivos. Quer descobrir mais? 🌙",
+  "nome": "Bianca de Souza dos Santos",
+  "primeiroNome": "Bianca"
+}
