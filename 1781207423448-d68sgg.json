@@ -1,0 +1,56 @@
+{
+  "previa": "Lucineia, esse banho vai te ajudar a soltar essa energia e trazer leveza. É hora de limpar esse peso que não te larga e abrir espaço pra paz no coração.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Oi, Lucineia, minha flor. Tô vendo aqui que esse término tá pesando demais no teu coração e na tua mente. Não tá fácil, né? Vamos limpar essa energia pra você voltar a dormir bem e seguir em frente.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Arruda é poderosa pra afastar energias negativas e limpar o campo energético."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "O alecrim traz clareza mental e renova as energias."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Sal grosso é essencial pra descarrego, dissolve o que não serve mais."
+    },
+    {
+      "nome": "eucalipto",
+      "descricao": "Reanima e purifica, ajudando a soltar o que te prende."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Hortelã refresca e acalma a mente."
+    },
+    {
+      "nome": "lavanda",
+      "descricao": "Lavanda ajuda a acalmar o espírito e traz paz."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desliga o fogo.",
+    "Adicione as ervas principais e as auxiliares na água.",
+    "Deixe em infusão por 15 minutos, enquanto pensa em soltar o que não te serve.",
+    "Coe e, após seu banho normal, derrame a mistura do pescoço pra baixo.",
+    "Enquanto a água escorre pelo corpo, mentalize a limpeza e a leveza voltando. Joga fora o que não é mais teu."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, ideal pra limpeza profunda e descarrego.",
+  "lua": "Minguante",
+  "lua_desc": "Perfeita pra cortar e soltar o que te prende.",
+  "dicas": [
+    "Faz o banho num ambiente tranquilo, sem pressa.",
+    "Repita esse banho semanalmente até sentir leveza e alívio.",
+    "Evita contato com ele nesse período, foca em ti."
+  ],
+  "oracao": "Senhor, nesse momento sagrado, eu declaro que estou liberando tudo aquilo que não está em alinhamento com a minha paz e bem-estar. Que a água leve embora toda tristeza, todo pensamento de apego e toda a energia que não me pertence mais. Que a força da arruda e do sal grosso dissolva o peso do meu coração. Que o alecrim e o eucalipto clareiem minha mente e abram espaço para luz e serenidade. Respiro fundo neste instante, confiando que a limpeza se faz presente, e que novos caminhos de paz e amor se abrem para mim, com a bênção do universo. Assim seja.",
+  "frase_final": "Libera o que não serve mais, liberdade e paz pra você.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Lucineia, esse banho vai te ajudar a limpar essas energias pesadas. Pra entender melhor o que tá escrito nas tuas estrelas e como seguir leve, posso preparar um **Mapa Astral** por apenas R$ 9,98. Quer ver o que o universo guarda pra você? 🔮",
+  "nome": "Lucineia da rosa",
+  "primeiroNome": "Lucineia"
+}
