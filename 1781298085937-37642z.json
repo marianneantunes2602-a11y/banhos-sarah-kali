@@ -1,0 +1,52 @@
+{
+  "previa": "Francieli, amiga, tô vendo que sua vida deu uma reviravolta e tanto! Vamos fazer um banho de proteção pra te ajudar a se sentir segura nesse novo momento.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Francieli, minha flor, sei que você tá passando por uma fase de mudanças e precisa de um pouco de proteção pra se sentir mais segura e confiante. Vamos cuidar disso juntas!",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "A poderosa que corta todas as negatividades. Ela é firmeza!"
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Protege feito muralha, não deixa nada ruim entrar."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e traz clareza pra mente."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e limpa, botando ordem na casa."
+    },
+    {
+      "nome": "eucalipto",
+      "descricao": "Abre os caminhos e refresca o espírito."
+    }
+  ],
+  "preparo": [
+    "Ferve dois litros de água até borbulhar, amiga.",
+    "Desliga o fogo e adiciona as ervas, enquanto mentaliza proteção.",
+    "Deixa a mistura descansar até amornar.",
+    "Coe o banho, focando na renovação e proteção para sua vida.",
+    "Após o banho de higiene, joga essa mistura do pescoço pra baixo, sentindo a proteção te envolver."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, limpeza",
+  "lua": "Minguante",
+  "lua_desc": "Cortar energias negativas",
+  "dicas": [
+    "Evita ambientes pesados ou com muita tensão.",
+    "Use uma peça de roupa clara após o banho para reforçar a proteção.",
+    "Acenda uma vela branca e faça uma oração pela sua proteção."
+  ],
+  "oracao": "Eu, Francieli, me envolvo na luz da proteção. Que a água leve embora toda energia estagnada, que o arruda afaste as negatividades, que o sal grosso me envolva com sua barreira de proteção, e que o alecrim renove meu espírito. Que eu sinta a força divina me guiar e me proteger nessa nova jornada. Que todo o mal encontre seu fim e que a paz e a segurança sejam minhas companheiras. Assim é decretado, assim se fará.",
+  "frase_final": "Proteção e luz te cercam, minha querida!",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Francieli, esse banho vai te proteger de energias ruins 🌿 Mas pra entender melhor por que essas mudanças estão acontecendo agora e como se preparar, posso fazer um **Mapa Astral** por apenas R$ 9,98. Quer ver o que as estrelas dizem sobre seu caminho? 🔮",
+  "nome": "Francieli Regina da Rosa Camargo",
+  "primeiroNome": "Francieli"
+}
