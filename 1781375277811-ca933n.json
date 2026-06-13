@@ -1,0 +1,52 @@
+{
+  "previa": "Ronaldo, um banho energético vai te ajudar a recuperar o vigor perdido. Vamos afastar esse cansaço físico e mental de uma vez!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Energia",
+  "saudacao": "Ronaldo, meu amigo, tô vendo aqui que o cansaço tá pesando, né? Mas olha só, vamos levantar esse astral e recuperar teu vigor. Vem comigo nessa!",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Revitaliza o corpo e a mente, dá aquele up na energia."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e estimula, ajuda a clarear a mente."
+    },
+    {
+      "nome": "sálvia",
+      "descricao": "Renova as energias e afasta a fadiga mental."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Desperta o ânimo e alivia o cansaço."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Traz calor e dinamismo, reanima o espírito."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água.",
+    "Desliga o fogo e adiciona as ervas principais e auxiliares.",
+    "Deixa a infusão descansar por 15 minutos, com a panela tampada.",
+    "Coa a mistura e leva pro banheiro.",
+    "Após tomar teu banho habitual, joga a infusão do pescoço pra baixo, mentalizando energia e disposição tomando conta de ti."
+  ],
+  "dia": "Terça",
+  "dia_desc": "Marte, ação",
+  "lua": "Crescente",
+  "lua_desc": "Atrair energia nova",
+  "dicas": [
+    "Escuta uma música animada enquanto prepara o banho.",
+    "Ao jogar o banho, imagine uma luz dourada envolvendo todo teu corpo.",
+    "Depois do banho, descansa alguns minutos em silêncio, sentindo a energia renovada."
+  ],
+  "oracao": "Senhor do Universo, abençoa esse banho que a água leve embora todo cansaço, toda fadiga. Que a força de Marte me impulsione e me encha de vigor, clareando minha mente e renovando meu espírito. A cada gota que toca minha pele, que a vitalidade cresça, que a energia flua em mim como um rio, poderoso e incessante. Decreto que a vitalidade é minha companheira, sempre presente, vencendo o cansaço e abrindo caminho para uma vida vibrante e ativa. Assim seja.",
+  "frase_final": "Energia renovada, Ronaldo! Agora é brilhar com força total!",
+  "upsell_produto": "Revolução Solar",
+  "upsell_mensagem": "Ronaldo, esse banho vai te dar o gás que você precisa! Mas se quiser entender como aproveitar melhor esse ano todo, posso fazer uma *Revolução Solar* por apenas R$ 9,98. Te mostro o que o novo ciclo astrológico reserva pra ti. Que tal explorar isso? 🌞",
+  "nome": "Ronaldo Souza Costa",
+  "primeiroNome": "Ronaldo"
+}
