@@ -1,0 +1,52 @@
+{
+  "previa": "Juliane, tô vendo que esses dias andam pesados, né? Vamos cuidar disso com um banho certeiro que vai trazer leveza, amor e prosperidade pra tua vida. Vamos virar esse jogo!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Juliane! Olha só, tô vendo aqui que a tristeza tá pesando no teu coração e a relação não tá do jeito que você gostaria. Vamos dar um jeito nisso com um banho de prosperidade pra abrir os caminhos e trazer mais amor e paz pro teu dia a dia.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Abre caminhos e atrai prosperidade, amiga!"
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e traz aquela força que a gente precisa."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Esquenta o coração e atrai amor e abundância."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca a mente e ajuda a clarear os pensamentos."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Traz alegria e leveza pra alma."
+    }
+  ],
+  "preparo": [
+    "Ferve dois litros de água e desliga o fogo.",
+    "Adiciona as ervas e deixa em infusão por 10 minutos.",
+    "Enquanto a água esfria, mentaliza a leveza e a prosperidade entrando na tua vida.",
+    "Após o banho habitual, derrama a mistura do pescoço pra baixo, sentindo a tristeza indo embora.",
+    "Seca levemente com uma toalha e agradece pela renovação das energias."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade e expansão",
+  "lua": "Crescente",
+  "lua_desc": "Atrair novas energias e oportunidades",
+  "dicas": [
+    "Acende uma vela amarela durante o banho pra potencializar a energia de abundância.",
+    "Usa uma roupa clara depois do banho, pra trazer leveza e abrir os caminhos.",
+    "Escuta uma música que te faz sentir amada e leve enquanto prepara o banho."
+  ],
+  "oracao": "Querida Mãe das Águas, venho a ti com humildade e esperança. Que essa água leve embora toda tristeza e insatisfação. Que as correntes do amor e da prosperidade fluam livremente em minha vida. Quero sentir a leveza na alma, a alegria de ser amada, e a paz que só vem da certeza do caminho certo. Permita que o amor floresça em meu coração e que minha vida profissional prospere com abundância e sucesso. Agradeço por toda a energia renovada e por abrir os caminhos do amor verdadeiro e da felicidade. Amém.",
+  "frase_final": "Vai lá e sente essa renovação, minha flor.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Juliane, esse banho vai te trazer mais leveza e prosperidade! Se quiser entender melhor sua essência e o que as estrelas têm guardado pra você, posso te fazer um **Mapa Astral** por só R$ 9,98. Bora desvendar o que tá escrito pra te guiar? ✨",
+  "nome": "Juliane Souza Marques da Silva",
+  "primeiroNome": "Juliane"
+}
