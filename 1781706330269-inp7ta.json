@@ -1,0 +1,52 @@
+{
+  "previa": "Laudicelia, tô vendo que as coisas tão pesadas, né? Vamos aliviar esse peso e abrir caminho pra novas energias. Prepara um banho especial pra deixar essa carga pra trás.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Oi, Laudicelia! Sinto que o momento tá complicado, parece que as energias pesadas tão te segurando. Mas não se preocupa, vamos cuidar disso com um banho poderoso pra te ajudar a fluir novamente.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Ela tira a carga pesada e abre caminho pra leveza."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias, trazendo um frescor pra sua vida."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Poderoso pra descarregar, leva embora tudo que não presta."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Purifica e acalma, trazendo paz pro coração."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Revitaliza e refresca, ajudando a abrir os caminhos."
+    }
+  ],
+  "preparo": [
+    "Ferve dois litros de água e, fora do fogo, adiciona as ervas.",
+    "Deixa as ervas em infusão por dez minutos, cobertas.",
+    "Coa o líquido e leva pro banho com calma, sentindo o cheiro.",
+    "Depois de se lavar, joga a mistura do pescoço pra baixo, pedindo descarrego.",
+    "Enquanto a água escorre, mentaliza as coisas fluindo bem na tua vida."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, limpeza",
+  "lua": "Minguante",
+  "lua_desc": "Cortar o que não serve",
+  "dicas": [
+    "Antes do banho, purifica o ambiente com incenso de limpeza.",
+    "Evita roupas escuras depois do banho, usa cores claras pra atrair leveza.",
+    "Durante o banho, mentaliza cada área da vida fluindo livremente."
+  ],
+  "oracao": "Divinas forças do universo, peço que esta água leve todo o peso e bloqueios que me impedem de seguir em frente. Que o poder da arruda, do alecrim, e do sal grosso retirem toda energia negativa, abrindo caminho para a paz e harmonia. Que o eucalipto e a hortelã tragam frescor e renovação, permitindo que minha vida flua com leveza. Deixo aqui tudo que não me serve mais, confiante de que a água levará embora e o novo se abrirá para mim. Assim seja, assim é.",
+  "frase_final": "Renova tuas energias e deixa o peso pra trás.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Laudicelia, esse banho vai aliviar a carga pesada que você tá sentindo. Mas pra entender de onde vem essas travas, podemos fazer um **Mapa Astral** por apenas R$ 9,98. Ele te mostra o que tá escrito nas tuas estrelas e como trabalhar isso. Quer saber mais? 🌟",
+  "nome": "Laudicelia de Moura",
+  "primeiroNome": "Laudicelia"
+}
