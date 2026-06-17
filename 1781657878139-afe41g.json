@@ -1,0 +1,52 @@
+{
+  "previa": "Marinete, tô vendo aqui que o coração tá querendo mais, né? Vamos usar as forças certas pra atrair aquele amor que você tanto deseja. Vou te ensinar a preparar um banho poderoso pra abrir esse caminho e deixar a chama acesa!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Marinete, minha flor, eu sei bem o quanto você quer que essa pessoa especial volte os olhos só pra você. Vamos fazer um banho que vai te deixar mais poderosa e atraente, além de abrir os caminhos do amor. Vamos lá, amiga!",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "conhecida por atrair o amor e aumentar a beleza."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "traz clareza e frescor, deixando a energia vibrante."
+    },
+    {
+      "nome": "canela",
+      "descricao": "aquecedora, chama o amor e intensifica desejos."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "manjericão",
+      "descricao": "abre os caminhos do coração."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "refresca a mente e atrai olhares."
+    }
+  ],
+  "preparo": [
+    "Colha as ervas com carinho, agradecendo suas energias.",
+    "Ferva dois litros de água, desligue o fogo e adicione as ervas.",
+    "Tampe e deixe abafar por 15 minutos.",
+    "Coe o banho, concentrando-se na sua intenção de atrair amor.",
+    "Após o banho higiênico, jogue o preparado do pescoço pra baixo, visualizando seu amor te procurando."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Vênus, dia do amor e da beleza",
+  "lua": "Crescente",
+  "lua_desc": "A melhor para atrair e potencializar energias amorosas",
+  "dicas": [
+    "Use uma roupa que te faça sentir linda após o banho.",
+    "Coloque uma música que te inspire no amor enquanto faz o banho.",
+    "Mantenha pensamentos positivos e visualize a pessoa te procurando."
+  ],
+  "oracao": "Deusa do amor, eu chamo por ti agora. Que esta água leve meu desejo ao universo e atraia o amor verdadeiro que meu coração tanto almeja. Que eu me torne irresistível aos olhos de quem amo, que ele me procure, que ele me ame por inteiro. Que as pétalas de rosa tragam beleza e paixão, que o alecrim clareie os caminhos do amor, e que a canela intensifique o desejo e a atração. Que assim seja, e assim se faça.",
+  "frase_final": "O amor está a caminho, minha querida.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Marinete, esse banho vai abrir o caminho do amor pra ti. Mas pra entender quem é o tipo certo que realmente vai te amar e procurar, posso te fazer um **Mapa do Amor** por só R$ 9,98. Mostra com quem tu combina e como atrair quem soma. Quer saber mais? 💜",
+  "nome": "Marinete Barbosa Gomes",
+  "primeiroNome": "Marinete"
+}
