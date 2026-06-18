@@ -1,0 +1,52 @@
+{
+  "previa": "Oi, Adilene! Vamos preparar um banho especial pra atrair o amor de volta à sua vida. Moabes pode até ter se afastado, mas a força do amor tá mais próxima do que você imagina. Bora lá!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Minha flor, tô vendo aqui que o Moabes se afastou e que isso tá te deixando apreensiva. Vamos usar a força das ervas pra trazer o amor de volta, clarear essa situação e acalmar seu coração.",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "As rosas são poderosas pra atrair amor e abrir o coração."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova a energia e atrai boas vibrações no amor."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Esquenta os sentimentos e estimula a atração."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "jasmim",
+      "descricao": "Delicado, mas forte, intensifica os laços de afeto."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e traz clareza, deixando seu coração aberto."
+    }
+  ],
+  "preparo": [
+    "Ferva 1 litro de água e, ao desligar o fogo, adicione as ervas e abafe.",
+    "Espere a mistura amornar enquanto mentaliza a reconciliação com Moabes.",
+    "Coe tudo, levando apenas a água pro chuveiro.",
+    "Após seu banho normal, jogue a água das ervas do pescoço pra baixo.",
+    "Enquanto a água escorre, imagine a reaproximação acontecendo."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Vênus, AMOR",
+  "lua": "Crescente",
+  "lua_desc": "Atraindo o amor de volta à sua vida",
+  "dicas": [
+    "Use uma peça de roupa rosa ou vermelha nesse dia.",
+    "Escreva uma carta de amor pra você mesma, reforçando seu valor.",
+    "Mantenha-se aberta a sinais e encontros inesperados."
+  ],
+  "oracao": "Eu, Adilene, coloco minha intenção sincera nesta água, que flui e leva consigo qualquer mal-entendido, qualquer barreira entre mim e Moabes. Que as pétalas de rosa tragam a doçura de volta, que o alecrim renove nossos laços, e que a canela aqueça nossos corações. Assim como a água corre, que o amor volte a fluir livremente, trazendo clareza e compreensão. Que a força desta oração e o poder dessas ervas me envolvam e me tragam paz, amor e harmonia. Assim seja, assim é, assim será.",
+  "frase_final": "O amor tá no ar, só esperando pra chegar.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Adilene, esse banho vai abrir o caminho 💜 Mas pra você entender quem é o tipo certo pra ti, com quem tu combina de verdade, posso te fazer um **Mapa do Amor** por só R$ 9,98. Mostra os teus padrões e como atrair quem soma. Quer saber mais? 🌙",
+  "nome": "Adilene Santana",
+  "primeiroNome": "Adilene"
+}
