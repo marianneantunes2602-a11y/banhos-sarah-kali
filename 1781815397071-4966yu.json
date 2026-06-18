@@ -1,0 +1,52 @@
+{
+  "previa": "Alessandra, tô vendo que você tá precisando de uma proteção forte. Vamos preparar um banho que vai blindar você contra qualquer energia negativa que esteja rondando. Confie, amiga, isso vai ajudar você a se sentir segura e protegida.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Oi Alessandra, minha flor! Tô aqui pra te ajudar a criar uma barreira poderosa contra tudo que não te serve. Esse banho é pra te proteger, pra você se sentir segura e tranquila. Vamos blindar essa energia!",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "A arruda é poderosa pra afastar as energias negativas. É como um escudo protetor."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Sal grosso é um clássico na proteção, limpa e cria uma barreira."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "O alecrim fortalece o espírito, deixando você mais resistente."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Eucalipto purifica a alma e protege contra maus ventos."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "A hortelã refresca e traz leveza, afastando o que pesa."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione a arruda, sal grosso, alecrim, eucalipto e hortelã.",
+    "Deixe em infusão por 15 minutos com a panela tampada.",
+    "Coe e leve o banho ao banheiro.",
+    "Após seu banho normal, jogue essa água do pescoço pra baixo, mentalizando a proteção."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Sábado é regido por Saturno, ideal para banhos de proteção e limpeza.",
+  "lua": "Minguante",
+  "lua_desc": "A lua minguante é perfeita pra cortar e afastar energias negativas.",
+  "dicas": [
+    "Faça esse banho em silêncio e com calma.",
+    "Acenda uma vela branca enquanto prepara o banho.",
+    "Mentalize um escudo de luz ao seu redor, afastando tudo que não te serve."
+  ],
+  "oracao": "Em nome da força maior, eu, Alessandra, decreto a proteção sobre minha vida. Que a água leve embora toda energia que não me pertence. Que este banho de arruda, sal grosso, eucalipto, alecrim e hortelã construa um escudo ao meu redor. Assim como a água flui, tudo que é negativo flui para longe. Que meu caminho seja iluminado e protegido, que as boas energias me envolvam e me cerquem. Confio e agradeço, sabendo que estou segura. Que assim seja, que assim se faça.",
+  "frase_final": "Confia, Alessandra, essa proteção vai te cercar.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Alessandra, esse banho vai te blindar. Mas se quiser entender de onde vem essas energias que te afetam, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Ele te ajuda a entender o que as estrelas guardam pra você. Quer descobrir mais? 🌟",
+  "nome": "Alessandra marques da Silva",
+  "primeiroNome": "Alessandra"
+}
