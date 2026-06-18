@@ -1,0 +1,56 @@
+{
+  "previa": "Cinthia, senti que você tá fazendo tudo direitinho, mas a prosperidade ainda não veio. Vamos dar um empurrão com um banho poderoso pra atrair clientes e abrir os caminhos!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Cinthia, minha flor, tô vendo que você tá se esforçando, mas a prosperidade ainda não chegou. Vamos dar uma força com as ervas certas pra abrir os caminhos e atrair mais clientes.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Essa erva é excelente pra atrair prosperidade e abrir caminhos."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias, trazendo clareza e boas vibrações financeiras."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Potente pra trazer sucesso e atrair dinheiro."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Atrai abertura e novas oportunidades."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "cravo",
+      "descricao": "Atrai riqueza e proteção nos negócios."
+    },
+    {
+      "nome": "louro",
+      "descricao": "Simboliza vitória e prosperidade material."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione manjericão, alecrim, canela e casca de laranja.",
+    "Tampe e deixe em infusão por 15 minutos.",
+    "Coe e, após o seu banho higiênico, jogue do pescoço para baixo.",
+    "Enquanto joga, mentalize os clientes chegando e a prosperidade fluindo."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Quinta é o dia de Júpiter, o planeta da expansão e prosperidade.",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita para atrair e manifestar novos clientes e oportunidades.",
+  "dicas": [
+    "Faça o banho em um ambiente tranquilo, sem interrupções.",
+    "Enquanto prepara, mentalize seus objetivos de prosperidade.",
+    "Após o banho, vista roupas claras pra atrair boas energias."
+  ],
+  "oracao": "Deito nas águas o meu desejo de prosperidade. Que o manjericão abra os caminhos para novos clientes, que o alecrim renove minha energia e traga boas vibrações, e que a canela atraia sucesso e dinheiro. Com a casca de laranja, peço novas oportunidades e com o cravo, a proteção nos negócios. Que o louro traga vitória material. Peço às forças do universo que iluminem meu caminho e encham minha vida de abundância. Assim seja, assim é, assim será.",
+  "frase_final": "Confia e deixa a água levar as travas embora!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Cinthia, o banho vai ajudar a atrair clientes e abrir caminhos 🌿 Mas, se quer saber as datas certas e oportunidades pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Cinthia Martinelle de Oliveira",
+  "primeiroNome": "Cinthia"
+}
