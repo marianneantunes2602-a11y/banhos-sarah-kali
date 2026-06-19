@@ -1,0 +1,52 @@
+{
+  "previa": "Olha só, Lady, tô vendo que você quer virar o jogo e mostrar a todos, inclusive a si mesma, que pode conquistar o que deseja sem depender de ninguém. Vamos preparar um banho poderoso pra prosperidade que vai abrir seus caminhos e te encher de confiança. 🌿",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Minha flor, tô vendo aqui que você tá numa fase de reconstrução, buscando mostrar sua força e conquistar seus sonhos. Vamos focar na prosperidade, pra você sentir que a mudança tá acontecendo de verdade, igual água corrente levando o que não serve.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Erva que atrai boas energias e abre caminhos financeiros pra quem tá na busca de conquistas."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Trás clareza e energia pra tomar decisões certas e avançar nos seus projetos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Essa aqui é pra dar aquele empurrão nas suas finanças, trazendo movimento e sorte."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Renova as energias, trazendo frescor e disposição pra novos inícios."
+    },
+    {
+      "nome": "louro",
+      "descricao": "Símbolo de vitória, ajuda a trazer prosperidade e sucesso nos seus planos."
+    }
+  ],
+  "preparo": [
+    "Ferve 1 litro de água e desliga o fogo.",
+    "Coloca as ervas principais e auxiliares na água quente, e tampa por 15 minutos.",
+    "Enquanto esfria, mentaliza seus objetivos, visualizando cada conquista.",
+    "Coe e leve o banho pra jogar do pescoço pra baixo, após o banho normal.",
+    "Sente a água levando embora inseguranças, te enchendo de confiança."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Dia de Júpiter, perfeito pra expansão e prosperidade.",
+  "lua": "Crescente",
+  "lua_desc": "Essa lua ajuda a atrair crescimento e novas oportunidades.",
+  "dicas": [
+    "Use uma roupa amarela ou dourada após o banho, cores que atraem prosperidade.",
+    "Escreve num papel seus objetivos financeiros e coloca embaixo do travesseiro.",
+    "Acende uma vela verde na quinta-feira e mentaliza seus desejos com fé."
+  ],
+  "oracao": "Senhor do Universo, sob a força dos elementos e da natureza, peço que essa água carregue consigo as energias de renovação e prosperidade. Que ela leve embora toda dúvida e incerteza, e traga a força de Júpiter para que meus caminhos se abram e oportunidades floresçam. Me permita atingir aquilo que desejo, com segurança e confiança em minha capacidade de conquistar o que é meu por direito. Que cada gota que escorre no meu corpo seja uma chance de começar de novo, de plantar as sementes do sucesso e de colher os frutos do meu esforço. Com gratidão, assim é, assim será.",
+  "frase_final": "Vai lá e faz, a prosperidade tá a caminho!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Lady, esse banho vai abrir seus caminhos 🌿. Mas pra saber as datas certas e oportunidades do próximo ano, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário das tuas conquistas. Que tal? 💰",
+  "nome": "Lady Roberta Christ amantes",
+  "primeiroNome": "Lady"
+}
