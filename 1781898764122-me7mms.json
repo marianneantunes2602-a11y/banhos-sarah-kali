@@ -1,0 +1,52 @@
+{
+  "previa": "Marta, amiga, tô vendo que as coisas tão pesadas. Vamos abrir esses caminhos com um banho especial e trazer um pouco de luz pra tua vida. 🌟",
+  "titulo": "Banho de",
+  "titulo_destaque": "Recomeço",
+  "saudacao": "Oi, Marta. Eu sei que o momento tá difícil, mas vamos cuidar de você. Vou te ensinar um banho poderoso pra abrir os caminhos e trazer um pouco de paz e clareza nesse momento de turbulência.",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Traz clareza mental e vitalidade, renovando suas energias."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Atraí boas vibrações e novas oportunidades."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aumenta a força interior e atrai prosperidade."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "sal grosso",
+      "descricao": "Limpa as energias pesadas e abre espaço para o novo."
+    },
+    {
+      "nome": "eucalipto",
+      "descricao": "Ajuda a acalmar a mente e o coração."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as ervas e deixe em infusão por 15 minutos, com o recipiente tampado.",
+    "Coe a mistura e leve para o banheiro.",
+    "Após seu banho normal, jogue a infusão do pescoço pra baixo, mentalizando a abertura dos caminhos.",
+    "Enquanto a água escorre, visualiza a tristeza e o nervosismo indo embora."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Nova",
+  "lua_desc": "Começar",
+  "dicas": [
+    "Escute músicas que te façam sentir bem enquanto prepara o banho.",
+    "Tente meditar um pouco antes de dormir à noite.",
+    "Escreva seus sentimentos em um diário, ajuda a liberar a carga."
+  ],
+  "oracao": "Universo, aqui e agora, clamo pela força interior que me guia e me protege. Que cada gota deste banho leve embora a tristeza e traga para minha vida a luz de novos caminhos e oportunidades. Que a energia renovada abra portas fechadas e traga a esperança de dias melhores. Decreto que sou digno de amor, prosperidade e paz. Assim seja.",
+  "frase_final": "Marta, tua caminhada vai ganhar nova luz!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Marta, esse banho vai te ajudar a abrir os caminhos 🌟 Mas pra saber as melhores oportunidades e datas dos próximos meses, posso preparar um **Mapa Anual** por só R$ 9,98. Ele te entrega o calendário do teu ano. Que tal explorar isso juntos? 📆",
+  "nome": "Marta Marques de Marroque",
+  "primeiroNome": "Marta"
+}
