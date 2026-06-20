@@ -1,0 +1,52 @@
+{
+  "previa": "Tailane, tô vendo que o dinheiro tá escorregando das tuas mãos. Vamos dar um jeito nisso com um banho poderoso de prosperidade que vai abrir os caminhos e fazer o dinheiro fluir de verdade!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, minha flor! Olha só, tô sentindo que você tá passando por uma fase bem travada com o dinheiro, né? Vamos preparar um banho que vai mudar essa energia e fazer o dinheiro render. Bora lá!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e abre os caminhos financeiros."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Revigora a mente e ajuda a tirar bloqueios financeiros."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Traz sorte e atrai sucesso financeiro."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "cravo",
+      "descricao": "Impulsiona e amplifica os efeitos de prosperidade."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Levanta o astral e atrai boa sorte."
+    }
+  ],
+  "preparo": [
+    "Ferva dois litros de água e desligue o fogo.",
+    "Adicione todas as ervas e tampe a panela, deixando em infusão por 20 minutos.",
+    "Coe o banho, mentalizando a prosperidade entrando na sua vida.",
+    "Após o banho higiênico, jogue a mistura do pescoço para baixo.",
+    "Enquanto a água escorre, visualize o dinheiro fluindo e rendendo na sua vida."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Evite dizer que o dinheiro não rende, troque por 'o dinheiro chega fácil'.",
+    "Coloque uma nota de qualquer valor na carteira como símbolo de abundância.",
+    "Acenda uma vela verde após o banho pra potencializar a energia de prosperidade."
+  ],
+  "oracao": "Deus da abundância, que o dinheiro flua e renda na minha vida como o rio que corre para o mar.\n\nQue estas ervas abençoadas me tragam a energia necessária para ajustar minha relação com o dinheiro, para que ele seja parceiro, fiel e multiplicador dos meus esforços.\n\nQue cada gota dessa água leve embora qualquer bloqueio, qualquer ideia de escassez, e traga ao meu caminho oportunidades de crescimento e sucesso.\n\nQue eu saiba usá-lo com sabedoria, que ele me traga paz e conforto, e que eu possa ser um canal de prosperidade para mim e para os outros.\n\nAssim é, assim seja, para o bem de todos.",
+  "frase_final": "Vai lá, flor, e atrai essa prosperidade pra tua vida!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Tailane, o banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Tailane Santos Bastos",
+  "primeiroNome": "Tailane"
+}
