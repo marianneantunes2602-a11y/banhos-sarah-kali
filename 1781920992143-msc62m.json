@@ -1,0 +1,52 @@
+{
+  "previa": "Helder, tô vendo que você tá com os caminhos travados e precisa daquela força pra prosperidade, né? Vamos dar um jeito nisso com um banho poderoso. Confia, fia.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Olha só, Helder, sei que você tá precisando de uma ajudinha pra abrir esses caminhos e trazer prosperidade pra tua vida. Não se preocupa, esse banho vai te dar a força que você precisa.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai sorte e sucesso, trazendo prosperidade."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e abre caminhos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Potente pra atrair dinheiro e prosperidade."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Elevante, traz novas oportunidades."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Aumenta a força e determinação."
+    }
+  ],
+  "preparo": [
+    "Coloque 1 litro de água para ferver.",
+    "Adicione manjericão, alecrim, canela, casca de laranja e cravo na água.",
+    "Deixe ferver por 10 minutos, tampe e espere esfriar.",
+    "Coe o banho e, durante o banho de chuveiro normal, jogue a mistura do pescoço pra baixo.",
+    "Enquanto joga a água, mentalize seus caminhos se abrindo e a prosperidade chegando."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Mantenha a mente focada nos seus objetivos durante o banho.",
+    "Depois do banho, use uma peça de roupa amarela pra atrair ainda mais prosperidade.",
+    "Acenda uma vela verde enquanto visualiza sua vida fluindo abundantemente."
+  ],
+  "oracao": "Com a força da água e das ervas, eu, Helder, decreto a abertura dos meus caminhos e chamo a prosperidade para minha vida. Que as bênçãos de Júpiter iluminem meu caminho, trazendo oportunidades e sucesso. As energias do alecrim, manjericão e canela trabalham a meu favor, dissolvendo obstáculos e atraindo fortuna. Que a energia flua livre, abrindo portas e trazendo abundância. Assim é e assim será, com a força da natureza e do meu espírito determinado. Agradeço por cada oportunidade que recebo e por cada caminho que se abre diante de mim. Eu confio, eu recebo, eu prospero.",
+  "frase_final": "Vai lá e arrasa, Helder! Prosperidade tá vindo!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Helder, o banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Helder lavarda floriano",
+  "primeiroNome": "Helder"
+}
