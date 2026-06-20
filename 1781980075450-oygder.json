@@ -1,0 +1,52 @@
+{
+  "previa": "Silvia, tô vendo que as dívidas tão te sufocando. Vamos abrir os caminhos da prosperidade pra você? Esse banho vai ajudar a atrair as boas energias e trazer alívio pra essa situação apertada. Vê só o que preparei!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Silvia! Olha só, sei que a parada das dívidas tá te apertando. Vamos trabalhar essa energia e fazer um banho poderoso pra atrair a prosperidade que você tanto precisa. Vai lá e confia!",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Pra abrir os caminhos e renovar as energias."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Atrai dinheiro e estabilidade financeira."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Forte aliado pra atrair sorte e proteção nos negócios."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "louro",
+      "descricao": "Símbolo de vitória, ajuda a realizar os sonhos."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Revitaliza e traz alegria, essencial pra atrair prosperidade."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água.",
+    "Desligue o fogo e adicione as ervas: alecrim, canela, manjericão, louro e casca de laranja.",
+    "Deixe a mistura em infusão por 15 minutos, enquanto mentaliza a prosperidade entrando na sua vida.",
+    "Coe o banho e leve para o chuveiro.",
+    "Após o banho habitual, jogue a mistura do pescoço para baixo, visualizando as dívidas sendo levadas embora."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Mantenha um cristal de citrino por perto, ele atrai prosperidade.",
+    "Trabalhe sua mentalidade, focando em gratidão pelo que já tem.",
+    "Anote todas as suas vitórias diárias, por menores que sejam."
+  ],
+  "oracao": "Meu querido Universo, neste momento, permito que as águas levem embora todas as dificuldades financeiras que têm atravessado meu caminho. Com o poder das ervas, abro espaço para a prosperidade e a abundância fluírem livremente na minha vida. Que cada gota desse banho traga oportunidades, clareza e soluções. Sinto o peso das dívidas se dissolvendo, e acolho a energia de Júpiter, que me guia com sabedoria e generosidade. Estou pronta para receber as bênçãos que mereço, com um coração aberto e mente tranquila. Assim seja, assim já é.",
+  "frase_final": "Prosperidade tá a caminho, Silvia! Confia!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Silvia, o banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Silvia Maria Rodrigues da Silva",
+  "primeiroNome": "Silvia"
+}
