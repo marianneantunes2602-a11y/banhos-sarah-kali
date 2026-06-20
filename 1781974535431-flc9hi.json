@@ -1,0 +1,52 @@
+{
+  "previa": "Joelda, sei que as vendas estão difíceis, mas vamos abrir esses caminhos e trazer seus clientes de volta. Esse banho vai destravar a energia e atrair prosperidade pra você.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Minha flor, tô vendo que as coisas andam paradas aí com as vendas, né? Olha só, vamos dar aquele empurrão pra destravar os caminhos e trazer de volta a clientela. Vamos lá!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai dinheiro e sorte como ímã."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Traz ânimo e clareza pra abrir caminhos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Potencializa a atração de prosperidade."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "louro",
+      "descricao": "Símbolo de vitória e sucesso financeiro."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Renova as energias com frescor."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as ervas principais e cubra a panela.",
+    "Mentalize seus clientes retornando enquanto a infusão esfria.",
+    "Coe e leve ao banheiro. Tome seu banho habitual.",
+    "Jogue a infusão do pescoço pra baixo, visualizando o movimento das vendas."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair novas oportunidades",
+  "dicas": [
+    "Deixe uma vela verde acesa durante o banho para potencializar.",
+    "Coloque uma música que te inspire na hora do banho.",
+    "Anote suas ideias de como melhorar as vendas após o banho."
+  ],
+  "oracao": "Eu, Joelda, decreto que este banho ilumina meu caminho, removendo todos os bloqueios que travam meu sucesso. A água leva embora as dificuldades, atraindo clientes e prosperidade. Abro espaço para que o universo me traga oportunidades, novas vendas e sucesso no meu negócio. Com gratidão, aceito as bênçãos que chegam e vejo meu comércio florescer novamente. Que assim seja!",
+  "frase_final": "Confia, que o caminho tá se abrindo agora!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Joelda, esse banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Joelda Darck Osman de Almeida Sobral",
+  "primeiroNome": "Joelda"
+}
