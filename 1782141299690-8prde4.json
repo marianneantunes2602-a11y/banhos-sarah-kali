@@ -1,0 +1,52 @@
+{
+  "previa": "Maria, tô vendo que o amor tá precisando de um empurrãozinho. Vamos preparar um banho especial pra abrir esse caminho do coração, minha flor? 🌹",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Oi Maria, olha só, tô percebendo que as coisas no amor tão um pouco paradas, né? Presta atenção nesse banho que vai te ajudar a atrair o que teu coração merece.",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Rosas são poderosas pra abrir o coração e atrair amor sincero."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Revigora e traz confiança, essencial pra se abrir a novas oportunidades afetivas."
+    },
+    {
+      "nome": "canela",
+      "descricao": "A canela é quente e traz aquele magnetismo especial pro amor."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e ilumina a mente, ajudando a ver o amor com clareza."
+    },
+    {
+      "nome": "jasmim",
+      "descricao": "Atraente e suave, o jasmim é perfeito pra um toque de romance."
+    }
+  ],
+  "preparo": [
+    "Ferve um litro de água e desliga o fogo.",
+    "Adiciona as pétalas de rosa, alecrim, canela, hortelã e jasmim na água.",
+    "Deixa essa mistura descansar por uns 20 minutos.",
+    "Depois do banho normal, joga essa infusão do pescoço pra baixo, mentalizando o amor chegando.",
+    "Aproveita e leva essa energia pro teu momento, sentindo a água levar embora qualquer bloqueio."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Vênus, dia perfeito pra questões de amor e relacionamentos.",
+  "lua": "Crescente",
+  "lua_desc": "Atrair novas energias amorosas e abrir caminhos.",
+  "dicas": [
+    "Usa uma roupa que te faça sentir especial depois do banho.",
+    "Acende uma vela rosa pra intensificar a energia do amor.",
+    "Pensa em três qualidades que você gostaria em um parceiro, pra focar essa energia."
+  ],
+  "oracao": "Eu, Maria, decreto que estou pronta para receber o amor que mereço. Que essa água leve embora qualquer dúvida ou insegurança, abrindo meu coração para novas possibilidades. Que cada pétala de rosa seja um chamado para o amor sincero, cada folha de alecrim revigore minha confiança e cada toque de canela aqueça meu espírito. Eu acolho o amor em minha vida com alegria e gratidão. Que assim seja!",
+  "frase_final": "Sinta o amor chegar, Maria, de braços abertos.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Maria, esse banho vai abrir o caminho 💜 Mas pra você entender quem é o tipo certo pra ti, com quem tu combina de verdade, posso te fazer um **Mapa do Amor** por só R$ 9,98. Mostra os teus padrões e como atrair quem soma. Quer saber mais? 🌙",
+  "nome": "maria",
+  "primeiroNome": "Maria"
+}
