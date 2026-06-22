@@ -1,0 +1,56 @@
+{
+  "previa": "Rita, esse banho de prosperidade vai te ajudar a abrir os caminhos e atrair novas oportunidades de trabalho e renda. Vamos lá, minha flor!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Rita! Olha só, sei que as coisas não tão fáceis com essas dívidas e a falta de emprego pesando. Tô vendo aqui um banho de prosperidade que vai ajudar a trazer movimento e grana pro teu lado. Confia e segue esses passos.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Abre os caminhos e atrai dinheiro com frescor."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Dá um impulso na energia vital, atraindo coisas boas."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Traz alegria e boas novas, ótima pra dar aquela virada."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Potente atrativo de prosperidade e dinheiro."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "cravo",
+      "descricao": "Ajuda a potencializar a energia do dinheiro."
+    },
+    {
+      "nome": "louro",
+      "descricao": "Símbolo de vitória e sucesso financeiro."
+    }
+  ],
+  "preparo": [
+    "Passo 1: Ferva 2 litros de água e, depois que levantar fervura, desligue o fogo.",
+    "Passo 2: Adicione o manjericão, alecrim, casca de laranja, canela, cravo e louro na água.",
+    "Passo 3: Tampe a panela e deixe descansar por 15 minutos.",
+    "Passo 4: Coe o banho e, após seu banho normal, jogue a mistura do pescoço para baixo, mentalizando a prosperidade entrando na sua vida.",
+    "Passo 5: Enquanto a água escorre, imagine suas dívidas sendo pagas e novas oportunidades surgindo."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Para atrair e expandir",
+  "dicas": [
+    "Acenda uma vela verde durante o banho para chamar energias de prosperidade.",
+    "Repita uma afirmação positiva sobre abundância e sucesso enquanto toma o banho.",
+    "Mantenha uma folha de louro na carteira como amuleto de sorte."
+  ],
+  "oracao": "Eu, Rita, invoco as boas vibrações do Universo para que a prosperidade se instale em minha vida. Que a água deste banho lave as dificuldades financeiras e abra meus caminhos para novas oportunidades de trabalho e renda. Que a energia das ervas me traga a vitória sobre as dívidas e a força para aceitar o novo. Assim como a natureza se renova, eu também renovo minha fé e esperança em dias melhores. Que meu coração se encha de gratidão pelas bênçãos que estão por vir. Assim seja!",
+  "frase_final": "Rita, acredita e vai em frente. Prosperidade te espera!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Rita, esse banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Rita de Cassia Dias Damasceno",
+  "primeiroNome": "Rita"
+}
