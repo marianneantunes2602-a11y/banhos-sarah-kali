@@ -1,0 +1,52 @@
+{
+  "previa": "Ediéle, tô sentindo que as energias ao teu redor precisam de um empurrãozinho pra abrir os caminhos da prosperidade. Vamos preparar um banho especial pra atrair o que você merece e dissipar bloqueios. 🌿",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Ediéle! Olha só, tô vendo que as energias por aí tão precisando de um bom empurrão. Vamos usar a força das ervas pra trazer prosperidade e deixar essa vibe fluir ao teu favor. Vem comigo!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai dinheiro e sucesso, abre os caminhos das finanças."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias, dá aquele gás na prosperidade."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Potente pra atrair sorte e dinheiro."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Dá uma energizada, trazendo alegria e abundância."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Atraente de boas vibrações e prosperidade."
+    }
+  ],
+  "preparo": [
+    "Coloca 2 litros de água pra ferver.",
+    "Quando ferver, desliga o fogo e adiciona as ervas.",
+    "Abafa por 15 minutos, pensando nas energias que quer atrair.",
+    "Coe e despeje o banho do pescoço pra baixo, imaginando a prosperidade chegando.",
+    "Joga fora os restos das ervas em um jardim ou lugar verde."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Mantenha a intenção clara de prosperidade enquanto prepara o banho.",
+    "Use uma roupa clara após o banho pra atrair luz e boas energias.",
+    "Acenda uma vela verde antes do banho, reforçando o pedido de abundância."
+  ],
+  "oracao": "Grande Espírito, que a força do alecrim e do manjericão abra meus caminhos para a prosperidade. Que a doce canela traga para mim sorte e dinheiro com a suavidade de suas vibrações. Ó Poder Maior, que a casca de laranja e o cravo façam as energias ao meu redor girarem em sintonia com a abundância. Neste momento, eu decreto que as portas da prosperidade se abrem, que a água leve embora toda a estagnação e os bloqueios. Recebo de coração aberto a prosperidade que vem a mim. Assim seja.",
+  "frase_final": "Vai firme e atrai tudo que é teu de direito!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Ediéle, esse banho vai dar um gás nessas energias! Mas se quiser saber as datas certas pros próximos meses, preparo um **Mapa Anual** pra ti por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Ediéle Jardim",
+  "primeiroNome": "Ediéle"
+}
