@@ -1,0 +1,52 @@
+{
+  "previa": "Gracenia, vamos dar um jeito de trazer mais carinho e atenção do seu marido pra você. Esse banho especial vai aquecer o coração dele e aproximar vocês ainda mais.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Oi, Gracenia! Vê só, eu tô contigo nessa missão de reacender a chama entre você e seu marido. Vamos preparar um banho que vai fazer ele te olhar com novos olhos, cheio de carinho.",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Desperta amor e suaviza o coração. Ideal pra fortalecer a ligação."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Traz clareza e conexão, facilitando o entendimento mútuo."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Esquenta as emoções e atrai paixões."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e renova, trazendo leveza ao relacionamento."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Abre caminhos e dissolve desentendimentos."
+    }
+  ],
+  "preparo": [
+    "Ferve um litro de água e desliga o fogo.",
+    "Acrescenta as pétalas de rosa, alecrim, canela, hortelã e manjericão.",
+    "Deixa descansar por uns 15 minutos, pensando na reaproximação do seu marido.",
+    "Coe e leva pro banheiro, jogando do pescoço pra baixo após seu banho habitual.",
+    "Mentaliza momentos de amor e carinho entre vocês enquanto a água leva embora as desavenças."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Vênus, dia ideal para atrair amor e fortalecer laços.",
+  "lua": "Crescente",
+  "lua_desc": "Fase de atrair e fazer crescer os sentimentos de amor.",
+  "dicas": [
+    "Sempre que usar o alecrim, mentalize clareza e entendimento entre vocês.",
+    "Deixe uma foto de vocês juntos perto das ervas enquanto prepara o banho.",
+    "Acenda uma vela rosa enquanto toma o banho para intensificar a energia."
+  ],
+  "oracao": "Divino Espírito do Amor, aqui estou, de coração aberto, para que as águas deste banho carreguem minhas intenções de amor e carinho para a vida que construímos juntos. Que a corrente suave das ervas aqueça os sentimentos do meu marido, trazendo-o de volta para mim, com atenção redobrada e amor renovado. Que cada gota que escorre pelo meu corpo leve embora as distâncias, aproximando nossos corações, e que o brilho da paixão nunca se apague entre nós. Assim seja. Assim é. Assim será.",
+  "frase_final": "Que esse amor floresça cada dia mais forte.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Gracenia, esse banho vai trazer mais carinho do seu marido. Mas pra entender como fortalecer ainda mais essa relação, posso te fazer um **Mapa do Amor** por só R$ 9,98. Ele mostra o que vocês dois precisam pra se conectar de verdade. Quer saber mais? 💜",
+  "nome": "Gracenia Francisco Reginaldo",
+  "primeiroNome": "Gracenia"
+}
