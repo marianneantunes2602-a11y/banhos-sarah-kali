@@ -1,0 +1,52 @@
+{
+  "previa": "Jovencio, tô vendo que você precisa de um empurrão em várias áreas da sua vida. Um banho certeiro vai ajudar a abrir os caminhos pro dinheiro, amor, saúde e prosperidade que você tanto precisa. Vamos destravar essa energia e abrir espaço pro que é bom entrar!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Jovencio, minha flor, o que você tá vivendo não é fácil, mas fica tranquilo que a gente vai dar um jeito nisso. Presta atenção nesse banho que vai te trazer a abertura de caminhos que você tá precisando.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Essa erva é poderosa pra atrair prosperidade e afastar energia ruim."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e abre os caminhos para a abundância."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Traz energia de prosperidade e acelera a atração de dinheiro."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Atrai sucesso e ânimo, afastando as dificuldades."
+    },
+    {
+      "nome": "louro",
+      "descricao": "Aumenta a sorte e favorece a realização de desejos."
+    }
+  ],
+  "preparo": [
+    "Ferva dois litros de água e desligue o fogo.",
+    "Adicione as ervas principais e auxiliares, deixando em infusão por 15 minutos.",
+    "Coa tudo, mentalizando a abertura dos caminhos em todas as áreas da sua vida.",
+    "Após o banho normal, despeje o preparado do pescoço para baixo, focando nas intenções.",
+    "Vê só, Jovencio, ao final, agradeça pelas oportunidades que já estão a caminho."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Dia de Júpiter, ideal para prosperidade e expansão.",
+  "lua": "Crescente",
+  "lua_desc": "Essa lua ajuda a atrair novas oportunidades e crescimento.",
+  "dicas": [
+    "Mantenha pensamentos positivos enquanto prepara e toma o banho.",
+    "Coloque uma música que te faça sentir bem e motivado.",
+    "Repita o banho por três quintas-feiras seguidas para um efeito mais forte."
+  ],
+  "oracao": "Eu aqui, com as forças da natureza, peço a abertura dos meus caminhos. Que a água leve embora todas as travas e dificuldades, deixando espaço para que o fluxo de prosperidade, amor e saúde venham ao meu encontro. Que cada gota desse banho limpe o que me impede de crescer, trazendo novas oportunidades e soluções para os desafios que enfrento. Com fé e determinação, decreto que a abundância já é minha realidade, e que os meus caminhos estão abertos. Gratidão por tudo que já está chegando.",
+  "frase_final": "Que esse banho abra seus caminhos, Jovencio!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Jovencio, esse banho vai dar um empurrão nos teus caminhos. Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Assim já te entrego o calendário do teu ano pra aproveitar as melhores oportunidades. Topa? 🌿",
+  "nome": "Jovencio Gomes de Oliveira",
+  "primeiroNome": "Jovencio"
+}
