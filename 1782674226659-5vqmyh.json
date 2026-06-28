@@ -1,0 +1,52 @@
+{
+  "previa": "Rosa, amiga, bora destravar e trazer prosperidade pra tua vida! 🌿 Vamos preparar um banho especial pra abrir teus caminhos e atrair a abundância que você merece.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Rosa, minha flor, tô vendo aqui que você tá querendo abrir os caminhos e trazer prosperidade pra sua vida. Vou te ajudar com um banho poderoso pra atrair essa energia positiva e abundante que você merece.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e abre caminhos, trazendo boa sorte."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Purifica e eleva as vibrações, favorecendo o sucesso."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Potencializa a atração de dinheiro e oportunidades."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "louro",
+      "descricao": "Símbolo de vitória e conquistas, abre caminhos."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Traz alegria e energia positiva, atraindo prosperidade."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água.",
+    "Adicione manjericão, alecrim, canela, louro e casca de laranja na água fervente.",
+    "Desligue o fogo e deixe as ervas em infusão por 15 minutos.",
+    "Coe o banho e leve para o banheiro.",
+    "Durante o banho, mentalize seus caminhos se abrindo e a prosperidade chegando até você."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Quinta-feira é o dia de Júpiter, propício para atrair prosperidade e expansão.",
+  "lua": "Crescente",
+  "lua_desc": "A Lua Crescente é perfeita para atrair novas oportunidades e crescimento.",
+  "dicas": [
+    "Acenda uma vela amarela durante o banho para intensificar a energia de prosperidade.",
+    "Use uma roupa de cor clara após o banho para simbolizar novos começos.",
+    "Anota seus objetivos financeiros e mentaliza eles sendo conquistados."
+  ],
+  "oracao": "Eu, Rosa, decreto que meus caminhos estão abertos e a prosperidade flui abundantemente em minha vida. A água deste banho leva embora todos os obstáculos, e em seu lugar, planta sementes de fortuna e boas oportunidades. Com as bênçãos do Universo, recebo o que mereço com gratidão e confiança. Que cada gota deste banho se conecte com minhas intenções mais puras de crescimento e sucesso. Assim é, assim está feito.",
+  "frase_final": "Vai lá e abre os caminhos com esse banho poderoso!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Rosa, esse banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Rosa Maria de Souza",
+  "primeiroNome": "Rosa"
+}
