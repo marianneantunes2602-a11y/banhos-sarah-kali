@@ -1,0 +1,52 @@
+{
+  "previa": "Rosa, minha flor, vamos abrir os caminhos e chamar a prosperidade na sua vida. Esse banho vai afastar olho grande e atrair abundância. Vamos juntas, que isso muda agora!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi Rosa, tô vendo aqui que a situação tá puxada, né? Mas olha só, esse banho vai ajudar abrir os caminhos pra prosperidade, afastar as negatividades do trabalho e atrair mais dinheiro. Vamos colocar energia boa aí!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e fartura."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o ânimo e abre os caminhos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Chama dinheiro e sucesso."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Abre os caminhos e afasta inveja."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Protege contra olho grande e inveja."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as ervas e deixe em infusão por 15 minutos.",
+    "Coe e mentalize prosperidade enquanto esfriam.",
+    "Após o banho normal, jogue a mistura do pescoço pra baixo pensando na abundância.",
+    "Vista uma roupa clara e visualize os caminhos se abrindo."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Dia de Júpiter, ideal para expansão e prosperidade.",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita para atrair e crescer o que desejamos.",
+  "dicas": [
+    "Mantenha sempre uma folha de louro na carteira para atração de dinheiro.",
+    "Use um amuleto de olho grego no trabalho para afastar inveja.",
+    "Sempre que puder, faça uma lista de gratidão pra atrair mais coisas boas."
+  ],
+  "oracao": "Divino Criador, que a força desta água leve embora toda a inveja e obstáculos que bloqueiam o caminho da Rosa. Que a prosperidade encontre seu lar em minha vida, abrindo os caminhos e trazendo abundância. Que o dinheiro flua livremente para mim, que as oportunidades se multipliquem e a abundância seja constante. Agradeço pela proteção e pela fartura que virá. Assim seja, assim se faça, assim está feito!",
+  "frase_final": "Abundância e caminhos abertos, minha flor!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Rosa, o banho vai destravar a prosperidade 🌿 Se quer saber as datas certas pros próximos meses e se planejar melhor, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Rosa Maria de Souza",
+  "primeiroNome": "Rosa"
+}
