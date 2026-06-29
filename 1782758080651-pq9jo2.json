@@ -1,0 +1,52 @@
+{
+  "previa": "Gleyce, tô vendo que você tá sem ânimo e na batalha pela prosperidade. Vamos dar um jeito nesse astral e abrir caminho pras oportunidades, amiga!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Gleyce! Sei que esse desânimo e a falta de trabalho te apertam. Mas, minha flor, vamos acender essa chama da prosperidade e renovar suas energias!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai boas energias e oportunidades. Traz a prosperidade que você tanto busca, amiga."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Revigora o ânimo e clareia a mente, enxergando novas possibilidades."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Poderosa para atrair dinheiro e sucesso financeiro. Dá aquele impulso nas finanças."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "louro",
+      "descricao": "Símbolo tradicional de abundância e vitória. Ajuda na conquista de objetivos."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Renova as energias e atrai prosperidade com um toque de alegria."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água.",
+    "Desligue o fogo e adicione manjericão, alecrim e canela.",
+    "Deixe em infusão por 15 minutos.",
+    "Coe a mistura e use após o banho normal, do pescoço pra baixo.",
+    "Enquanto a água cai, veja o peso indo embora e a prosperidade chegando."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair novas oportunidades",
+  "dicas": [
+    "Ao espalhar a água do banho, mentalize suas conquistas.",
+    "Acenda uma vela amarela ao lado de uma moeda, simbolizando a prosperidade.",
+    "Mantenha sua carteira organizada para atrair boas energias financeiras."
+  ],
+  "oracao": "Deus das riquezas e da prosperidade, trago a minha intenção de abrir os caminhos da abundância. Que a água que escorre pelo meu corpo leve embora todo desânimo, toda falta e as energias de escassez. Que meu coração se preencha de coragem e ânimo para ver as oportunidades que me cercam. Decrete que meu caminho se ilumine, que portas se abram e que minha força se renove. Que a prosperidade me encontre e a abundância se estabeleça. Assim seja, assim será, em nome da luz e do amor que habita em mim.",
+  "frase_final": "Vai lá e abre os caminhos, minha flor!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Gleyce, esse banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Gleyce Larissa Guimarães Costa",
+  "primeiroNome": "Gleyce"
+}
