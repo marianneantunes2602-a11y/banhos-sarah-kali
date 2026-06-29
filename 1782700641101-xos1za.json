@@ -1,0 +1,52 @@
+{
+  "previa": "Lorrany, vamos focar no que realmente importa! Esse banho vai te ajudar a manter o foco e abrir os caminhos pro que você tanto deseja. Vamos lá destravar essas paradas juntas!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Coragem",
+  "saudacao": "Olha só, Lorrany, tô vendo aqui que o foco tá fugindo, né? Vamos trabalhar isso com um banho poderoso pra te dar aquela garra e clareza que tu precisa pra comprar tua casa e manter o foco nos teus objetivos.",
+  "ervas_principais": [
+    {
+      "nome": "canela",
+      "descricao": "Forte energizante, te dá aquele gás pra seguir em frente."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Aumenta a concentração e clareza mental, pra você não se perder."
+    },
+    {
+      "nome": "sálvia",
+      "descricao": "Renovadora, ajuda a eliminar pensamentos que te desviam do foco."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "cravo",
+      "descricao": "Estimulante, afasta o desânimo."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Levanta o astral e reforça a determinação."
+    }
+  ],
+  "preparo": [
+    "Ferve dois litros de água.",
+    "Desliga o fogo e adiciona as ervas, deixando em infusão por 15 minutos.",
+    "Coa a mistura e leva pro banheiro, com pensamentos firmes no teu objetivo.",
+    "Após o banho de higiene, joga a infusão do pescoço pra baixo, visualizando clareza e força te envolvendo.",
+    "Deixa o corpo secar naturalmente, sem toalha, sentindo a energia renovada."
+  ],
+  "dia": "Terça",
+  "dia_desc": "Marte, ação",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Coloca um lembrete no celular pro banho, não perde o foco, fia.",
+    "Quando acordar, tem aquela conversa com o espelho, reafirmando tua meta da casa.",
+    "Se sentir que tá desanimando, cheira um pouco de casca de laranja pra reanimar."
+  ],
+  "oracao": "Grande Universo, eu peço que as águas levem embora toda distração e desânimo que me impedem de alcançar meus objetivos. Que a força de Marte me dê ação e coragem para seguir com determinação nos meus passos. Que o aroma da canela e do alecrim clareiem minha mente, mantendo-me focada em meus sonhos e metas. Que a sálvia e o cravo espantem o desânimo e que a casca de laranja me encha de energia revigorante. Que eu seja guiada, passo a passo, para conquistar minha casa e todos os meus sonhos.\n\nAssim seja!",
+  "frase_final": "Foco no objetivo e ação certa, minha flor.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Lorrany, esse banho vai te ajudar a focar no que importa. Mas pra saber as melhores datas e momentos do próximo ano pra tua grande conquista, te preparo um **Mapa Anual** por R$ 9,98 só. Quer saber quando dar o próximo passo importante? 🌿",
+  "nome": "Lorrany Rodrigues Prates Pereira",
+  "primeiroNome": "Lorrany"
+}
