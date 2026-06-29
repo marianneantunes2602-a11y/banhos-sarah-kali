@@ -1,0 +1,52 @@
+{
+  "previa": "Janaína, tô vendo que essa situação tá te pesando, né? Vamos cuidar desse peso com um banho de descarrego especial pra você. Se prepara pra sentir a energia se renovando.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Janaína, minha flor, a situação que você tá passando exige um cuidado especial. Vamos usar as forças da natureza pra aliviar esse peso e trazer um pouco de leveza pra você.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Poderosa em espantar energias negativas, protege o espírito."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Excelente pra descarrego, dissolve cargas pesadas."
+    },
+    {
+      "nome": "eucalipto",
+      "descricao": "Limpa o corpo e a mente, trazendo frescor e renovação."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "alecrim",
+      "descricao": "Revitaliza e eleva a vibração, trazendo clareza."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Purifica e refresca, alivia tensões energéticas."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as ervas principais e deixe em infusão por 10 minutos.",
+    "Coe o banho e espere esfriar até atingir uma temperatura agradável.",
+    "Banhe-se normalmente e depois jogue o preparado do pescoço pra baixo, mentalizando a limpeza.",
+    "Jogue fora os restos das ervas na natureza, agradecendo pela força delas."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, perfeito pra limpezas profundas e descarregos.",
+  "lua": "Minguante",
+  "lua_desc": "Fase ideal pra cortar energias negativas e eliminar o que não serve.",
+  "dicas": [
+    "Evite ficar em locais muito carregados ou tumultuados nos próximos dias.",
+    "Use roupas claras depois do banho pra atrair boas energias.",
+    "Acenda um incenso de limpeza no ambiente pra potencializar o efeito."
+  ],
+  "oracao": "Ó Deusas e forças do universo, venho humildemente pedir que este banho leve embora toda a carga negativa que me envolve. Que as águas que correm pelo meu corpo limpem não apenas o físico, mas também a minha alma e meu coração. Que a proteção da arruda, a força do sal grosso e a renovação do eucalipto estejam comigo, removendo obstáculos e trazendo clareza. Que a energia do alecrim e da hortelã me envolvam em um manto de luz e paz. Agradeço, com fé e gratidão, por esta oportunidade de recomeçar. Assim seja, e assim é!",
+  "frase_final": "Vai lá, toma o banho e renova essa energia!",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Janaína, esse banho vai ajudar muito 💧 Mas, se quiser entender de onde vêm essas questões e o que tá escrito nas tuas estrelas, te faço um **Mapa Astral** por apenas R$ 9,98. Quer descobrir mais sobre você e cortar isso pela raiz? 🔮",
+  "nome": "Janaína costa dos Santos",
+  "primeiroNome": "Janaína"
+}
