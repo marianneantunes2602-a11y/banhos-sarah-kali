@@ -1,0 +1,56 @@
+{
+  "previa": "Claudimeyre, se você tá querendo atrair mais clientes para o seu negócio, bora preparar um banho incrível de prosperidade. Vamos abrir as portas e deixar a energia positiva entrar de vez! 🌿",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Olha só, Claudimeyre, tô vendo que você quer atrair mais clientes e tá precisando dar um empurrãozinho na prosperidade. Vamos preparar um banho especial pra chamar essa abundância pra perto de você!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Abre os caminhos pra prosperidade, atrai o que é bom."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Traz clareza e energia, impulsiona novos começos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aquece as finanças, traz dinheiro e sucesso."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Atrai sorte e sucesso nos negócios, renova energias."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "cravo",
+      "descricao": "Protege e atrai coisas boas, afasta a negatividade."
+    },
+    {
+      "nome": "louro",
+      "descricao": "Símbolo de vitória e sucesso, abre portas."
+    }
+  ],
+  "preparo": [
+    "ferva 2 litros de água e desligue o fogo.",
+    "adicione as ervas principais e deixe em infusão por 10 minutos.",
+    "coe o banho e leve para o banheiro.",
+    "após o banho de higiene, despeje a mistura do pescoço para baixo, visualizando clientes chegando.",
+    "deixe o corpo secar naturalmente e mentalize a prosperidade fluindo."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Dia de Júpiter, ótimo para aumentar a prosperidade.",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita para atrair e crescer o que desejamos.",
+  "dicas": [
+    "Acenda uma vela verde durante o banho para intensificar a intenção.",
+    "Coloque um cristal de citrino no ambiente onde você trabalha.",
+    "Escreva uma afirmação positiva sobre prosperidade e leia diariamente."
+  ],
+  "oracao": "Eu, Claudimeyre, decreto que a prosperidade flui livremente em minha vida. Com a força do manjericão e do alecrim, abro os caminhos para o sucesso. Canela aquece meus caminhos financeiros, trazendo clientes fiéis e abundância. Casca de laranja renova minha energia, atraindo sorte e oportunidades. Com o poder do cravo e louro, protejo e cultivo minhas conquistas, alcançando vitórias. A água purifica e leva embora qualquer bloqueio, abrindo espaço para a riqueza que chega. Que assim seja e assim será, sempre com gratidão e confiança.",
+  "frase_final": "A prosperidade tá chegando na sua vida, Claudimeyre!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Claudimeyre, esse banho vai abrir o caminho 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Claudimeyre Araujo Silva",
+  "primeiroNome": "Claudimeyre"
+}
