@@ -1,0 +1,52 @@
+{
+  "previa": "Tamires, tô vendo que cê tá precisando de uma força pra destravar esses caminhos. Vamos preparar um banho poderoso pra abrir as portas certas e trazer as boas energias que você merece.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Abertura de Caminhos",
+  "saudacao": "Tamires, minha flor, tô vendo aqui que a coisa tá travada pra você. Vamos dar uma forcinha pra abrir esses caminhos e deixar as coisas fluírem de verdade na sua vida?",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Pra clarear os caminhos e atrair boas oportunidades."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Essa erva é poderosa pra abrir portas e trazer novos ares."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Pra trazer sorte e prosperidade nesse processo de mudança."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Pra refrescar a mente e trazer novas ideias."
+    },
+    {
+      "nome": "jasmin",
+      "descricao": "Traz uma leveza pro espírito, acalmando a alma."
+    }
+  ],
+  "preparo": [
+    "Coloca 2 litros de água pra ferver.",
+    "Assim que começar a levantar fervura, desliga o fogo e adiciona as ervas.",
+    "Deixa a mistura descansar por 15 minutos, com a panela tampada.",
+    "Coe o líquido diretamente em um balde e leve pro banheiro.",
+    "Após seu banho normal, joga a água do pescoço pra baixo, mentalizando seus caminhos se abrindo."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Dia regido por Júpiter, ideal pra prosperidade e expansão.",
+  "lua": "Crescente",
+  "lua_desc": "Aumentar as possibilidades e trazer crescimento aos projetos.",
+  "dicas": [
+    "Tente fazer esse banho num momento tranquilo, sem pressa.",
+    "Enquanto prepara o banho, mentalize as portas se abrindo na sua vida.",
+    "Após o banho, vista roupas claras pra atrair boas energias."
+  ],
+  "oracao": "Senhor do Universo, que a força desta água sagrada abra meus caminhos. Que o alecrim clareie minha jornada, o manjericão traga as oportunidades e a canela atraia a sorte que mereço. Que cada gota lave os obstáculos, que a hortelã refresque minha alma e que o jasmim acalme meu coração. Que a energia divina me conduza ao meu verdadeiro propósito, que as águas levem embora as travas e que o novo se manifeste em minha vida.\n\nQue assim seja, que assim se faça.",
+  "frase_final": "Esse é o empurrão que você precisa, amiga! Vai com fé!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Tamires, esse banho vai dar aquela destravada nos seus caminhos. Mas pra saber as melhores datas e oportunidades pros próximos 12 meses, posso te fazer um **Mapa Anual** que tá saindo por R$ 9,98. Já te passo o calendário do teu ano. Quer ver o que vem por aí? 🌟",
+  "nome": "Tamires Dias Souza",
+  "primeiroNome": "Tamires"
+}
