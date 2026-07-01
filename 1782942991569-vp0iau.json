@@ -1,0 +1,52 @@
+{
+  "previa": "Amiga, tô vendo aqui que você quer soltar um peso do coração. Vamos fazer um banho de descarrego poderoso pra te ajudar a limpar essa energia presa. 🌿 Sente só a leveza chegando!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Marlene, minha flor, sei que você tá querendo soltar essa pessoa do coração e da mente. Vamos preparar um banho que vai limpar as energias negativas e abrir espaço pra coisas novas e boas entrarem na sua vida.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Arruda é poderosa pra afastar energias negativas e limpar o ambiente."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Sal grosso purifica e dissolve as cargas negativas acumuladas."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Alecrim renova as energias e traz clareza mental."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Eucalipto refresca a alma e abre os caminhos."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Hortelã traz leveza e ajuda a soltar o que não serve mais."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione arruda, sal grosso, alecrim, eucalipto e hortelã na água.",
+    "Deixe em infusão até esfriar; esse é o tempo da sua intenção agir.",
+    "Tome seu banho higiênico e, do pescoço para baixo, despeje a mistura.",
+    "Enquanto a água escorre, visualize tudo de ruim indo embora."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Sábado é regido por Saturno, perfeito para limpeza e descarrego.",
+  "lua": "Minguante",
+  "lua_desc": "A Lua Minguante é ideal para cortar o que não nos serve mais.",
+  "dicas": [
+    "Acenda uma vela branca após o banho para reforçar a limpeza.",
+    "Evite contato com a pessoa que deseja esquecer por um tempo.",
+    "Ouça uma música que te traz paz enquanto prepara o banho."
+  ],
+  "oracao": "Deus, eu peço que a água leve embora toda a energia que não me pertence mais. Que cada gota que escorre dos meus ombros limpe meu coração e minha mente, removendo as amarras que me prendem a essa pessoa. Entrego para o universo o que não me serve mais e abro espaço para a serenidade e o amor próprio. Que eu seja guiada pela luz e pelo amor verdadeiro. Que assim seja, assim será.",
+  "frase_final": "A água leva embora, o coração se liberta.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Marlene, esse banho vai limpar esse peso todo. Mas pra entender de onde vem esse apego e soltar de vez, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Ele mostra o que tá escrito nas tuas estrelas. Quer ver? 🔮",
+  "nome": "Marlene Alencar da Silva",
+  "primeiroNome": "Marlene"
+}
