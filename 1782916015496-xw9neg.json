@@ -1,0 +1,56 @@
+{
+  "previa": "Lïliane, amiga, é hora de soltar o passado e abrir novos caminhos. Esse banho vai te ajudar a passar por essa transição com leveza e força!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Cura e Recomeço",
+  "saudacao": "Oi, Lïliane! Tô vendo aqui que você tá num processo importante de cura, deixando pra trás traumas antigos. Vamos fazer um banho poderoso pra dar espaço ao novo e abrir seus caminhos com carinho e suavidade.",
+  "ervas_principais": [
+    {
+      "nome": "lavanda",
+      "descricao": "Tranquiliza e acalma a alma, trazendo paz interna."
+    },
+    {
+      "nome": "camomila",
+      "descricao": "Suaviza as emoções e promove relaxamento profundo."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e abre caminhos novos."
+    },
+    {
+      "nome": "rosa branca",
+      "descricao": "Cura e purifica, trazendo amor e aceitação."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai boas energias e afasta o que não serve mais."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Limpa e deixa para trás as energias pesadas."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as ervas principais e auxiliares na água quente, mentalizando a limpeza dos traumas.",
+    "Deixe o banho esfriar naturalmente, sempre conectada à sua intenção de recomeço.",
+    "Coe a mistura e leve para o banheiro, amiga. Lembre-se que a água leva embora o que não serve mais.",
+    "Após o banho habitual, jogue o preparado do pescoço para baixo e sinta a leveza te preenchendo."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, limpeza e reestruturação",
+  "lua": "Nova",
+  "lua_desc": "Começar, renovar energias e abrir novos caminhos",
+  "dicas": [
+    "Acenda uma vela branca durante o banho, simbolizando luz no seu caminho.",
+    "Repita mantras de cura enquanto prepara o banho.",
+    "Após o banho, passe um tempo em silêncio, refletindo sobre seus novos começos."
+  ],
+  "oracao": "Eu me abro para a cura e para o recomeço. Com cada gota deste banho, sinto a água purificar meu corpo e minha alma, levando embora todo peso do passado. Deixo que a luz tome seu lugar, trazendo novas oportunidades e caminhos claros. Que o amor, a paz e a coragem habitem meu ser. Assim como as ervas se misturam à água, que minhas experiências se integrem em sabedoria e força. Agradeço pelo passado que me fortaleceu e pelo presente que me transforma. Me entrego ao universo para o que há de vir, confiante no meu caminho. Assim seja.",
+  "frase_final": "Deixe o passado ir e abrace seu novo começo.",
+  "upsell_produto": "Revolução Solar",
+  "upsell_mensagem": "Lïliane, esse banho vai abrir teus caminhos pro recomeço 🌿 Mas pra entender melhor os ciclos e transformações desse teu ano, posso preparar uma **Revolução Solar** por só R$ 9,98. Vai te ajudar a ver o que vem por aí e como aproveitar. Quer saber mais? 🌞",
+  "nome": "Lïliane da Conceiçao Santos",
+  "primeiroNome": "Lïliane"
+}
