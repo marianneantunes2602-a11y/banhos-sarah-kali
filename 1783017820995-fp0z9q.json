@@ -1,0 +1,52 @@
+{
+  "previa": "Lucineia, sinto que a ansiedade tá pesando, né? Vamos cuidar disso e abrir novos caminhos com um banho especial. Vem comigo que a gente resolve essa parada! 🌿",
+  "titulo": "Banho de",
+  "titulo_destaque": "Cura e Recomeço",
+  "saudacao": "Oi, Lucineia! Tô vendo aqui que a ansiedade tá tomando espaço depois desse término. Vamos transformar isso em um recomeço bonito, minha flor. Esse banho vai te ajudar a limpar o velho e abrir o coração pra novas possibilidades.",
+  "ervas_principais": [
+    {
+      "nome": "lavanda",
+      "descricao": "Ajuda a acalmar a mente e trazer paz interior."
+    },
+    {
+      "nome": "camomila",
+      "descricao": "Suaviza o coração e acalma a ansiedade."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e traz clareza."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "rosa branca",
+      "descricao": "Promove a cura e a paz emocional."
+    },
+    {
+      "nome": "sálvia",
+      "descricao": "Limpa as energias antigas e abre espaço pro novo."
+    }
+  ],
+  "preparo": [
+    "Ferva dois litros de água e adicione as ervas enquanto ainda tá fervendo.",
+    "Desligue o fogo e abafe por 15 minutos, pensando na calma que você quer alcançar.",
+    "Coe o banho e leve pro banheiro, com a intenção de liberar a ansiedade.",
+    "Após seu banho normal, derrame essa infusão do pescoço pra baixo, mentalizando novos começos.",
+    "Deixe o corpo secar naturalmente, sentindo as ervas te envolverem em paz."
+  ],
+  "dia": "Segunda",
+  "dia_desc": "Dia da Lua, ideal pra cura emocional e novos ciclos.",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita pra atrair novos começos e acalmar o coração.",
+  "dicas": [
+    "Acenda uma vela branca durante o banho pra atrair paz.",
+    "Escute músicas que te façam bem e tranquilizem.",
+    "Anote num papel tudo que deseja deixar pra trás e queime após o banho."
+  ],
+  "oracao": "Grande Mãe das Águas, hoje venho até ti pedir que leve embora toda a ansiedade que pesa meu peito. Peço que, enquanto a água corre sobre meu corpo, ela carregue consigo as dores e mágoas do passado. Que a lavanda traga calma, que a camomila suavize meu espírito e que o alecrim me dê clareza para ver novos caminhos. Que a rosa branca cure as feridas, e a sálvia limpe e abra espaço no meu coração. Assim como a água segue seu fluxo, que minha vida também flua para novos e abençoados começos. Amém.",
+  "frase_final": "Renove suas energias e abra espaço para o novo.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Lucineia, esse banho vai te dar aquele empurrão pro recomeço 🌿. Agora, se você quer saber o que te aguarda nos próximos meses e as melhores datas pra suas novas aventuras, posso preparar um **Mapa Anual** por R$ 9,98 só. Que tal? 🌙",
+  "nome": "Lucineia da Rosa",
+  "primeiroNome": "Lucineia"
+}
