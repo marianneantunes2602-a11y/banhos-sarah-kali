@@ -1,0 +1,52 @@
+{
+  "previa": "Ronaldo, tô vendo que o caminho tá precisando de um escudo forte. Vamos preparar um banho poderoso de proteção pra você, minha flor. Vai te ajudar a abrir as portas pra sorte e potencial que você tanto deseja. Confia na força das ervas!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Ronaldo, olha só, tô sentindo que você precisa de uma força extra pra proteger seu caminho e atrair mais sorte. Vamos montar um banho que vai blindar você contra as energias negativas e abrir espaço pra todo o seu potencial brilhar.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Poderosa na proteção, afasta toda inveja e energia ruim."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Limpa e cria um escudo contra as negatividades."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e fortalece a mente."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Purifica e renova as energias do ambiente."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refrigera a mente e traz clareza de pensamentos."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água.",
+    "Desliga o fogo e adiciona as ervas: arruda, sal grosso, alecrim, eucalipto e hortelã.",
+    "Abafa por 15 minutos, deixando as ervas soltarem suas propriedades.",
+    "Coa e leva o banho pro seu banheiro.",
+    "Depois do banho de higiene, joga essa água do pescoço pra baixo pedindo proteção e abertura de caminho."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, limpeza e proteção",
+  "lua": "Nova",
+  "lua_desc": "Começar um novo ciclo de proteção",
+  "dicas": [
+    "Acenda uma vela branca enquanto toma o banho para potencializar a proteção.",
+    "Pense em coisas boas, que tragam sorte e potencialize seu caminho.",
+    "Evite contato com pessoas negativas no dia do banho."
+  ],
+  "oracao": "Eu, Ronaldo, hoje me entrego à força protetora que este banho me oferece. Que a arruda afaste toda inveja e más intenções, e que o sal grosso crie um escudo ao meu redor. Que o alecrim renove cada pedaço da minha alma, trazendo clareza e força. Que o eucalipto purifique o espaço em que piso, e que cada folha de hortelã traga frescor e novas oportunidades. Que esta água leve embora as barreiras e abra caminhos prósperos. Em gratidão, decreto a proteção plena sobre mim, e que as bênçãos se derramem em minha vida. Assim seja.",
+  "frase_final": "Vai lá e faz, tua proteção tá garantida!",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Ronaldo, esse banho vai te blindar das energias pesadas. Mas pra entender melhor de onde suas travas vêm e como aproveitar seu potencial ao máximo, posso te fazer um **Mapa Astral** por só R$ 9,98. Quer desvendar o que tá escrito nas tuas estrelas? 🌟",
+  "nome": "Ronaldo Souza Costa",
+  "primeiroNome": "Ronaldo"
+}
