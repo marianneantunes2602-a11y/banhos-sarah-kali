@@ -1,0 +1,52 @@
+{
+  "previa": "Romicleia, tá precisando de um empurrãozinho pra atrair clientes pagantes? Tenho um banho poderoso pra abrir seus caminhos e trazer prosperidade! 🌿",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Romicleia! Vê só, tô sentindo que tá faltando só um empurrãozinho pra você atrair esses clientes pagantes. Vamos preparar um banho especial pra abrir esses caminhos e trazer mais prosperidade pra sua vida!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Essa erva é poderosa pra abrir caminhos e atrair prosperidade, fia."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Conhecido por trazer clareza e boas energias, ideal para atrair o que você deseja."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Atração e prosperidade em alto nível, trazendo o doce da vida."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Dá um toque de energia vibrante, atraindo coisas boas."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Aumenta a força do desejo e o poder de atração."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e deixa esfriar um pouco.",
+    "Acrescenta o manjericão, alecrim, canela, casca de laranja e cravo.",
+    "Deixa essas ervas em infusão por uns 15 minutos.",
+    "Toma seu banho normal e depois derrama essa mistura do pescoço pra baixo, mentalizando clientes entrando.",
+    "Joga os restos das ervas no lixo, agradecendo pela prosperidade que vai vir."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Queime uma vela amarela enquanto faz o banho, atrai dinheiro e sucesso.",
+    "Pensa nos clientes que deseja atrair, visualize cada detalhe.",
+    "Após o banho, escreve suas intenções de prosperidade num papel e guarda na carteira."
+  ],
+  "oracao": "Eu, Romicleia, clamo pela força das águas e das ervas que hoje me banham. Que esta mistura sagrada abra meus caminhos e traga clientes pagantes ao meu trabalho. Que a prosperidade flua livremente por entre os obstáculos, como a água corre entre as pedras. Que a abundância e a fortuna me encontrem, e que eu saiba recebê-las de braços abertos. Que cada gota d'água que escorre pelo meu corpo leve embora a escassez, deixando espaço para a abundância. Que os aromas dessas ervas impregnem minha energia com vibrações positivas e atraentes. Assim é, assim será!",
+  "frase_final": "Vai lá e arrasa, Romicleia. Prosperidade vem aí!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Romicleia, esse banho vai destravar essa parada toda. Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano pra atrair ainda mais clientes. Topa? 💰",
+  "nome": "Romicleia de Andrade Silva",
+  "primeiroNome": "Romicleia"
+}
