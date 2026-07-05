@@ -1,0 +1,52 @@
+{
+  "previa": "Ok, se você tá precisando dar um boost na tua prosperidade e atrair aquele dinheirinho que tá faltando, vem cá que vou te ajudar. Vamos preparar um banho pra liberar esse fluxo de abundância na tua vida. 🌿💰",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Ok! Presta atenção, tô vendo aqui que o dinheiro tá meio travado e a prosperidade não tá fluindo como você queria, né? Vamos dar uma reviravolta nisso com um banho poderoso pra atrair abundância e abrir os caminhos financeiros!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e limpa energias negativas que bloqueiam o dinheiro."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Traz clareza e boas vibrações financeiras, abrindo caminhos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Poderosa pra atrair dinheiro rápido e aumentar sua sorte."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Aumenta a alegria e atrai sorte nos negócios."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Potencializa a atração de dinheiro e sucesso."
+    }
+  ],
+  "preparo": [
+    "Ferva dois litros de água e desligue o fogo.",
+    "Adicione manjericão, alecrim e canela na água quente.",
+    "Coloque também casca de laranja e cravo, pensando na prosperidade que quer atrair.",
+    "Deixe descansar até ficar morno e depois coe.",
+    "Após o banho normal, jogue a mistura do pescoço pra baixo, mentalizando o dinheiro chegando."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Acenda uma vela verde enquanto faz o banho, pra potencializar a energia.",
+    "Coloque uma nota de dinheiro perto de onde vai preparar o banho, simbolizando a abundância.",
+    "Após o banho, vista uma peça de roupa verde ou dourada pra chamar prosperidade."
+  ],
+  "oracao": "Divina Energia do Universo, que a água que cai sobre meu corpo leve embora todo bloqueio financeiro e abra os caminhos para a prosperidade. Que a força do manjericão, do alecrim e da canela atraia oportunidades, sorte e dinheiro pro meu lar. Que a alegria da casca de laranja e a potência do cravo multipliquem meus ganhos e me façam reconhecer e aproveitar cada oportunidade que surgir. Abençoe-me com abundância, que o fluxo de riqueza se torne constante e que eu seja um ímã para o sucesso. Assim seja, assim se faça!",
+  "frase_final": "Vai lá e atrai essa prosperidade, Ok! 🌿💰",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Ok, o banho vai abrir os caminhos da prosperidade. Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Ok",
+  "primeiroNome": "Ok"
+}
