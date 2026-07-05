@@ -1,0 +1,56 @@
+{
+  "previa": "Vitória, tô vendo que a situação tá complicada, mas tem jeito, amiga. Vamos abrir esse caminho de prosperidade e deixar essa trava pra trás com um banho poderoso. Vem comigo!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Vitória! Olha só, tô vendo aqui que tua vida tá parecendo uma montanha russa, né? Vamos dar um jeito nisso e abrir esses caminhos de prosperidade com um banho especial. Só vem!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Pra atrair boas energias e abrir caminhos."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o astral e traz clareza."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Atrai prosperidade e aquece a alma."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Traz frescor e renovação de energias."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "cravo",
+      "descricao": "Protege e atrai coisas boas."
+    },
+    {
+      "nome": "louro",
+      "descricao": "Famoso por atrair sucesso e fortuna."
+    }
+  ],
+  "preparo": [
+    "Ferve 3 litros de água e desliga o fogo.",
+    "Coloca o manjericão, alecrim, canela, casca de laranja, cravo e louro na água.",
+    "Deixa descansar por 15 minutos, com a panela tampada.",
+    "Coa o banho e leva pro banheiro.",
+    "Após o banho normal, joga essa água do pescoço pra baixo, mentalizando os caminhos se abrindo."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair coisas boas",
+  "dicas": [
+    "Acende uma vela amarela enquanto faz o banho.",
+    "Depois do banho, veste uma roupa clara.",
+    "Escreve num papel uma intenção clara de prosperidade e coloca debaixo do travesseiro."
+  ],
+  "oracao": "Divinas forças do universo, eu, Vitória, decreto com este banho a abertura dos meus caminhos. Que a água leve embora toda a negatividade acumulada, limpando meu corpo e minha alma. Que a prosperidade venha em abundância, removendo todas as travas e me trazendo clareza e oportunidades. Que eu seja um imã para boas energias e que a luz de Júpiter ilumine meu caminho, trazendo riqueza, sucesso e harmonia. Assim seja, assim é, assim será!",
+  "frase_final": "Vai firme, os caminhos vão se abrir pra ti!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Vitória, o banho vai abrir caminhos pra prosperidade, amiga 🌿 Mas pra saber as datas certas e oportunidades no próximo ano, posso te preparar um **Mapa Anual** por R$ 9,98 só. Já te mostro tudo que tá por vir. Topa?",
+  "nome": "Vitória Fernanda de Paula Moreira",
+  "primeiroNome": "Vitória"
+}
