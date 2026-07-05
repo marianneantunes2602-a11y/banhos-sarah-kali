@@ -1,0 +1,52 @@
+{
+  "previa": "Renata, tô sentindo que o clima aí tá pesado, né? Vamos ajudar teu marido a se livrar dessa energia estranha e trazer proteção pro lar de vocês com esse banho poderoso. Vamos lá!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Renata, minha flor, tô vendo aqui que o clima entre você e seu marido tá estranho, né? Vamos fazer um banho pra proteger e limpar essa energia ruim que tá pesando entre vocês. Se prepara aí que a coisa vai melhorar!",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Essa é forte, limpa e protege contra qualquer energia negativa."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Ajuda a descarregar tudo aquilo que não pertence a vocês."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova e traz uma energia leve e positiva pra relação."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Purifica o ambiente e a cabeça."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Deixa o espírito mais leve e refresca."
+    }
+  ],
+  "preparo": [
+    "Coloque 2 litros de água para ferver.",
+    "Apague o fogo e adicione as ervas principais primeiro.",
+    "Acrescente as ervas auxiliares e deixe em infusão até amornar.",
+    "Coe e leve para o banheiro, pensando no que você quer proteger.",
+    "Jogue o banho do pescoço para baixo, visualizando a proteção ao seu redor."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, excelente para limpeza e descarrego.",
+  "lua": "Minguante",
+  "lua_desc": "Fase ideal para cortar e afastar energias negativas.",
+  "dicas": [
+    "Antes de tomar o banho, faz uma oração pedindo clareza e proteção ao seu lar.",
+    "Depois do banho, acende uma vela branca e deixa queimar até o fim.",
+    "Conversa com teu marido após o banho, com o coração aberto, sem julgamentos."
+  ],
+  "oracao": "Amada proteção divina, eu decreto que neste momento todas as energias pesadas e estranhas sejam levadas embora pelas águas deste banho. Que meu lar e minha relação sejam fortificados com luz, amor e entendimento. A água purifica e a força do universo nos cobre com seu manto de proteção. Que meu marido possa sentir novamente o amor e a paz que reinam entre nós. Que assim seja feito, com a graça de todo o bem. Amém.",
+  "frase_final": "Protege teu lar e teu amor, Renata. Vai dar certo!",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Renata, esse banho vai proteger e limpar o ambiente. Se você quiser entender mais sobre a energia do teu marido e o momento que ele tá passando, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Vai te ajudar a ver o que tá rolando nas estrelas. Quer descobrir? 🌟",
+  "nome": "Renata Pereira Nunes Amicussi",
+  "primeiroNome": "Renata"
+}
