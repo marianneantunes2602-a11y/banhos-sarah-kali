@@ -1,0 +1,52 @@
+{
+  "previa": "Aleídia, tô vendo que o amor e a inveja estão em jogo aí. Vamos preparar um banho poderoso pra abrir esses caminhos e te proteger, minha flor. A energia precisa fluir, e vou te ensinar como fazer isso com intenção. Vem comigo!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor e Proteção",
+  "saudacao": "Aleídia, minha flor, tô vendo aqui que o amor anda travado e a inveja rondando. Vamos cuidar disso com carinho, usando as ervas certas pra abrir teus caminhos e te proteger de qualquer energia ruim. Presta atenção nesse banho poderoso!",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Atrai amor puro e verdadeiro, trazendo doçura pro coração."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Abre os caminhos e renova a energia do amor na sua vida."
+    },
+    {
+      "nome": "arruda",
+      "descricao": "Afasta inveja e energias negativas, te protegendo das más intenções."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e fortalece a proteção contra inveja."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Faz o descarrego das energias pesadas, limpando o que não serve."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e apague o fogo.",
+    "Adicione todas as ervas, mentalizando o amor e a proteção.",
+    "Deixe a mistura descansar até ficar morna.",
+    "Coe, leve pro banho e do pescoço pra baixo, derrame devagar.",
+    "Enquanto a água escorre pelo corpo, sinta a inveja indo embora."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Dia de Vênus, perfeito pra questões do amor e beleza.",
+  "lua": "Crescente",
+  "lua_desc": "Hora de atrair e fortalecer as boas energias.",
+  "dicas": [
+    "Antes do banho, acende uma vela rosa pra potencializar o amor.",
+    "Evite contar sobre sua vida pessoal, preserve sua energia.",
+    "Use uma peça de roupa rosa após o banho pra selar a intenção."
+  ],
+  "oracao": "Grande Mãe, senhora do amor e da proteção, peço tua benção nessa hora. Que as pétalas de rosa tragam amor, que o alecrim abra meus caminhos e que a arruda afaste toda inveja. Que a água desse banho leve embora o que não me serve e traga paz ao meu coração. Protege-me das más intenções e guia-me para o amor verdadeiro. Assim seja, assim se faça.",
+  "frase_final": "Aleídia, esse banho vai te fortalecer e abrir caminhos!",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Aleídia, esse banho vai abrir o caminho 💜 Mas pra você entender quem é o tipo certo pra ti, com quem tu combina de verdade, posso te fazer um **Mapa do Amor** por só R$ 9,98. Mostra os teus padrões e como atrair quem soma. Quer saber mais? 🌙",
+  "nome": "Aleídia Rocha da Silva",
+  "primeiroNome": "Aleídia"
+}
