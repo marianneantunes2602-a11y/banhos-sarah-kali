@@ -1,0 +1,52 @@
+{
+  "previa": "Liliane, tô aqui pra te ajudar a abrir esses caminhos e curar as feridas do passado. Vamos preparar um banho especial pra você se libertar e seguir em frente. 🌿",
+  "titulo": "Banho de",
+  "titulo_destaque": "Cura e Recomeço",
+  "saudacao": "Oi Liliane, minha flor. Tô vendo aqui que você tá mergulhando fundo num processo de cura importante. Vamos usar esse banho pra abrir os caminhos e começar a fechar as feridas do passado. 🌼",
+  "ervas_principais": [
+    {
+      "nome": "lavanda",
+      "descricao": "Lavanda ajuda a acalmar a alma e trazer paz interior."
+    },
+    {
+      "nome": "camomila",
+      "descricao": "Camomila é ótima pra suavizar as emoções e acalmar o coração."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Alecrim traz energia renovada e clareza para o espírito."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "rosa branca",
+      "descricao": "Rosa branca limpa e purifica as emoções."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Hortelã revigora e traz uma sensação de frescor à mente."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água.",
+    "Desligue o fogo e adicione as ervas. Deixe em infusão por 15 minutos.",
+    "Coe e leve a mistura pro banheiro.",
+    "Após o seu banho habitual, despeje a mistura do pescoço pra baixo, mentalizando a cura e o recomeço.",
+    "Deixe a água levar embora as dores e receba a energia renovada."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, dia de limpeza profunda e estruturação.",
+  "lua": "Minguante",
+  "lua_desc": "Tempo de cortar e se livrar dos pesos antigos.",
+  "dicas": [
+    "Faça esse banho num lugar tranquilo, sem pressa.",
+    "Acenda uma vela branca antes do banho pra intensificar a cura.",
+    "Mantenha um diário de gratidão pra anotar suas pequenas vitórias diárias."
+  ],
+  "oracao": "Decreto que as águas deste banho tragam a cura que minha alma tanto busca. Que a Lavanda acalme minhas dores, que a Camomila suavize meus traumas e que o Alecrim renove meu espírito. Permito que a Rosa Branca purifique minhas emoções e que a Hortelã me traga frescor e esperança. Que cada gota que escorre leve embora as tristezas da infância, curando as feridas de rejeição e abandono. Abro-me para novos caminhos de amor e aceitação. Assim seja, assim já é.",
+  "frase_final": "Que a cura abra seus caminhos, Liliane.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Liliane, esse banho vai te ajudar a dar os primeiros passos na cura. Se você quer saber o que os próximos meses reservam, posso te preparar um **Mapa Anual** por só R$ 9,98. Ele vai te mostrar as melhores oportunidades pra recomeçar. Quer ver o que vem por aí? 🌟",
+  "nome": "Liliane da Conceição Santos",
+  "primeiroNome": "Liliane"
+}
