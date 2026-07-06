@@ -1,0 +1,52 @@
+{
+  "previa": "Aleídia, tô vendo que a vida amorosa tá precisando de um empurrão. Vem cá que vou te ajudar a abrir esses caminhos e mandar a inveja embora. Vamos juntas mexer essa energia e trazer o amor que você merece!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor e Proteção",
+  "saudacao": "Aleídia, minha flor, vejo que a situação não tá fácil. Essa mistura vai te ajudar a abrir os caminhos do amor e afastar essa inveja que tá te rondando. Preste atenção, porque cada erva vai trabalhar ao teu favor.",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Atrai o amor verdadeiro e suaviza o coração."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o astral e abre os caminhos."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Protege da inveja e limpa energias pesadas."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "arruda",
+      "descricao": "Corta o mau-olhado e repele negatividade."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Traz prosperidade e amor, aquece o espírito."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as pétalas de rosa, o alecrim e o manjericão, mentalizando amor e proteção.",
+    "Deixe em infusão por 20 minutos, com a panela tampada.",
+    "Coe o líquido e adicione a arruda e a canela, mexendo no sentido horário.",
+    "Após seu banho habitual, jogue essa mistura do pescoço pra baixo, sentindo a água levar embora a inveja."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Dia de Vênus, ideal para amor e harmonia.",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita para atrair e potencializar novas energias.",
+  "dicas": [
+    "Acenda uma vela rosa enquanto toma o banho, para potencializar o efeito.",
+    "Use uma peça de roupa clara após o banho, para atrair boas energias.",
+    "Escreva uma carta de intenções de amor e queime após o banho, liberando seus desejos ao universo."
+  ],
+  "oracao": "Eu, Aleídia, clamo pela força das águas e a energia das ervas para abrir os caminhos do amor na minha vida. Que as pétalas de rosa tragam o amor verdadeiro e suave. Que o alecrim levante meu astral e abra portas. Que o manjericão proteja meu coração da inveja e energias negativas. Que a arruda corte todo mau-olhado que me cerca. E que a canela traga prosperidade ao meu espírito. Que assim seja, que assim se faça! Com a força do universo, decreto meu caminho aberto para o amor e a felicidade.",
+  "frase_final": "Agora é contigo, vamos abrir esses caminhos!",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Aleídia, esse banho vai ajudar a abrir os caminhos do amor. Mas se quer saber exatamente com quem você combina de verdade e entender seus padrões no amor, posso te fazer um **Mapa do Amor** por só R$ 9,98. Vamos descobrir juntas o que tá nos teus astros? 🌙",
+  "nome": "Aleídia Rocha da Silva",
+  "primeiroNome": "Aleídia"
+}
