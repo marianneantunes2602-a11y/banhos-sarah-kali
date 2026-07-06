@@ -1,0 +1,52 @@
+{
+  "previa": "Ediéle, tô vendo que esse peso todo precisa ser tirado. Vamos te proteger e descarregar essas energias ruins. Confere esse banho que preparei pra você.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Descarrego e Proteção",
+  "saudacao": "Ediéle, minha flor, sei que tá difícil e essa perseguição tá te tirando o sossego. Presta atenção nesse banho poderoso que preparei, pra limpar essas energias e proteger teu caminho.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Poderosa pra espantar energia negativa e quebrar vibrações ruins."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Limpa profundamente, leva embora toda a carga negativa."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Traz proteção e eleva as energias ao redor."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Purifica e refresca a mente e o espírito."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Renova as energias e traz leveza ao coração."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água, apague o fogo e adicione as ervas.",
+    "Deixe a mistura abafada por cerca de 20 minutos.",
+    "Coe e leve o banho pro chuveiro com você.",
+    "Após o seu banho normal, despeje essa água do pescoço pra baixo.",
+    "Enquanto a água escorre, mentaliza essa perseguição indo embora."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, ideal pra limpeza profunda e descarrego.",
+  "lua": "Minguante",
+  "lua_desc": "Melhor fase pra cortar e afastar influências negativas.",
+  "dicas": [
+    "Não fale sobre o banho com ninguém.",
+    "Use uma roupa clara após o banho.",
+    "Acenda uma vela branca pedindo proteção antes de dormir."
+  ],
+  "oracao": "Divina força do universo, que através desta água sagrada me envolva numa capa protetora. Que as ervas aqui presentes purifiquem todo o mal, afastem toda perseguição e abram caminho para a paz. Que a arruda corte as amarras da maldade, o sal grosso lave cada resquício de dor, e o alecrim me cubra de proteção. Que o eucalipto traga a força dos ventos e o hortelã renove o sopro da vida. Santo é o meu corpo e minha casa, santa é a minha jornada. Que assim seja, assim é.",
+  "frase_final": "Protege teu espírito e descarrega as energias pesadas.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Ediéle, esse banho vai aliviar tua carga, sem dúvida. Mas pra entender o porquê dessa perseguição e cortar o mal pela raiz, te faço um **Mapa Astral** por apenas R$ 9,98. Quer ver o que tá escrito nas tuas estrelas? 🔮",
+  "nome": "Ediéle Jardim",
+  "primeiroNome": "Ediéle"
+}
