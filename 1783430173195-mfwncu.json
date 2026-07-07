@@ -1,0 +1,52 @@
+{
+  "previa": "Amiga, tô vendo que teu coração tá precisando de um pouco de paz e amor. Vamos cuidar disso com um banho especial pra harmonizar o relacionamento e afastar as inseguranças, viu?",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor e Paz",
+  "saudacao": "Oi Taynara, tô percebendo que a situação no teu relacionamento tá te deixando meio pra baixo. Vamos usar as forças das ervas pra acalmar o coração e trazer mais harmonia pra vocês dois.",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Acalma e intensifica o amor."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Traz clareza e afasta inseguranças."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aquece o coração, adicionando doçura aos momentos."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "camomila",
+      "descricao": "Suaviza tensões e promove a paz."
+    },
+    {
+      "nome": "jasmim",
+      "descricao": "Aumenta a conexão emocional."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e desliga o fogo.",
+    "Adiciona as pétalas de rosa, alecrim, canela, camomila e jasmim na água quente.",
+    "Deixa em infusão por 20 minutos, pensando no amor florescendo.",
+    "Coe, leva pro banho e derrama a mistura do pescoço pra baixo.",
+    "Imagina as brigas sendo levadas embora e a harmonia reinando."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Dia de Vênus, perfeito para o amor e harmonia.",
+  "lua": "Crescente",
+  "lua_desc": "Ideal pra atrair paz e mais amor.",
+  "dicas": [
+    "Usa roupas claras após o banho pra atrair energia positiva.",
+    "Evita discussões desnecessárias na semana do banho.",
+    "Acenda uma vela rosa enquanto mentaliza a paz entre vocês."
+  ],
+  "oracao": "Oh, força divina do amor e da paz, abençoe a união entre mim e meu parceiro. Que essa água leve embora as mágoas, as brigas e as inseguranças, trazendo de volta a harmonia e a compreensão. Que cada gota deste banho seja uma semente de amor plantada em nossos corações, onde floresça a confiança e o respeito. Que assim seja agora e sempre, fortalecendo nosso laço e iluminando nosso caminho juntos. Amém.",
+  "frase_final": "Deixa o amor e a paz guiarem o coração de vocês.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Taynara, esse banho vai trazer mais paz e amor pra vocês! Mas pra entender melhor as dinâmicas do teu relacionamento e ajustar o que tá fora dos trilhos, posso fazer um **Mapa do Amor** por só R$ 9,98. Te interessa dar uma olhada nos padrões e como fortalecer essa união? 💜",
+  "nome": "Taynara Ligia de Sousa",
+  "primeiroNome": "Taynara"
+}
