@@ -1,0 +1,52 @@
+{
+  "previa": "Ronaldo, vamos preparar um banho poderoso para atrair o amor da pessoa que você deseja. Com as ervas certas e a intenção no coração, esse caminho vai se abrir direitinho. Vem comigo que eu te explico como fazer!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Ronaldo, meu amigo, tô sentindo que você tá com um desejo forte no coração. Vamos focar essa energia e atrair esse amor que você tanto quer. Confia e segue o passo a passo, que as coisas vão fluir.",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Simbolizam o amor e abrem o coração para novas possibilidades."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Atrai o amor com seu calor e cheiro envolvente."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Traz clareza e renova as energias, deixando você mais atraente."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "manjericão",
+      "descricao": "Reforça a vibração do amor e da harmonia."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e acalma, preparando o espírito para o novo."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água.",
+    "Adicione as pétalas de rosa, canela e alecrim na água fervente.",
+    "Deixe em infusão por 15 minutos, pensando na pessoa que deseja atrair.",
+    "Coe o banho e leve para o banheiro.",
+    "Após seu banho higiênico, despeje a mistura do pescoço para baixo, mentalizando o amor entrando na sua vida."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Sexta é regida por Vênus, a deusa do amor.",
+  "lua": "Crescente",
+  "lua_desc": "A fase crescente é ideal para atrair e crescer novas relações.",
+  "dicas": [
+    "Use uma roupa clara após o banho para atrair boas energias.",
+    "Acenda uma vela rosa, com cuidado, enquanto toma o banho.",
+    "Mentalize um encontro feliz com a pessoa amada."
+  ],
+  "oracao": "Divino Criador, que o amor se manifeste em minha vida como esta água que flui e purifica. Que cada gota deste banho abra caminhos para que eu atraia o amor da pessoa que desejo. Que minhas intenções sejam claras e puras, e que o amor floresça em meu coração e na vida de quem eu quero bem. Assim como esta água corre, que o amor flua livremente entre nós, trazendo alegria e união. Que assim seja.",
+  "frase_final": "Confia, Ronaldo, que o amor tá vindo! 🌹",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Ronaldo, esse banho vai abrir o caminho para o amor. Mas pra você entender quem é o tipo certo pra ti, com quem tu combina de verdade, posso te fazer um Mapa do Amor por só R$ 9,98. Mostra os teus padrões e como atrair quem soma. Quer saber mais? 🌙",
+  "nome": "Ronaldo Silva de Sousa",
+  "primeiroNome": "Ronaldo"
+}
