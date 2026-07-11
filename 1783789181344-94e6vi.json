@@ -1,0 +1,52 @@
+{
+  "previa": "Lindamar, bora abrir os caminhos do teu salão? Esse banho vai atrair aquela clientela fiel que tu tanto merece. Prepara-te pra ver a magia acontecer no teu negócio!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi Lindamar, minha flor! Tô vendo que você tá querendo abrir os caminhos da prosperidade pro seu salão de beleza. Vamos dar uma ajudinha com esse banho poderoso pra atrair mais clientes e deixar todo mundo se sentindo em casa por lá.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Essa erva vai atrair o crescimento e o sucesso pro seu negócio."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Dá uma levantada na energia e atrai novas oportunidades."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Poderosa pra trazer dinheiro e clientes, aquece os caminhos da prosperidade."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Adiciona um frescor revitalizante que chama a atenção e traz alegria."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Estabiliza e fortalece suas intenções de prosperidade."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água.",
+    "Desligue o fogo e adicione as ervas principais e auxiliares.",
+    "Deixe a mistura descansar por 20 minutos, tampada.",
+    "Coe o líquido e leve pro banheiro.",
+    "Tome seu banho higiênico e depois jogue a mistura do pescoço pra baixo, mentalizando clientes vindo pro seu salão com sorriso no rosto."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Quinta-feira é regida por Júpiter, o planeta da expansão e prosperidade.",
+  "lua": "Crescente",
+  "lua_desc": "Essa lua é perfeita pra atrair e aumentar, puxando clientes e abundância pro seu salão.",
+  "dicas": [
+    "Coloque uma música relaxante e energética enquanto prepara o banho.",
+    "Visualize os clientes felizes e satisfeitos, compartilhando boas experiências.",
+    "Use uma peça de roupa amarela ou dourada após o banho, pra reforçar a vibração da prosperidade."
+  ],
+  "oracao": "Ó força poderosa da prosperidade, venho em busca de tua luz e de tua energia generosa. Que as águas deste banho levem para longe qualquer bloqueio, qualquer impedimento que me afaste da abundância que mereço. Que o meu salão de beleza se torne um imã para clientes maravilhosos, que sintam vontade de vir até mim, de encontrar em meus serviços o carinho e o acolhimento que procuram. Que as portas se abram, os caminhos se iluminem, e que a prosperidade entre e se estabeleça em meu negócio. Com gratidão e confiança, decreto que assim será.",
+  "frase_final": "Use a força da natureza pra atrair clientes, Lindamar!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Lindamar, esse banho vai destravar a prosperidade no teu salão 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Lindamar Fernandes",
+  "primeiroNome": "Lindamar"
+}
