@@ -1,0 +1,52 @@
+{
+  "previa": "Rúbia, tô sentindo que o coração tá batendo forte aí, né? Esse banho vai ajudar a abrir o caminho pro amor se soltar de vez. Vamos aquecer esse coração e deixar ele livre pra sentir.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Rúbia, minha flor, tô vendo que o coração tá cheio de sentimentos intensos. Vamos preparar um banho especial que aqueça esse relacionamento e ajude ele a se soltar e viver tudo que vocês têm aí, sem barreiras.",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Pro amor florescer com beleza e suavidade."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Para abrir os caminhos do coração, cheia de energia."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Atrai amor e proporciona aquele calorzinho gostoso."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e renova a energia do amor."
+    },
+    {
+      "nome": "jasmim",
+      "descricao": "Aumenta a conexão e o encanto entre vocês."
+    }
+  ],
+  "preparo": [
+    "Ferva 1 litro de água.",
+    "Despeje as ervas e deixe em infusão por 15 minutos.",
+    "Coe, mentalizando o amor fluindo livre entre vocês.",
+    "Espere amornar e, após seu banho habitual, derrame do pescoço para baixo.",
+    "Sinta o calor do amor aquecendo vocês, como um abraço apertado."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Vênus, o dia do amor e dos relacionamentos.",
+  "lua": "Crescente",
+  "lua_desc": "Pra atrair e crescer a entrega nesse amor.",
+  "dicas": [
+    "Use algo vermelho no dia do banho, cor do amor e da paixão.",
+    "Acenda uma vela rosa enquanto toma o banho, simbolizando amor e harmonia.",
+    "Ouça músicas que falam de amor e entrega, pra sintonizar a energia."
+  ],
+  "oracao": "Senhor, que o amor entre mim e [nome dele] seja forte e pleno. Que cada barreira e resistência sejam lavadas por esta água, permitindo que nos entreguemos sem medo e sem orgulho. Que o sentimento que nos une floresça e se expanda, livre de amarras e julgamentos. Peço que as incertezas e as dúvidas dissipem-se, deixando espaço apenas para a verdade do nosso amor. Assim como a água corre livre, que nossa conexão seja fluida, intensa e verdadeira. Amém.",
+  "frase_final": "Deixe o amor fluir sem medo, e ele se expandirá.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Rúbia, esse banho vai aquecer o coração dele, viu? Mas pra entender melhor os padrões de vocês e como fazer esse amor fluir mais livre, posso te fazer um **Mapa do Amor** por só R$ 9,98. Ele mostra o que mais conecta vocês e como fortalecer isso. Quer descobrir mais? 💜",
+  "nome": "Rúbia Ribeiro de Morais",
+  "primeiroNome": "Rúbia"
+}
