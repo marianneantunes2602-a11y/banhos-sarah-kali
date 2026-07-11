@@ -1,0 +1,52 @@
+{
+  "previa": "Maria, tô vendo que você quer abrir caminhos no trabalho e precisa daquela força extra pra dar o primeiro passo. Vamos preparar um banho especial pra isso!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Coragem",
+  "saudacao": "Maria, minha flor, vem cá. Você tá querendo abrir novos caminhos no trabalho e precisa de coragem pra se jogar no que ama, né? Vamos dar um empurrãozinho com um banho poderoso.",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Revigora e traz clareza mental, essencial pra você focar nos seus objetivos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Atrai boas energias e dá aquele empurrãozinho na coragem e prosperidade."
+    },
+    {
+      "nome": "sálvia",
+      "descricao": "Limpa as dúvidas e traz renovação de energia."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "cravo",
+      "descricao": "Aumenta a confiança e a determinação."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca a mente e dá aquele empurrão pra começar de novo."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e apaga o fogo.",
+    "Coloca as ervas principais e auxiliares na água, deixando em infusão.",
+    "Enquanto a água esfria, pense nos seus objetivos e visualize caminhos abertos.",
+    "Coe o banho e leve pro banheiro, usando do pescoço pra baixo.",
+    "Ao final, deixe as ervas na natureza, agradecendo pelo novo ciclo."
+  ],
+  "dia": "Terça",
+  "dia_desc": "Dia de Marte, ideal pra ação e coragem.",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita pra atrair novos começos e oportunidades.",
+  "dicas": [
+    "Visualize os clientes entrando no seu espaço de trabalho enquanto toma o banho.",
+    "Usa uma roupa com uma cor que te faça sentir poderosa depois do banho.",
+    "Mantenha um símbolo de coragem, como uma pedra ou talismã, com você após o banho."
+  ],
+  "oracao": "Eu, Maria, decreto que estou pronta para abrir novos caminhos na minha vida profissional. Que a força de Marte me guie com coragem e determinação. Que esta água leve embora todas as minhas dúvidas e inseguranças, abrindo espaço para o sucesso e a prosperidade. Que as energias da canela e do cravo me empurrem em direção ao trabalho que amo. Com a mente clara e o coração aberto, atraio clientes e oportunidades que me elevam. Que assim seja.",
+  "frase_final": "Vai lá e brilha no que você ama fazer!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Maria, esse banho vai te dar a coragem extra que você precisa. Mas pra saber as datas e oportunidades certas pros próximos meses, posso te fazer um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Maria do Carmo dos Santos Bica",
+  "primeiroNome": "Maria"
+}
