@@ -1,0 +1,52 @@
+{
+  "previa": "Janeza, esse banho é pra trazer o amor do teu marido de volta. Vamos usar a força das ervas pra acalmar as brigas e fortalecer o amor que ainda existe entre vocês.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Oi, Janeza! Olha só, tô vendo que a situação tá difícil com teu marido, mas o amor ainda tá aí, forte. Vamos preparar esse banho pra acalmar o coração e abrir o caminho pro amor voltar a brilhar entre vocês.",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Rosa é pra fortalecer o amor e trazer harmonia."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Atrai o amor e ainda dá uma aquecida na relação."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Ajuda a limpar as energias pesadas das brigas e revigorar o amor."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "manjericão",
+      "descricao": "Traz paz e harmonia para as relações."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Renova e refresca o amor que já existe."
+    }
+  ],
+  "preparo": [
+    "Colhe as ervas com carinho, pensando no amor que quer reatar.",
+    "Ferve 2 litros de água e, após desligar o fogo, adiciona as ervas.",
+    "Deixa em infusão até a água ficar morninha.",
+    "Coe o banho, sempre mentalizando o retorno do teu marido.",
+    "Após o banho de higiene, joga a mistura do pescoço pra baixo, focando no amor de vocês."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Vênus, o dia do amor e das relações.",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita pra atrair e fazer crescer o amor.",
+  "dicas": [
+    "Acende uma vela rosa enquanto toma o banho pra fortalecer a intenção.",
+    "Usa uma peça de roupa que ele gosta.",
+    "Mentaliza momentos bons que vocês já tiveram, trazendo essa energia pro presente."
+  ],
+  "oracao": "Amor, eu te chamo de volta, com a força das ervas e o poder da água que leva embora as mágoas e traz de volta o carinho. Reacende em nós o amor que já vivemos, limpando as brigas e trazendo paz ao nosso lar. Que o coração do meu amado se abra para mim novamente, e que caminhemos juntos, fortalecidos. Assim como a água corre para o mar, que o nosso amor encontre o caminho de volta, mais forte e pleno. Que assim seja, e assim será, pela força do amor verdadeiro.",
+  "frase_final": "Vai lá, fia, e traz o amor de volta com fé!",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Janeza, esse banho vai ajudar a trazer teu marido de volta. 💜 Mas pra entender melhor os padrões de vocês e como fortalecer essa relação, posso te fazer um **Mapa do Amor** por só R$ 9,98. Vai te mostrar como superar essa fase e atrair o amor de volta. Quer ver? 🌙",
+  "nome": "Janeza Maia Oliveira",
+  "primeiroNome": "Janeza"
+}
