@@ -1,0 +1,52 @@
+{
+  "previa": "Rayam, vamos abrir os caminhos da prosperidade pra você! Essas ervas vão te ajudar a atrair boas oportunidades e fortalecer a sua energia próspera. Presta atenção em cada etapa e faz com carinho. Bora lá?",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Rayam, minha flor, tô vendo que você quer fortalecer sua prosperidade. Isso é ótimo! Vamos abrir esses caminhos e atrair tudo de bom que o universo tem pra te oferecer. Confia no processo e segue direitinho!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai boas energias e fortuna."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Traz clareza mental e abre os caminhos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Poderosa para ativar a prosperidade."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "louro",
+      "descricao": "Símbolo de vitória e sucesso."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Adoça e atrai energias positivas."
+    }
+  ],
+  "preparo": [
+    "Ferve dois litros de água.",
+    "Desliga o fogo e adiciona as ervas principais e auxiliares.",
+    "Abafa por 15 minutos, enquanto mentaliza seus caminhos se abrindo.",
+    "Coe e, após seu banho higiênico, joga essa mistura do pescoço pra baixo.",
+    "Enquanto a água escorre, pensa nas oportunidades batendo à sua porta."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Faça o banho com foco total na sua intenção de prosperidade.",
+    "Visualize as oportunidades surgindo e você as abraçando.",
+    "Evite pensar em preocupações durante o preparo e o ritual."
+  ],
+  "oracao": "Eu, Rayam, decreto que sou merecedora de todas as bênçãos do universo. Que as águas deste banho lavem todas as minhas inseguranças e abram caminho para a prosperidade. Que eu tenha a clareza de Júpiter para reconhecer as oportunidades certas e a coragem para abraçá-las. Assim como esta água flui pelo meu corpo, que a abundância flua em minha vida. Eu aceito e recebo com gratidão tudo que o universo me oferece. Assim seja, assim é.",
+  "frase_final": "Vai lá, Rayam! Abre esses caminhos com toda força!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Rayam, esse banho vai abrir os caminhos da prosperidade 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Rayam dos Santos Mendonça",
+  "primeiroNome": "Rayam"
+}
