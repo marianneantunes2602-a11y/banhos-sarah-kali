@@ -1,0 +1,56 @@
+{
+  "previa": "Oi, Tamires! Sei que tá uma fase pesada, mas tenho um banho poderoso pra abrir teus caminhos e trazer leveza. Vamos juntas tirar esse peso e começar a ver a prosperidade aparecer na tua vida.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Tamires, minha flor, tô vendo que tu tá passando por um momento bem difícil. Mas vamos usar a força desse banho pra limpar o que não te serve mais e abrir os caminhos pra prosperidade entrar. Confia e vem comigo!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e purifica as energias pesadas."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o astral e traz foco para seguir adiante."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aquece o coração e atrai boas oportunidades financeiras."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Renova as energias e traz alegria de viver."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "louro",
+      "descricao": "Protege e atrai sucesso nos negócios."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Afasta energias ruins e traz sorte."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as ervas principais e deixe em infusão por 15 minutos.",
+    "Coe o banho e mentalize teus caminhos abertos para a prosperidade.",
+    "No banho, despeje a mistura do pescoço pra baixo com intenção de limpeza e abertura.",
+    "Depois, joga fora os restos das ervas num jardim, agradecendo a renovação."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Pensa nas oportunidades que pode criar com essa nova fase.",
+    "Mantenha uma peça de roupa clara ao usar o banho, simbolizando novos começos.",
+    "Evita lugares e pessoas que te puxam pra baixo, foca no que te faz bem."
+  ],
+  "oracao": "Deus poderoso, que a água leve embora toda dor e tristeza que habita em mim. Que as ervas sagradas atraiam para meus caminhos a prosperidade, a alegria e a renovação que tanto preciso. Que cada gota deste banho abra as portas para novas oportunidades e um futuro de abundância. Eu decreto que a prosperidade me encontra agora, assim como a serenidade e a força para superar este momento. Assim seja, assim será.",
+  "frase_final": "Vai lá e abre seus caminhos, minha flor!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Tamires, esse banho vai te ajudar a abrir os caminhos 🌿 Mas pra saber o que o próximo ano reserva pra ti, posso fazer um **Mapa Anual** por apenas R$ 9,98. Ele te mostra as melhores datas e oportunidades pra recomeçar. O que acha? 🌟",
+  "nome": "Tamires Lúcia Corrêa Carreira",
+  "primeiroNome": "Tamires"
+}
