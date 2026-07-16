@@ -1,0 +1,56 @@
+{
+  "previa": "Carina, tô vendo que as coisas tão empacadas, né? Vamos dar um jeito nisso com um banho poderoso pra abrir seus caminhos e trazer aquele ânimo de volta. Vamos lá!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Carina! Olha só, eu sei que tá difícil e que esse desânimo tá pesando, mas vamos mudar esse cenário. Vou te ensinar um banho que vai abrir seus caminhos e fazer a energia fluir, trazendo prosperidade de volta.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai boas energias e prosperidade, amiga."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o astral e limpa o ambiente ao teu redor."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Traz alegria e abre os caminhos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Atração de sucesso e dinheiro em abundância."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "cravo",
+      "descricao": "Afasta a negatividade e atrai riqueza."
+    },
+    {
+      "nome": "louro",
+      "descricao": "Símbolo de vitória e prosperidade."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as ervas e deixe em infusão por 15 minutos.",
+    "Coe o banho, mentalizando a prosperidade que deseja.",
+    "Durante o banho, jogue a mistura do pescoço para baixo.",
+    "Ao final, agradeça pela abertura dos seus caminhos."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Ao preparar o banho, mentalize seus caminhos se abrindo.",
+    "Acenda uma vela verde para intensificar o poder do banho.",
+    "Após o banho, use uma roupa clara para atrair boas energias."
+  ],
+  "oracao": "Eu, Carina, decreto que a prosperidade entra na minha vida agora. Que a água leve embora todo o desânimo e abra os caminhos que a vida me reserva. Com a força do manjericão e do alecrim, tudo que estava empacado, agora flui. A casca de laranja e a canela abrem os caminhos para o sucesso e a alegria. Que o cravo e o louro tragam a vitória sobre as dificuldades. Que cada gota desse banho seja uma onda de progresso e que a luz do universo ilumine meu caminho, afastando todo mal e trazendo oportunidade. Assim é, assim será.",
+  "frase_final": "A energia vai fluir, amiga, abre espaço pro novo.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Carina, esse banho vai destravar essa parada 🌿. Mas se quer saber as datas certas pros próximos meses, posso te preparar um Mapa Anual por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Carina Fernanda de Sousa",
+  "primeiroNome": "Carina"
+}
