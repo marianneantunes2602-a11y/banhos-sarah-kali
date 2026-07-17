@@ -1,0 +1,52 @@
+{
+  "previa": "Daniele, tô vendo que a proteção tá precisando de um reforço. Vamos preparar um banho poderoso pra afastar essas energias ruins e você se sentir segura em casa e no seu coração. Se liga nas ervas e no preparo pra garantir que tudo flua bem.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Minha flor, tô vendo aqui que você tá sentindo uma energia pesada quando vai dormir. Vamos botar um fim nisso e trazer paz pro seu lar. Esse banho vai te envolver numa camada forte de proteção.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "A arruda é excelente pra cortar energias negativas e proteger."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Neutraliza o peso e limpa a energia ao redor."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o astral e fortalece o campo energético."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Purifica o ambiente e traz frescor."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Revigora e afasta pensamentos ruins."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione a arruda, o sal grosso, o alecrim, o eucalipto e a hortelã na água quente.",
+    "Deixe em infusão por 20 minutos, com a panela tampada.",
+    "Coe o banho, levando os resíduos naturais para debaixo de uma árvore ou em um jardim.",
+    "Após o banho de higiene, despeje a mistura do pescoço para baixo, mentalizando proteção e segurança."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, ideal para limpeza profunda e proteção.",
+  "lua": "Minguante",
+  "lua_desc": "Ótima para cortar e afastar energias indesejadas.",
+  "dicas": [
+    "Antes de deitar, acenda uma vela branca pedindo proteção.",
+    "Mantenha um copo de água com sal grosso ao lado da cama para absorver energias ruins.",
+    "Evite filmes ou leituras pesadas à noite, pra não alimentar o medo."
+  ],
+  "oracao": "Com a força das águas e das ervas, eu decreto: toda energia que não me pertence é lavada, é levada, é dissipada. Peço ao universo que me envolva com um manto de proteção, que minha casa seja um templo de paz e que em cada canto habite a serenidade. Que pensamentos de luz substituam qualquer sombra. Guardiões da noite, zelai por mim enquanto durmo. Que assim seja, que assim se faça, que assim permaneça.",
+  "frase_final": "Sentiremos proteção intensa, trazendo paz ao teu espaço.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Daniele, esse banho vai blindar seu ambiente. Mas se quer ir mais fundo e entender de onde vem essa sensação, posso te preparar um **Mapa Astral** por apenas R$ 9,98. Ele revela o que tá escrito nas tuas estrelas sobre proteção. Que tal dar esse passo? 🌟",
+  "nome": "Daniele Cristina de Souza Silva",
+  "primeiroNome": "Daniele"
+}
