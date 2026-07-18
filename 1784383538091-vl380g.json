@@ -1,0 +1,52 @@
+{
+  "previa": "Márcia, vamos abrir seus caminhos pra prosperidade fluir e ajeitar sua casa de vez. Esse banho vai chamar o dinheiro que tá precisando pra colocar tudo em ordem, da lage à garagem!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Márcia! Tô vendo que sua casa tá precisando de uma boa reforma e que a grana tá curta, né? Vamos preparar um banho especial pra atrair a prosperidade e dar aquele up no seu lar.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e traz clareza pra decisões financeiras."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Revitaliza e abre os caminhos, chamando energias boas."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Potente pra atrair dinheiro e sucesso."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Levanta o astral e magnetiza boas oportunidades."
+    },
+    {
+      "nome": "louro",
+      "descricao": "Símbolo de vitória e conquista, vai trazer a solução que precisa."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as ervas principais e auxiliares na água quente.",
+    "Deixe em infusão por 15 minutos, mentalizando as melhorias na sua casa.",
+    "Coe o banho e leve para o chuveiro.",
+    "Após seu banho habitual, jogue essa água do pescoço pra baixo, sempre pensando na prosperidade entrando na sua vida."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Acenda uma vela verde pra chamar a energia do crescimento.",
+    "Coloque uma imagem de prosperidade na entrada da casa, como um ramo de alecrim.",
+    "Mantenha a casa organizada pra facilitar a entrada de boas energias."
+  ],
+  "oracao": "Ó Divina Providência, que os caminhos da prosperidade se abram diante de mim. Que a força das ervas e a energia da natureza me tragam os recursos que preciso para reformar meu lar. Que a água leve embora as dificuldades e que em seu lugar o fluxo de abundância se estabeleça. Eu decreto que a prosperidade é minha, hoje e sempre, assim seja.",
+  "frase_final": "Prosperidade fluindo, melhorias na sua casa chegando!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Márcia, o banho vai abrir os caminhos da prosperidade 🌿 Mas pra se planejar direitinho e aproveitar todas as oportunidades que vêm por aí, posso preparar um **Mapa Anual** por apenas R$ 9,98. Ele vai te mostrar as datas certas pra fazer essas reformas. O que acha? 💰",
+  "nome": "Márcia Mary takayama",
+  "primeiroNome": "Márcia"
+}
