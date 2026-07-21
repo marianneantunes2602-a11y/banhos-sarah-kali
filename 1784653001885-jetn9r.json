@@ -1,0 +1,52 @@
+{
+  "previa": "Gisleide, sinto que você precisa daqueles empurrões certeiros. Vamos abrir seus caminhos pro amor e trabalho? Vem comigo que esse banho é pra isso mesmo!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Abertura de Caminhos",
+  "saudacao": "Oi, Gisleide! Tô vendo que você tá buscando um avanço tanto no trabalho quanto no amor. Esse banho é pra destravar essas áreas e dar aquele up na sua vida.",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Revitaliza as energias ao seu redor, clareando seus caminhos."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai boas oportunidades e energias positivas."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aumenta o magnetismo pessoal e traz prosperidade."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "louro",
+      "descricao": "Facilita a realização de desejos."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Alegra o ambiente e atrai novas chances."
+    }
+  ],
+  "preparo": [
+    "Ferva 1 litro de água e desligue o fogo.",
+    "Adicione as ervas principais e auxiliares na água quente.",
+    "Deixe a infusão descansar por pelo menos 15 minutos, coberta.",
+    "Coe a mistura e leve para o banheiro.",
+    "Após seu banho normal, jogue a infusão do pescoço pra baixo, mentalizando um novo caminho se abrindo em sua vida profissional e amorosa."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Mentalize seus objetivos de forma clara durante o banho.",
+    "Use uma roupa clara após o banho para atrair boas energias.",
+    "Acenda uma vela branca depois do banho pra reforçar a energia de abertura."
+  ],
+  "oracao": "Divina Presença, que a água leve embora todos os obstáculos que me impedem de avançar no trabalho e no amor. Que a luz do crescimento e da prosperidade guiem meus passos.\n\nDesfaço agora qualquer energia que esteja bloqueando meu caminho. Eu decreto: sou merecedora de sucesso e amor, eles chegam até mim facilmente.\n\nQue as oportunidades de promoção no trabalho sejam claras e evidentes, e que o calor do afeto aqueça meu coração. Assim seja.",
+  "frase_final": "Vai lá e abre esses caminhos, Gisleide!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Gisleide, esse banho vai destravar essa parada nos seus caminhos. Mas se quer saber as datas certas pros próximos meses e as oportunidades que vêm por aí, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Gisleide de Farias Louzada",
+  "primeiroNome": "Gisleide"
+}
