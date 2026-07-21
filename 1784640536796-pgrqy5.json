@@ -1,0 +1,52 @@
+{
+  "previa": "Laudicelia, sinto que esse peso tá te puxando pra baixo. Vamos cuidar disso juntas com um banho poderoso de descarrego. A água vai levar tudo que não te serve mais embora e abrir caminho pras coisas fluírem melhor na tua vida.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Oi, Laudicelia! Presta atenção, amiga, tô vendo aqui que você anda sentindo um peso danado, né? Vamos preparar um banho de descarrego pra te ajudar a mandar embora essa energia negativa que tá te travando.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Essa erva é um escudo poderoso contra energias ruins."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "É como colocar uma barreira de proteção, limpando tudo que é pesado."
+    },
+    {
+      "nome": "eucalipto",
+      "descricao": "Renova e purifica, trazendo leveza até pro ar que você respira."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta a energia e traz clareza pra mente."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e alivia, deixando só o que é bom."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e desliga o fogo.",
+    "Coloca a arruda, sal grosso, eucalipto, alecrim e hortelã na água.",
+    "Deixa descansar por 30 minutos, enquanto mentaliza o que quer liberar.",
+    "Coe o banho e leva pro banheiro.",
+    "Após seu banho normal, joga o preparado do pescoço pra baixo, imaginando a água levando embora o peso."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Sábado é dia de Saturno, perfeito pra limpeza profunda e descarrego.",
+  "lua": "Minguante",
+  "lua_desc": "A lua minguante ajuda a cortar e eliminar tudo que não serve mais.",
+  "dicas": [
+    "Acende uma vela branca pra trazer paz enquanto faz o banho.",
+    "Deixa uma música suave tocando, pra harmonizar o ambiente.",
+    "Depois do banho, descarta as ervas longe de casa, num jardim ou terra."
+  ],
+  "oracao": "Senhor, que esta água leve embora toda a carga e peso que sinto em minha vida. Que cada gota que escorre pelo meu corpo seja capaz de dissolver as energias densas que me cercam. Que a força da natureza representada aqui por cada erva me proteja e me guie para um caminho mais leve. Eu decreto que esta limpeza abre espaço para novas oportunidades e uma sorte renovada em todas as áreas da minha vida. Assim seja.",
+  "frase_final": "Confia, Laudicelia, a transformação começa agora mesmo.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Laudicelia, esse banho vai aliviar o peso, amiga. Pra entender de onde vem essa falta de sorte e cortar pela raiz, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Quer ver o que tá escrito nas tuas estrelas? 🔮",
+  "nome": "Laudicelia de moura",
+  "primeiroNome": "Laudicelia"
+}
