@@ -1,0 +1,52 @@
+{
+  "previa": "Gilseleia, tô sentindo que você quer dar um empurrão nessas energias paradas, né? Vamos mexer com essas ervas boas pra abrir teus caminhos e trazer movimento pra tua vida. Prepara o coração, que a mudança vem!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Gilseleia! Tô vendo que as coisas andam meio paradas por aí. Vamos acordar essas energias e abrir teus caminhos com um banho poderoso. Confia nas ervas que escolhi, tá? Elas vão ajudar a trazer a movimentação que você precisa.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Ativa e atrai boas oportunidades, trazendo frescor e movimento."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Desperta as energias e dá aquele empurrão no que tá parado."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aquece e acelera, trazendo prosperidade e novas possibilidades."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Renova e traz alegria, abrindo espaço pro novo."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Estimula e protege, afastando estagnação."
+    }
+  ],
+  "preparo": [
+    "Ferve dois litros de água e desliga o fogo.",
+    "Acrescenta as ervas e tampe a panela, deixando em infusão por 15 minutos.",
+    "Coa tudo e leva o líquido pro banheiro.",
+    "Após seu banho normal, joga a mistura do pescoço pra baixo, mentalizando seus caminhos se abrindo.",
+    "Imagina a água levando embora a estagnação e trazendo novas oportunidades."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Dia de Júpiter, ótimo pra prosperidade e abertura de caminhos.",
+  "lua": "Crescente",
+  "lua_desc": "Ideal pra atrair novas energias e possibilidades.",
+  "dicas": [
+    "Usa uma roupa clara após o banho, pra atrair boas energias.",
+    "Escuta uma música alegre que te inspire enquanto prepara o banho.",
+    "Acende uma vela amarela pra potencializar a abertura de caminhos."
+  ],
+  "oracao": "Ó poderosas energias do universo, eu, Gilseleia, clamo pela força das ervas sagradas para abrir meus caminhos e trazer movimento à minha vida. Que esta água, carregada com a essência do manjericão, alecrim e canela, remova a estagnação e traga novas oportunidades. Que a prosperidade me encontre e que as barreiras sejam desfeitas, permitindo que a abundância flua livremente. Que a casca de laranja renove minhas esperanças e que o cravo proteja minha jornada. Eu decreto que os caminhos se abrem agora, e a mudança vem em meu favor. Assim é, assim será.",
+  "frase_final": "Confia, Gilseleia, que a mudança tá a caminho!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Gilseleia, esse banho vai dar aquela sacudida nas energias. Mas, pra saber as datas certas e oportunidades que vêm por aí, posso te fazer um **Mapa Anual** por R$ 9,98 só. Eu já te entrego o calendário do teu ano. Topa? 🌿",
+  "nome": "Gilseleia Paes Leme Xavier da Rocha",
+  "primeiroNome": "Gilseleia"
+}
