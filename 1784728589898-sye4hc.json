@@ -1,0 +1,52 @@
+{
+  "previa": "Camila, o amor tá meio emperrado, né? A gente vai dar um jeito nisso com um banho especial pra atrair o amor de volta. Vamos trazer esse sentimento de volta pro teu caminho e acalmar essa energia de ciúmes que tá no ar. Vamos lá, minha flor?",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Camila, vejo que a situação com teu ex tá te deixando aflita. Vamos usar esse banho pra acalmar os ânimos e trazer o amor de volta pro teu caminho. Confia no processo, tá bom?",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "Rosas são pra abrir o coração e atrair amor sincero."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai boas energias e traz harmonia pro relacionamento."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Revigora a energia do amor e traz clareza."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca os sentimentos e renova o ar."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Aquece o coração e atrai amor verdadeiro."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e desliga o fogo.",
+    "Adiciona as pétalas de rosa, manjericão, alecrim, hortelã e canela.",
+    "Deixa a mistura descansar por 15 minutos, respirando fundo e acalmando o coração.",
+    "Coa o banho e leva pro chuveiro.",
+    "Após tomar seu banho normal, joga a mistura do pescoço pra baixo, mentalizando amor e reconciliação."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Dia de Vênus, perfeito pra assuntos do coração e amor.",
+  "lua": "Crescente",
+  "lua_desc": "A Lua Crescente é ideal pra atrair e expandir amor.",
+  "dicas": [
+    "Escreve numa folha de papel o que deseja de positivo nesse relacionamento.",
+    "Acende uma vela rosa durante o banho, mentalizando harmonia.",
+    "Depois do banho, veste uma roupa clara e confortável."
+  ],
+  "oracao": "Eu, Camila, clamo às forças do amor para que limpem minha alma e renovem meu coração. Que o passado que nos afastou seja dissolvido na água que corre pelo meu corpo. Que a raiva e o ciúmes se transformem em compreensão e carinho. Que meu coração e o do meu amado sejam abertos, e que o amor genuíno possa fluir entre nós, trazendo paz e alegria. Que assim seja, e que o universo conspire para realizar esse desejo mais profundo.",
+  "frase_final": "Vai na fé, Camila, o amor vai encontrar você.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Camila, esse banho vai ajudar a aquecer o coração dele. Mas pra entender os padrões do teu amor e como melhorar essa relação, posso fazer um **Mapa do Amor** por só R$ 9,98. Ele te mostra como atrair e manter um amor que soma. Quer descobrir mais? 💜",
+  "nome": "Camila Carvalho bispo",
+  "primeiroNome": "Camila"
+}
