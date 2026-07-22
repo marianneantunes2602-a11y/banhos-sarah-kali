@@ -1,0 +1,52 @@
+{
+  "previa": "Elisabete, esse banho vai te ajudar a abrir caminhos e te dar aquela proteção boa. Vamos preparar algo especial pra ti enfrentar o dia no escritório com confiança e energia renovada.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção e Abertura de Caminhos",
+  "saudacao": "Oi, Elisabete! Vê só, amanhã é um dia importante, né? Tô aqui pra te ajudar a entrar nesse escritório com tudo, cheia de proteção e com os caminhos abertos, minha flor!",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Protege contra as energias ruins, limpa o que não é seu."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Revigora a mente e traz clareza, além de proteger."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai boas oportunidades e abre os caminhos."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "sal grosso",
+      "descricao": "Absorve as negatividades, deixa o campo leve."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e renova as energias, trazendo vitalidade."
+    }
+  ],
+  "preparo": [
+    "Coloca 2 litros de água para ferver e, quando estiver em ponto de fervura, desliga o fogo.",
+    "Adiciona as folhas de arruda, alecrim e manjericão na água quente, pensando nos teus objetivos.",
+    "Abafa a mistura por uns 15 minutos, deixa ela captar toda a energia das ervas.",
+    "Enquanto toma banho, joga o sal grosso nos pés e esfrega suavemente, mentalizando a limpeza.",
+    "Depois do banho, despeja a infusão do pescoço pra baixo, sentindo a energia te envolvendo."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, dia de banir e proteger.",
+  "lua": "Minguante",
+  "lua_desc": "Cortando o que não serve mais e protegendo.",
+  "dicas": [
+    "Veste uma peça de roupa clara amanhã, ajuda a refletir energia positiva.",
+    "Leva um cristal de quartzo branco no bolso, vai te dar mais proteção.",
+    "Antes de dormir, faz uma respiração profunda e mentaliza tua proteção."
+  ],
+  "oracao": "Eu invoco a força das águas e das ervas sagradas para abrir meus caminhos e me proteger. Que a arruda me envolva, afastando toda energia que não me pertence. Que o alecrim renove minha mente e proteja meu ser. Que o manjericão traga boas chances e oportunidades, abrindo as portas certas. Que o sal grosso leve embora qualquer peso que carreguei. Assim, amanhã, passo firme e segura no meu caminho, sentindo a leveza e proteção me guiando. Agradeço e confio, assim é.",
+  "frase_final": "Vai lá, Elisabete, e mostra a tua força!",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Elisabete, esse banho vai te proteger e abrir teus caminhos! 🌿 Pra entender melhor o que tá escrito nas tuas estrelas e como lidar com essas mudanças, posso te fazer um **Mapa Astral** por só R$ 9,98. Quer dar uma olhada mais fundo? 🔮",
+  "nome": "Elisabete Simiao dos Santos",
+  "primeiroNome": "Elisabete"
+}
