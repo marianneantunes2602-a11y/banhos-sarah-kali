@@ -1,0 +1,52 @@
+{
+  "previa": "Roseli, tô vendo que você tá querendo abrir caminhos e viver sozinha. Vamos preparar um banho poderoso pra te ajudar a seguir em frente e deixar pra trás aquilo que te prende.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Recomeço",
+  "saudacao": "Roseli, minha flor, sei que você tá buscando um recomeço na sua vida. Vamos preparar um banho pra abrir seus caminhos e trazer a liberdade que você tanto deseja. Vamos lá!",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Purifica e traz clareza de pensamentos."
+    },
+    {
+      "nome": "lavanda",
+      "descricao": "Acalma e ajuda a afastar energias indesejadas."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Revitaliza e abre os caminhos."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "sálvia",
+      "descricao": "Remove energias estagnadas e promove leveza."
+    },
+    {
+      "nome": "arruda",
+      "descricao": "Protege e afasta as más vibrações."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água.",
+    "Adiciona as ervas na água fervente e deixa em infusão por 15 minutos.",
+    "Coe e deixe amornar.",
+    "Durante o banho, jogue essa água do pescoço pra baixo, mentalizando seus caminhos se abrindo.",
+    "Joga o que sobrar na terra, agradecendo a liberdade."
+  ],
+  "dia": "Quarta",
+  "dia_desc": "Mercúrio é dia de mudanças e novos começos.",
+  "lua": "Crescente",
+  "lua_desc": "É o momento de atrair novas oportunidades e começar de novo.",
+  "dicas": [
+    "Evite contato visual direto com o marido após o banho.",
+    "Mantenha um diário para expressar seus sentimentos.",
+    "Tenha sempre algo de lavanda por perto para acalmar."
+  ],
+  "oracao": "Eu, Roseli, invoco as forças do universo para abrir meus caminhos e trazer a mudança que desejo. Que essa água leve embora tudo que não serve mais e abra espaço para a liberdade e felicidade que busco. Que meu coração se encha de coragem para seguir em frente e que a vida me traga tudo que preciso nesta nova jornada. Assim seja, assim se faça.",
+  "frase_final": "Vai em frente, Roseli, o novo tá te esperando!",
+  "upsell_produto": "Revolução Solar",
+  "upsell_mensagem": "Roseli, esse banho vai te ajudar a abrir os caminhos. Pra entender as transformações que tão vindo por aí, pode fazer a **Revolução Solar** por R$ 9,98. Ela te dá uma visão clara do teu próximo ano. Quer explorar essa nova fase? 🌟",
+  "nome": "Roseli batista sipriano",
+  "primeiroNome": "Roseli"
+}
