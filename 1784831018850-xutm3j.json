@@ -1,0 +1,52 @@
+{
+  "previa": "Talyta, amiga, tô vendo que precisas de um banho pra blindar teu coração. Essa parada de término pesa, mas vou te ajudar a se proteger e seguir em frente mais leve.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Oi, Talyta! Olha só, tua história bateu forte aqui, e sei que esse tempo depois do término pode ser pesado. Vamos cuidar de ti e erguer uma muralha de proteção ao teu redor, tá?",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Essa aqui é poderosa, limpa e repele energia ruim."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "É um escudo natural, tira as cargas pesadas do caminho."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Levanta o astral e traz clareza pra mente."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Renova e purifica o ambiente ao teu redor."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca a alma e traz paz interior."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e desliga o fogo.",
+    "Adiciona as ervas e deixa em infusão por 20 minutos.",
+    "Coa e leva o banho pro chuveiro.",
+    "Durante o banho, joga a mistura do pescoço pra baixo, mentalizando proteção.",
+    "Após o banho, acende uma vela branca e faz uma prece de proteção."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, ideal pra limpeza e proteção.",
+  "lua": "Minguante",
+  "lua_desc": "Fase de cortar o que não serve e proteger.",
+  "dicas": [
+    "Usa uma roupa branca após o banho pra renovar as energias.",
+    "Espalha sal grosso nos cantos da casa pra proteger o ambiente.",
+    "Coloca uma música que te acalme enquanto faz o banho."
+  ],
+  "oracao": "Minha proteção vem das forças do universo, como águas cristalinas que me cercam. Que toda energia negativa seja levada embora, que a luz divina fortaleça meu escudo interior. Fecho as portas para o mal e abro os braços para a paz. Que minha caminhada seja guardada e abençoada. Assim seja, assim já é.",
+  "frase_final": "Vai lá, Talyta, blinda teu coração e segue firme. 🌟",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Talyta, esse banho vai te proteger e limpar as energias. Se quiser entender de onde vem essas forças que te rodeiam e como lidar melhor com elas, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Topa ver o que o universo tem a dizer sobre ti? 🔮",
+  "nome": "Talyta Pontes Monteiro",
+  "primeiroNome": "Talyta"
+}
