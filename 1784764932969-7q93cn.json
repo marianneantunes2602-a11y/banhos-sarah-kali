@@ -1,0 +1,52 @@
+{
+  "previa": "Janaína, tô vendo que a tua vida financeira tá travada. Vamos liberar esses caminhos com um banho poderoso que vai fazer a energia fluir de novo. Confia, amiga!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Janaína, minha flor, tô aqui pra te ajudar a destravar esse caminho financeiro. Vamos usar a força das ervas certas pra abrir as portas que você tanto precisa. Vê só!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "O manjericão é mestre em atrair prosperidade e fortuna. Ele limpa o que tá bloqueando o fluxo."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "O alecrim renova as energias e traz clareza pra novas oportunidades."
+    },
+    {
+      "nome": "canela",
+      "descricao": "A canela aquece o caminho e magnetiza riqueza e sucesso."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Traz alegria e energia solar pra abrir novas portas."
+    },
+    {
+      "nome": "cravo",
+      "descricao": "Fortalece a segurança e atrai abundância."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e adicione as ervas principais.",
+    "Desligue o fogo e coloque as ervas auxiliares, tampando a panela.",
+    "Espere o banho amornar, coe e reserve.",
+    "Durante o banho, mentalize com firmeza os caminhos da prosperidade se abrindo.",
+    "No final, despeje a mistura do pescoço pra baixo, sentindo a energia se renovando."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Quinta é dia de Júpiter, ideal pra prosperidade e crescimento.",
+  "lua": "Crescente",
+  "lua_desc": "A Lua Crescente é perfeita pra atrair novas oportunidades e abundância.",
+  "dicas": [
+    "Queime uma vela amarela antes do banho pra potencializar.",
+    "Enquanto toma o banho, pense nas suas metas financeiras.",
+    "Evite pensar em problemas durante o ritual; foco na solução."
+  ],
+  "oracao": "Poderosa energia das águas, venham e levem tudo que bloqueia meu caminho para a abundância. Eu decreto que minha vida financeira está se abrindo para novas oportunidades e riquezas. Que todos os esforços sejam recompensados e que a prosperidade encontre morada em mim. Assim como a água flui livremente, que as bênçãos de prosperidade venham a meu encontro, fortalecendo a minha caminhada e trazendo os frutos que mereço. Eu agradeço e confio. Assim é.",
+  "frase_final": "Agora vai lá e abre esses caminhos, minha amiga!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Janaína, o banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Janaína Leonora André",
+  "primeiroNome": "Janaína"
+}
