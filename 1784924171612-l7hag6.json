@@ -1,0 +1,52 @@
+{
+  "previa": "Ana, tô vendo que você tá querendo abrir caminhos e trazer novas oportunidades pra sua vida. Esse banho é pra te ajudar a deixar o que tá travado fluir. Vai ser um renascimento, minha flor!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Ana, minha flor, entendi que você tá querendo abrir caminhos e trazer um novo frescor pra sua vida. Vamos preparar um banho especial pra ajudar a criar essa abertura e deixar as coisas fluírem pro lado certo.",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Traz clareza e renova as energias estagnadas."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Atrai prosperidade e movimenta a energia do dinheiro."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Abre os caminhos e atrai boas novas."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Traz alegria e energia positiva."
+    },
+    {
+      "nome": "louro",
+      "descricao": "Simboliza vitória e sucesso."
+    }
+  ],
+  "preparo": [
+    "Ferva 1 litro de água.",
+    "Desligue o fogo e adicione as ervas principais e auxiliares.",
+    "Deixe em infusão por 20 minutos, com o recipiente tampado.",
+    "Coe e leve o líquido para o chuveiro.",
+    "Após seu banho normal, jogue a infusão do pescoço pra baixo, mentalizando seus caminhos se abrindo."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair energia e novas oportunidades",
+  "dicas": [
+    "Use uma roupa clara após o banho para potencializar a energia de abertura.",
+    "Enquanto joga o banho, visualize portas se abrindo à sua frente.",
+    "Aproveite o momento para escrever num papel o que deseja atrair."
+  ],
+  "oracao": "Ó força divina que abre os caminhos, venho humildemente pedir que, através desta água, limpe os bloqueios que me impedem de avançar. Que cada gota desta infusão leve embora as energias estagnadas e traga novas oportunidades e realizações para minha vida. Decreta que minha jornada esteja repleta de novas possibilidades e que meu coração se encha de esperança e coragem para acolher o novo. Assim seja, assim se faz, e assim será, com toda a gratidão do meu ser.",
+  "frase_final": "A água leva embora o que não serve mais.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Ana, esse banho vai destravar essa parada 🌿 Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Ana",
+  "primeiroNome": "Ana"
+}
