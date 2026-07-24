@@ -1,0 +1,52 @@
+{
+  "previa": "Oi Ok! Tô vendo que você tá precisando de um empurrãozinho pra atrair aquele amor que você tanto espera, né? Vamos preparar um banho especial que vai abrir os caminhos do teu coração. 🌸",
+  "titulo": "Banho de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Minha flor, tô sentindo que seu coração tá desejando um amor verdadeiro. Vamos fazer esse banho de amor, pra atraí-lo com doçura e carinho. Prepare-se pra abrir espaço pro amor entrar na sua vida.",
+  "ervas_principais": [
+    {
+      "nome": "pétalas de rosa",
+      "descricao": "A rosa é rainha no amor, ela atrai ternura e paixão."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Alecrim é pra clarear a mente e abrir o coração."
+    },
+    {
+      "nome": "canela",
+      "descricao": "A canela esquenta e atrai desejo, além de ser doce."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "manjericão",
+      "descricao": "Manjericão traz harmonia e equilibra as energias amorosas."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Hortelã refresca e renova, pra deixar o amor fluir."
+    }
+  ],
+  "preparo": [
+    "Ferve 1 litro de água e coloca as ervas principais dentro.",
+    "Desliga o fogo e adiciona as ervas auxiliares, deixando em infusão por 10 minutos.",
+    "Coe a mistura com carinho, mentalizando a chegada do amor.",
+    "Após seu banho normal, derrame a mistura do pescoço pra baixo, sentindo cada gota.",
+    "Enquanto a água escorre, imagine o amor entrando na sua vida como sempre quis."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Regido por Vênus, dia ideal pro amor.",
+  "lua": "Crescente",
+  "lua_desc": "A lua crescente é ótima pra atrair e crescer sentimentos.",
+  "dicas": [
+    "Lembre-se de acender uma vela rosa durante o banho para intensificar o amor.",
+    "Use uma roupa na cor rosa ou vermelha após o banho.",
+    "Faça o banho com uma música suave de fundo que te inspire no amor."
+  ],
+  "oracao": "Divina força do amor, que eu me abra para receber todo afeto que o universo tem reservado pra mim. Que cada gota que toca meu corpo leve embora medos e inseguranças, abrindo espaço para um amor saudável e verdadeiro. Eu decreto, com fé e coração aberto, que estou pronta para acolher um parceiro(a) amoroso(a) em minha vida. Que o amor seja minha constante e que eu ofereça e receba carinho na mesma medida. Assim seja.",
+  "frase_final": "Agora é só abrir o coração. O amor vem!",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Ok, esse banho vai abrir o caminho 💜 Mas pra você entender quem é o tipo certo pra ti, com quem tu combina de verdade, posso te fazer um **Mapa do Amor** por só R$ 9,98. Mostra os teus padrões e como atrair quem soma. Quer saber mais? 🌙",
+  "nome": "Ok",
+  "primeiroNome": "Ok"
+}
