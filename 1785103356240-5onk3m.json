@@ -1,0 +1,56 @@
+{
+  "previa": "Ronaldo, tô vendo que as coisas no trabalho tão difíceis, amiga. Vamos cuidar disso com um banho pra abrir teus caminhos e te proteger de toda essa energia negativa. Essa perseguição vai acabar!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade e Proteção",
+  "saudacao": "Ronaldo, minha flor, tô vendo aqui que essa perseguição no trabalho não tá fácil. Vamos abrir teus caminhos e te blindar dessa energia ruim. Prepara esse banho com confiança.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai prosperidade e limpa a má energia."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Aumenta a proteção e afasta negatividade."
+    },
+    {
+      "nome": "arruda",
+      "descricao": "Protege contra mau-olhado e inveja."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Transmuta energias pesadas e purifica o ambiente."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "cravo",
+      "descricao": "Potencializa a proteção contra energias ruins."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Renova e revitaliza as energias ao redor."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e desliga o fogo.",
+    "Coloca as ervas principais e cobre a panela.",
+    "Deixa a infusão descansar por 20 minutos.",
+    "Coa o banho e leva pro chuveiro.",
+    "Vai derramando na cabeça e pedindo proteção no trabalho, Ronaldo."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair prosperidade e proteção",
+  "dicas": [
+    "Após o banho, veste uma roupa branca pra firmar a proteção.",
+    "Sempre que sentir o ambiente pesado, mentaliza as ervas te protegendo.",
+    "Evita discussões no trabalho por agora, mantém teu foco na tua paz."
+  ],
+  "oracao": "Divino Criador, hoje me coloco diante de Ti com a intenção de abrir meus caminhos e proteger meu ser. Que as águas que fluem sobre mim carreguem consigo tudo que é pesado, tudo que não me pertence, tudo que me persegue sem razão. Que o manjericão e o alecrim tragam a prosperidade e a proteção que tanto necessito. Que cada gota deste banho revitalize minha energia, me envolva com uma barreira de luz e amor, afastando todo mal. Que a arruda e o sal grosso dissolvam toda perseguição e inveja, levando embora com a água tudo que não me serve. Em luz e confiança, decreto minha liberdade e prosperidade. Assim é.",
+  "frase_final": "Vai lá, Ronaldo, e faz esse banho com fé.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Ronaldo, esse banho vai te proteger e abrir teus caminhos. Mas pra entender o que te espera nos próximos meses, posso te preparar um **Mapa Anual** por R$ 9,98 só. Te mostro as datas e oportunidades que vêm por aí. Topa? 🌿",
+  "nome": "Ronaldo Souza Costa",
+  "primeiroNome": "Ronaldo"
+}
