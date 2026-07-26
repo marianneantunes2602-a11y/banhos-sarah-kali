@@ -1,0 +1,52 @@
+{
+  "previa": "Ronaldo, essas dores nas costas parecem um peso acumulado. Vamos dar um jeito nisso com um banho de descarrego poderoso, pra te deixar leve e renovado.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Olha só, Ronaldo, tô vendo que essas dores nas costas já tão te incomodando faz tempo, né? Vamos cuidar disso com um banho especial de descarrego pra aliviar essa carga toda.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Poderosa pra afastar energias negativas e descarregar o corpo."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Revitaliza e traz clareza, ajudando a dissolver bloqueios."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Ótimo pra limpeza profunda, leva embora toda a negatividade."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Ajuda a aliviar tensões físicas e mentais."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca e renova o espírito, trazendo leveza."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e desliga o fogo.",
+    "Adiciona as ervas principais e espera 10 minutos.",
+    "Acrescenta as ervas auxiliares e abafa por mais 5 minutos.",
+    "Coa, leva pro banheiro e toma seu banho higiênico normal.",
+    "Do pescoço pra baixo, derrama a infusão pensando na água lavando todas essas dores embora."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, limpeza",
+  "lua": "Minguante",
+  "lua_desc": "Cortar",
+  "dicas": [
+    "Foca na intenção de aliviar as dores durante o banho.",
+    "Depois do banho, descansa um pouco e evita sobrecarga física.",
+    "Reforça a proteção da casa com incenso de arruda ou alecrim."
+  ],
+  "oracao": "Eu me coloco agora sob essa água que leva embora tudo que me pesa. Que as dores das minhas costas e toda energia que me trava sejam dissolvidas e removidas. Que a força da natureza limpe meu corpo físico e espiritual, trazendo leveza e bem-estar. A cada gota que escorre, sinto o alívio se instalando, a cura abrindo espaço. Assim me recomponho, renovado e protegido pela luz que me rodeia. Amém.",
+  "frase_final": "Banho feito, novas energias vão te envolver!",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Ronaldo, esse banho vai aliviar as tensões. Mas pra entender de onde vem essa dor e cortar a raiz, dá pra fazer um **Mapa Astral** por apenas R$ 9,98. Quer ver o que tá nas tuas estrelas? 🔮",
+  "nome": "Ronaldo Souza Costa",
+  "primeiroNome": "Ronaldo"
+}
