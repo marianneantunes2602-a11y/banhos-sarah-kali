@@ -1,0 +1,52 @@
+{
+  "previa": "Gilzete, tô vendo que você quer abrir espaço na sua vida pra amor e prosperidade. Vamos limpar esses caminhos agora, minha flor? Tenho um banho que vai te ajudar a dar esse primeiro passo. Vem conferir!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Limpeza",
+  "saudacao": "Oi, Gilzete! Presta atenção, amiga, porque o que você quer é essencial pra abrir novos caminhos. Esse banho é pra tirar o que tá travando e deixar o amor e a prosperidade entrarem, viu? Vamos nessa!",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "A arruda é poderosa pra limpar a energia pesada e afastar o que não serve mais."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "O sal grosso vai tirar qualquer energia negativa acumulada, lavando tudo de ruim."
+    },
+    {
+      "nome": "eucalipto",
+      "descricao": "Eucalipto traz frescor, renova o ar ao seu redor e abre os caminhos."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "alecrim",
+      "descricao": "Alecrim é ótimo para elevar a vibração e atrair coisas boas."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Hortelã dá aquele toque refrescante que renova e energiza o ambiente."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e, ao levantar fervura, desligue o fogo.",
+    "Adicione todas as ervas na água e abafe por 20 minutos.",
+    "Enquanto espera, mentalize seus caminhos se abrindo pro amor e prosperidade.",
+    "Coe o banho e, após seu banho higiênico, jogue do pescoço para baixo.",
+    "Deixe o corpo secar naturalmente e vista roupas claras."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, limpeza",
+  "lua": "Minguante",
+  "lua_desc": "Cortar",
+  "dicas": [
+    "Antes do banho, faça uma pequena meditação, focando no que deseja atrair.",
+    "Use uma peça de roupa nova ou limpa após o banho.",
+    "Acenda uma vela branca e deixe queimar até o final."
+  ],
+  "oracao": "Divina presença, que esta água leve embora tudo o que não me serve mais. Limpe meus caminhos, abra portas para o amor verdadeiro e traga prosperidade para minha vida. Que as ervas, com sua força e sabedoria, renovem minha energia. Que toda a negatividade seja cortada e o que é bom em mim floresça com intensidade. Abençoa cada passo meu, guiando-me para um caminho de luz e abundância. Gratidão por essa limpeza e por todas as bênçãos que estão por vir. Assim seja.",
+  "frase_final": "Banho poderoso pra abrir caminhos e atrair o bom!",
+  "upsell_produto": "Simpatia",
+  "upsell_mensagem": "Gilzete, esse banho vai dar uma bela limpada nas energias. Mas pra garantir que o amor e a prosperidade chegam de jeito, posso te preparar uma **Simpatia** personalizada por só R$ 9,98. Vai ajudar a firmar o que você quer atrair. Que tal dar esse passo a mais? 🌟",
+  "nome": "Gilzete Silva da Costa",
+  "primeiroNome": "Gilzete"
+}
