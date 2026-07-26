@@ -1,0 +1,52 @@
+{
+  "previa": "Marisete, tô vendo que a situação financeira tá apertada, né? Perdeu o emprego e as contas tão batendo na porta. Vamos te ajudar com um banho de prosperidade bem poderoso pra abrir os caminhos e trazer oportunidade financeira pra tua vida!",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Marisete. Olha só, eu sei que perder um emprego não é fácil e que as contas tão aí te pressionando. Vamos cuidar pra abrir os caminhos da prosperidade, tá? Esse banho vai te ajudar a atrair novas oportunidades e melhorar tua situação financeira.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai o dinheiro e traz fartura."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e abre caminhos."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Potencializa a prosperidade com seu poder de atração."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "louro",
+      "descricao": "Protege e traz sorte financeira."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Ilumina e atrai boas vibrações."
+    }
+  ],
+  "preparo": [
+    "Ferve 1 litro de água e desliga o fogo.",
+    "Adiciona manjericão, alecrim, canela, louro e casca de laranja na água.",
+    "Deixa a infusão descansar por 15 minutos.",
+    "Coa e leva a banho, jogando do pescoço pra baixo.",
+    "Mentaliza novas oportunidades de emprego e a maré de sorte chegando."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Dia de Júpiter, ideal para atrair prosperidade e crescimento.",
+  "lua": "Crescente",
+  "lua_desc": "Para atrair e expandir oportunidades financeiras.",
+  "dicas": [
+    "Acende uma vela amarela ou dourada depois do banho pra potencializar.",
+    "Escreve num papel teus objetivos financeiros e coloca debaixo do travesseiro.",
+    "Quando fizer o banho, mentaliza as contas sendo pagas e dinheiro entrando."
+  ],
+  "oracao": "Divina força do universo, eu, Marisete, clamo agora pela abertura dos meus caminhos financeiros. Que a água deste banho leve embora toda escassez e atraia a abundância que eu mereço. Que as portas se abram e as oportunidades de trabalho cheguem até mim, trazendo sucesso e prosperidade. Agradeço por todas as bênçãos que já chegam na minha vida. Assim é, assim será.",
+  "frase_final": "Prosperidade tá chegando, fia! Fé e foco nos teus objetivos.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Marisete, o banho vai destravar essa parada 🌿. Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Marisete machado de oliveira",
+  "primeiroNome": "Marisete"
+}
