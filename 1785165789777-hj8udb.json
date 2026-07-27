@@ -1,0 +1,52 @@
+{
+  "previa": "Quelen, tô vendo que a vida tá meio apagada, né? Vamos acender essa chama, flor! 🌿 Um banho de abertura de caminhos vai te ajudar a encontrar a energia que tá faltando.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Abertura de Caminhos",
+  "saudacao": "Quelen, amiga, tô vendo aqui que a energia tá meio travada, né? Mas calma que a gente resolve isso. Vamos trabalhar a tua autoestima e dar um empurrãozinho nos teus caminhos com esse banho especial.",
+  "ervas_principais": [
+    {
+      "nome": "alecrim",
+      "descricao": "Renova as energias e traz vitalidade."
+    },
+    {
+      "nome": "manjericão",
+      "descricao": "Abre os caminhos e atrai boas oportunidades."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Refresca a mente e traz clareza."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "canela",
+      "descricao": "Atraí prosperidade e dá aquele estímulo."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Levanta o astral e rejuvenesce as energias."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e desliga o fogo.",
+    "Adicione as ervas na água e deixe descansar por 15 minutos.",
+    "Coe o banho, mentalizando abertura e renovação.",
+    "Após o banho normal, jogue a mistura do pescoço pra baixo.",
+    "Visualize as oportunidades se abrindo na tua vida."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair novas oportunidades",
+  "dicas": [
+    "Enquanto prepara o banho, mentaliza o que quer abrir na tua vida.",
+    "Ouça uma música que levante teu astral enquanto joga o banho.",
+    "Acende uma vela amarela durante o banho, simbolizando a prosperidade."
+  ],
+  "oracao": "Divino Universo, perante esta água, decreto a abertura dos meus caminhos. Que cada gota leve embora o desânimo e traga de volta a minha energia e brilho. Que as oportunidades cheguem até mim, e que eu tenha a coragem e clareza para enxergá-las e agarrá-las. Que a autoestima seja renovada, e que o entusiasmo preencha meu ser. Abençoa-me com a força para seguir adiante e que toda negatividade seja lavada e levada. Assim eu determino e assim será.",
+  "frase_final": "Agora, vai lá e abre esses caminhos, amiga!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Quelen, esse banho vai te dar aquele empurrão 🌟 Mas se você quer saber quando as melhores oportunidades vão aparecer, posso te preparar um **Mapa Anual** por R$ 9,98 só. Ele te mostra as datas certeiras pra cada passo. Curiosa? 📅",
+  "nome": "Quelen Cristina da Silva Barcelos",
+  "primeiroNome": "Quelen"
+}
