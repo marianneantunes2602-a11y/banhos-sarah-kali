@@ -1,0 +1,52 @@
+{
+  "previa": "Anselmo, vamos fortalecer tua proteção com um banho poderoso. A saúde tá pedindo um cuidado extra e a gente vai cuidar disso com ervas certas.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Oi Anselmo, tô vendo que andaste passando por um probleminha de saúde. A gente vai dar um jeito de reforçar tua proteção com um banho poderoso pra te resguardar dessas energias ruins.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Grande protetora, afasta as energias negativas de perto."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Limpa e bloqueia qualquer carga negativa."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Purifica e eleva o espírito, trazendo proteção."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "eucalipto",
+      "descricao": "Revitaliza e protege, trazendo frescor e cura."
+    },
+    {
+      "nome": "hortelã",
+      "descricao": "Reforça a energia positiva, mantendo o ambiente seguro."
+    }
+  ],
+  "preparo": [
+    "Ferva 2 litros de água e desligue o fogo.",
+    "Adicione as ervas e deixe em infusão por 20 minutos.",
+    "Coe e reserve o líquido.",
+    "Durante o banho, jogue a mistura do pescoço para baixo, mentalizando proteção.",
+    "Enxugue de leve, mas deixe a pele absorver a energia das ervas."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, limpeza e proteção",
+  "lua": "Minguante",
+  "lua_desc": "Cortar energias negativas",
+  "dicas": [
+    "Mentaliza um escudo de luz ao teu redor enquanto toma o banho.",
+    "Evita conversas negativas no dia do banho, foca no positivo.",
+    "Usa uma roupa clara após o banho pra reforçar a proteção."
+  ],
+  "oracao": "Com a água que escorre sobre mim, eu sinto a proteção de cada folha e cada gota. Arruda, sal grosso e alecrim formam um escudo impenetrável, afastando toda energia que não pertence a mim. Eucalipto e hortelã, revigorem minha saúde e meu espírito, me blindando contra qualquer maldade ou doença. Que esta proteção seja constante e forte, assim como as raízes das árvores que se prendem à terra. Eu decreto que nenhum mal há de me alcançar, e que a saúde há de me acompanhar. Assim será, assim já é.",
+  "frase_final": "Proteção garantida, Anselmo. Agora é só confiar e sentir.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Anselmo, esse banho vai te resguardar muito bem. Mas pra entender de onde vem essas energias e reforçar tua defesa, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Ele vai te mostrar influências que você nem imaginava. Quer descobrir mais? 🌟",
+  "nome": "Anselmo Cristo",
+  "primeiroNome": "Anselmo"
+}
