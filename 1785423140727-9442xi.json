@@ -1,0 +1,52 @@
+{
+  "previa": "Anselmo, senti que você tá precisando de um escudo poderoso. Vamos preparar um banho de proteção que vai te envolver e afastar qualquer negatividade. 🌿",
+  "titulo": "Banho de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Anselmo, minha flor, tô vendo que você passou por um probleminha de saúde e agora quer se blindar das energias ruins. Presta atenção nesse banho poderoso que vai te proteger.",
+  "ervas_principais": [
+    {
+      "nome": "arruda",
+      "descricao": "Espanta tudo que não presta, é o escudo forte da natureza."
+    },
+    {
+      "nome": "sal grosso",
+      "descricao": "Limpa e protege, criando uma barreira contra negatividade."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Eleva a vibração e fortalece o espírito, te deixando firme."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "hortelã",
+      "descricao": "Renova a energia e traz frescor depois de dias pesados."
+    },
+    {
+      "nome": "eucalipto",
+      "descricao": "Abre os caminhos e purifica o ambiente ao redor."
+    }
+  ],
+  "preparo": [
+    "Ferva dois litros de água e desligue o fogo.",
+    "Adicione as ervas e deixe em infusão por 15 minutos.",
+    "Coe o banho, mentalizando um escudo protetor ao seu redor.",
+    "Depois do seu banho normal, jogue a mistura do pescoço para baixo.",
+    "Enquanto a água escorre, imagine-se envolta numa luz protetora."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Saturno, limpeza e fortalecer estruturas.",
+  "lua": "Minguante",
+  "lua_desc": "Cortar o que é negativo e proteger o campo energético.",
+  "dicas": [
+    "Acenda uma vela branca no banheiro enquanto toma o banho.",
+    "Coloque um copo de água com sal grosso ao lado da sua cama.",
+    "Use uma peça de roupa azul após o banho, cor da proteção."
+  ],
+  "oracao": "Eu, Anselmo, sou protegida pelas forças do universo. Que as ervas que me tocam levem embora toda a negatividade, toda a energia que não me pertence. Que a arruda, o sal grosso e o alecrim formem um escudo ao meu redor, me resguardando de qualquer mal. Que essa água sagrada purifique meu corpo e minha alma, fechando meu campo contra qualquer invasor. Eu decreto que estou segura, protegida e envolta na luz divina. Meu caminho é de paz e meu corpo, um templo de proteção. Assim é e assim será.",
+  "frase_final": "Fique firme, Anselmo. Proteção sempre ao seu lado.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Anselmo, esse banho vai te proteger de energias ruins. Mas se quer entender de onde vem essas ondas de saúde e proteção, posso te fazer um **Mapa Astral** por apenas R$ 9,98. Mostra o que tá nas suas estrelas e como se fortalecer. Quer saber o que ele diz? 🌟",
+  "nome": "Anselmo Cristo",
+  "primeiroNome": "Anselmo"
+}
