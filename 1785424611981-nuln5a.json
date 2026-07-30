@@ -1,0 +1,52 @@
+{
+  "previa": "Cinthia, o banho vai ajudar a abrir os caminhos pra prosperidade e fechar esses pacotes! Vamos resolver isso juntas.",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Cinthia, minha flor, tô vendo aqui que você tá precisando dar um empurrão na sua carreira, né? Vamos fazer esse banho pra fechar esses pacotes e mandar as dívidas embora. Confia no poder das ervas e manda ver!",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai o sucesso e a prosperidade como ninguém."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Traz clareza e energia positiva pra fechar negócios."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Conhecida por aumentar as vendas e atrair dinheiro."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "casca de laranja",
+      "descricao": "Adoça e traz sorte nos negócios."
+    },
+    {
+      "nome": "louro",
+      "descricao": "Símbolo de vitória, pra te dar aquele empurrão."
+    }
+  ],
+  "preparo": [
+    "Esquente 2 litros de água até começar a ferver.",
+    "Desligue o fogo e adicione as ervas principais e auxiliares.",
+    "Deixe a mistura em infusão, coberta, por 20 minutos.",
+    "Coe o banho mentalizando suas pacientes fechando os pacotes.",
+    "Após o banho de higiene, despeje a mistura do pescoço pra baixo."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Realize o banho em silêncio, centrada nos seus objetivos.",
+    "Acenda uma vela amarela enquanto toma o banho.",
+    "Após o banho, visualize o sucesso e feche os olhos por alguns minutos."
+  ],
+  "oracao": "Ó Poderoso Universo, hoje invoco a energia abundante da prosperidade. Que as águas que tocam meu corpo levem embora minhas limitações e abram caminho para o fluxo da abundância. Que minhas palavras, gestos e intenções sejam imãs para as oportunidades, e que meus pacotes sejam desejados e fechados. Que cada gota deste banho seja um convite para a sorte e o sucesso, trazendo para mim a realização dos meus sonhos e a tranquilidade financeira que tanto necessito. Assim seja, que a água leve minha prece e me devolva a prosperidade multiplicada.",
+  "frase_final": "Vai lá e fecha esses pacotes, minha flor!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Cinthia, esse banho vai destravar essa parada 🌿 Agora, se quer saber as datas certas pros próximos meses pra fechar mais pacotes, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Cinthia Martinelle de Oliveira",
+  "primeiroNome": "Cinthia"
+}
