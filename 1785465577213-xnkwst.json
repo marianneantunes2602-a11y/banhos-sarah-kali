@@ -1,0 +1,56 @@
+{
+  "previa": "Jailton, tô vendo que as dívidas estão pesadas e o dinheiro não fica nas tuas mãos. Vamos preparar um banho poderoso pra abrir os caminhos da prosperidade e mudar essa história! 🌿",
+  "titulo": "Banho de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Amigo Jailton, sei que a situação financeira tá complicada e o dinheiro parece escorregar, mas vamos ajeitar isso. Esse banho é pra abrir teus caminhos e segurar a grana nas tuas mãos.",
+  "ervas_principais": [
+    {
+      "nome": "manjericão",
+      "descricao": "Atrai sorte e prosperidade, deixa o caminho florido pro din din."
+    },
+    {
+      "nome": "alecrim",
+      "descricao": "Traz clareza e prosperidade, abre a mente pras novas oportunidades."
+    },
+    {
+      "nome": "canela",
+      "descricao": "Conhecida por atrair dinheiro e sucesso, é como um ímã."
+    },
+    {
+      "nome": "casca de laranja",
+      "descricao": "Renova energias, trazendo frescor e abrindo caminhos."
+    }
+  ],
+  "ervas_auxiliares": [
+    {
+      "nome": "cravo",
+      "descricao": "Amplifica a força das outras ervas e atrai prosperidade."
+    },
+    {
+      "nome": "louro",
+      "descricao": "Guarda o sucesso e a vitória no caminho."
+    }
+  ],
+  "preparo": [
+    "Ferve 2 litros de água e desliga o fogo.",
+    "Adiciona todas as ervas na água quente e abafa por 15 minutos.",
+    "Enquanto espera, mentaliza os caminhos se abrindo e as dívidas se resolvendo.",
+    "Coe e leva o banho pra chuveiro. Após o banho habitual, joga do pescoço pra baixo.",
+    "Deixa a água levar embora as dificuldades, sentindo a transformação."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Atrair",
+  "dicas": [
+    "Mentaliza a prosperidade enquanto prepara o banho.",
+    "Acenda uma vela verde para reforçar a intenção.",
+    "Afasta pensamentos negativos durante o ritual."
+  ],
+  "oracao": "Senhor da Abundância e da Prosperidade, eu me elevo agora com o poder deste banho. Que as águas sagradas levem embora todas as dificuldades financeiras e abram caminhos luminosos para o sucesso. Que cada gota que desce pelo meu corpo seja uma chave destrancando portas de oportunidades e fartura. Com gratidão, recebo a plenitude e a abundância que mereço. Que o fluxo do dinheiro seja constante e seguro em minhas mãos, e que eu possa usar com sabedoria e amor. Assim é e assim será.",
+  "frase_final": "Confia, a prosperidade já tá no seu caminho! 🌟",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Jailton, esse banho vai abrir os teus caminhos. Mas se quer saber as datas certas pros próximos meses, te preparo um **Mapa Anual** por R$ 9,98 só. Já te entrego o calendário do teu ano. Topa? 💰",
+  "nome": "Jailton lima silva",
+  "primeiroNome": "Jailton"
+}
